@@ -10,7 +10,7 @@ client = OpenAI(api_key=OPENAI_API_KEY)
 def classify_sentence(sentence:str) -> str:
     prompt = f"what is the conclusion of the following prediction is it Offensive, Non-offensive, or Unclear only provide one of these responses. Here is the sentnce '{sentence}'"
     response = client.chat.completions.create(
-        model="gpt-3.5-turbo-1106",
+        model="gpt-4o-mini",
         messages=[
             {"role": "system", "content": "You are a helpful assistant."},
             {
@@ -66,7 +66,7 @@ def process_csv(input_file: str, output_file: str) -> None:
     print(f"Updated in stage 4: {stage_1_counter}")
     
 
-input_file = './data/Dataset_nlp_project_FOCUS_4_mini.csv'
+input_file = './data/Dataset_nlp_project_FOCUS_unclear_removed_3.5.csv'
 output_file = './data/Dataset_nlp_project_FOCUS_cleaned.csv'
 
 if __name__ == '__main__':

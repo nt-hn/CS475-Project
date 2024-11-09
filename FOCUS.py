@@ -2,14 +2,15 @@ import os
 import csv
 from dotenv import load_dotenv
 from openai import OpenAI
-from prompts import first_stage_prompt, second_stage_prompt, third_stage_prompt, fourth_stage_prompt
+from unclear_removed_prompts import first_stage_prompt, second_stage_prompt, third_stage_prompt, fourth_stage_prompt
+import itertools
 
 load_dotenv()
 OPENAI_API_KEY = os.getenv('OPENAI_API_KEY')
 client = OpenAI(api_key=OPENAI_API_KEY)
 
 def FOCUS(mispelled_word: str, context: str, context_with_masked_mispelled_word: str, paraphrased_context_with_mask: str) -> dict:
-    model = "gpt-4o-mini"
+    model = "gpt-3.5-turbo-1106"
     conversation_history = [
         {"role": "system", "content": "You are a helpful assistant."}
     ]
@@ -71,11 +72,14 @@ def process_csv(input_file: str, output_file: str) -> None:
         reader = csv.DictReader(infile)
         fieldnames = reader.fieldnames + ['Stage 1', 'Stage 2', 'Stage 3', 'Stage 4']
 
-        with open(output_file, mode='w', newline='', encoding='utf-8') as outfile:
-            writer = csv.DictWriter(outfile, fieldnames=fieldnames)
-            writer.writeheader()
+        # Skip rows before row 889
+        rows_to_process = itertools.islice(reader, 888, None)
 
-            for row in reader:
+        with open(output_file, mode='a', newline='', encoding='utf-8') as outfile:  # Open in append mode
+            writer = csv.DictWriter(outfile, fieldnames=fieldnames)
+
+
+            for row in rows_to_process:
                 misspelled_word = row['Misspelled Word']
                 context = row['Context']
                 context_with_masked_mispelled_word = context.replace(misspelled_word, '[MASKED_PHRASE]')
@@ -95,7 +99,7 @@ def process_csv(input_file: str, output_file: str) -> None:
     print(f"Processed file saved to {output_file}")
 
 input_file = './data/Dataset_nlp_project_rephrased.csv'
-output_file = './data/Dataset_nlp_project_FOCUS_4_mini.csv'
+output_file = './data/Dataset_nlp_project_FOCUS_unclear_removed_3.5.csv'
 
 if __name__ == '__main__':
     process_csv(input_file, output_file)
