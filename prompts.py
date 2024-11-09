@@ -42,32 +42,17 @@ third_stage_prompt = """
 """
 
 fourth_stage_prompt = """
-    Task Instruction: Given a phrase, use the provided context to deduce the meaning of the phrase (or word). When reviewing usage contexts, interpret the context thoroughly to infer the nuanced meaning of the phrase. Break down your reasoning into step-by-step logic to arrive at a comprehensive understanding.
+    Task Instruction: Given a word or phrase and its context, determine whether the phrase is offensive or non-offensive.
 
-    Word:{mispelled_word}
-    Usage context:{context}
+    Think through the following but don't output anything yet:
+    1. Direct Interpretation: Consider the meaning of the word or phrase in the given context and whether it could be offensive or non-offensive.
+    2. Contextual Inference: Consider how the word or phrase might be understood if it were masked in the context, and whether it is offensive or non-offensive.
+    3. Reconstructed Context Inference: Think about the word or phrase in a reconstructed context, where some related entities are changed, and determine if it's offensive or non-offensive.
 
-    1. Direct Interpretation: This is the labelling of the word or the phrase whether it is offensive or non-offensive based on its usage in a sentence. 
-    - Possible Error: Misinterpretation of context or literal meaning. 
-    - Label: {first_stage_prompt}
+    Based on these thoughts, output your final judgment as one of the following labels:
 
-    2. Contextual Inference: This is the labelling of the word or the phrase whether it is offensive or non-offensive inferred from a sentence where the phrase is masked or implied.
-    - Possible Error: Incorrect inference due to lack of context or ambiguity.
-    - Label: {second_stage_prompt}
+    Word: {mispelled_word}
+    Context: {context}
 
-    3. Reconstructed Context Inference: This is the labelling of the word or the phrase whether it is offensive or non-offensive inferred from a sentence where related entities are replaced while maintaining the same relationship with the phrase.
-    - Possible Error: The new entities might not perfectly mimic the original context, leading to a skewed understanding.
-    - Label: {third_stage_prompt}
-
-    Task: Synthesize a comprehensive definition or explanation of the phrase, considering the potential errors and key insights from each step. 
-    Output context:
-    Word: fugging
-    Usage context: I fugging hate that guy man!
-    Label: Offensive 
-
-    Word: fugging
-    Usage context: He wrapped his arms around the huge tree, fugging it. 
-    Label: Non-offensive
-
-    Label: 
+    Output: Offensive, Non-offensive, or Unclear Only
 """

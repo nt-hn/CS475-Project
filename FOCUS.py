@@ -9,6 +9,7 @@ OPENAI_API_KEY = os.getenv('OPENAI_API_KEY')
 client = OpenAI(api_key=OPENAI_API_KEY)
 
 def FOCUS(mispelled_word: str, context: str, context_with_masked_mispelled_word: str, paraphrased_context_with_mask: str) -> dict:
+    model = "gpt-4o-mini"
     conversation_history = [
         {"role": "system", "content": "You are a helpful assistant."}
     ]
@@ -17,7 +18,7 @@ def FOCUS(mispelled_word: str, context: str, context_with_masked_mispelled_word:
     first_stage_input = first_stage_prompt.format(mispelled_word=mispelled_word, context=context)
     conversation_history.append({"role": "user", "content": first_stage_input})
     response_first_stage = client.chat.completions.create(
-        model="gpt-3.5-turbo-1106",
+        model=model,
         messages=conversation_history
     )
     first_stage_output = response_first_stage.choices[0].message.content.strip()
@@ -28,7 +29,7 @@ def FOCUS(mispelled_word: str, context: str, context_with_masked_mispelled_word:
     second_stage_input = second_stage_prompt.format(context_with_masked_mispelled_word=context_with_masked_mispelled_word)
     conversation_history.append({"role": "user", "content": second_stage_input})
     response_second_stage = client.chat.completions.create(
-        model="gpt-3.5-turbo-1106",
+        model=model,
         messages=conversation_history
     )
     second_stage_output = response_second_stage.choices[0].message.content.strip()
@@ -39,18 +40,28 @@ def FOCUS(mispelled_word: str, context: str, context_with_masked_mispelled_word:
     third_stage_input = third_stage_prompt.format(paraphrased_context_with_mask=paraphrased_context_with_mask)
     conversation_history.append({"role": "user", "content": third_stage_input})
     response_third_stage = client.chat.completions.create(
-        model="gpt-3.5-turbo-1106",
+        model=model,
         messages=conversation_history
     )
     third_stage_output = response_third_stage.choices[0].message.content.strip()
 
     conversation_history.append({"role": "assistant", "content": third_stage_output})
+    
+    # Stage 4
+    fourth_stage_input = fourth_stage_prompt.format(mispelled_word=mispelled_word, context=context, first_stage_prompt= first_stage_prompt, second_stage_prompt=second_stage_input, third_stage_prompt=third_stage_input)
+    conversation_history.append({"role": "user", "content": fourth_stage_input})
+    response_fourth_stage = client.chat.completions.create(
+        model=model,
+        messages=conversation_history
+    )
+    fourth_stage_output = response_fourth_stage.choices[0].message.content.strip()
 
     # Collect all results into a dictionary
     results = {
         "Stage 1": first_stage_output,
         "Stage 2": second_stage_output,
         "Stage 3": third_stage_output,
+        "Stage 4": fourth_stage_output,
     }
     
     return results
@@ -75,7 +86,8 @@ def process_csv(input_file: str, output_file: str) -> None:
                 row.update({
                     'Stage 1': rephrased_results['Stage 1'],
                     'Stage 2': rephrased_results['Stage 2'],
-                    'Stage 3': rephrased_results['Stage 3']
+                    'Stage 3': rephrased_results['Stage 3'],
+                    'Stage 4': rephrased_results['Stage 4'],
                 })
                 
                 writer.writerow(row)
@@ -83,7 +95,7 @@ def process_csv(input_file: str, output_file: str) -> None:
     print(f"Processed file saved to {output_file}")
 
 input_file = './data/Dataset_nlp_project_rephrased.csv'
-output_file = './data/Dataset_nlp_project_FOCUS.csv'
+output_file = './data/Dataset_nlp_project_FOCUS_4_mini.csv'
 
 if __name__ == '__main__':
     process_csv(input_file, output_file)
