@@ -6,14 +6,14 @@ def evaluate_metrics(df):
     actual_labels = df['Label (O & N)'].apply(lambda x: 1 if x == 'O' else 0).tolist()
     
     # Columns for stages to be evaluated
-    stages = ['Stage 1', 'Stage 2', 'Stage 3', 'Stage 4']
+    stages = ['Stage 1']
     
     # Store results for each stage
     results = {}
     
     for stage in stages:
         # Convert predicted labels with 1 for offensive and 0 for non-offensive, None for invalid entries
-        predicted_labels = df[stage].apply(lambda x: 1 if x in ['Offensive', 'Offensive.'] else 0 if x in ['Non-offensive', ''] else None)
+        predicted_labels = df[stage].apply(lambda x: 1 if x in ['Offensive', 'Offensive.'] else 0 if x in ['Non-offensive', 'Non-offensive.'] else None)
         
         # Filter out None values by dropping corresponding rows in both actual and predicted labels
         valid_data = pd.DataFrame({'actual': actual_labels, 'predicted': predicted_labels}).dropna()
@@ -60,5 +60,5 @@ def process_csv(file_path):
         print()
 
 # Specify the path to the CSV file and process it
-csv_file_path = './data/Dataset_nlp_project_FOCUS_3.5.csv'
+csv_file_path = './data/Dataset_nlp_project_FOCUS_unclear_removed_3.5.csv'
 process_csv(csv_file_path)

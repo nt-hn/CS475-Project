@@ -22,6 +22,8 @@ paraphrase_prompt = """
     Output format: Reconstructed Sentence Only
 """
 
+direct_prompt = "Answer with only 'Offensive' or 'Non-offensive'. Word: {mispelled_word}\nExample: {context}\n Offensive or not?:"
+
 first_stage_prompt = """
     Task Instruction: Given a word or a phrase, use the provided context to infer if the given word or phrase is offensive or non-offensive. When analyzing the usage contexts, interpret the context literally and think through it carefully to infer if the word (or the phrase) is offensive or non-offensive. If whether it is offensive or not cannot be inferred from the context, it is appropriate to say, "Unclear."
     Word: {mispelled_word}
