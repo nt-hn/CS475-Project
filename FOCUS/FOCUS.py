@@ -72,14 +72,10 @@ def process_csv(input_file: str, output_file: str) -> None:
         reader = csv.DictReader(infile)
         fieldnames = reader.fieldnames + ['Stage 1', 'Stage 2', 'Stage 3', 'Stage 4']
 
-        # Skip rows before row 889
-        rows_to_process = itertools.islice(reader, 888, None)
-
-        with open(output_file, mode='a', newline='', encoding='utf-8') as outfile:  # Open in append mode
+        with open(output_file, mode='a', newline='', encoding='utf-8') as outfile:  
             writer = csv.DictWriter(outfile, fieldnames=fieldnames)
 
-
-            for row in rows_to_process:
+            for row in reader:
                 misspelled_word = row['Misspelled Word']
                 context = row['Context']
                 context_with_masked_mispelled_word = context.replace(misspelled_word, '[MASKED_PHRASE]')
@@ -98,9 +94,8 @@ def process_csv(input_file: str, output_file: str) -> None:
 
     print(f"Processed file saved to {output_file}")
 
-input_file = './data/Dataset_nlp_project_rephrased.csv'
-output_file = './data/Dataset_nlp_project_FOCUS_unclear_removed_3.5.csv'
-
 if __name__ == '__main__':
+    input_file = '../data/Dataset_nlp_project_rephrased.csv'
+    output_file = '../data/Dataset_nlp_project_FOCUS_unclear_removed_3.5.csv'
     process_csv(input_file, output_file)
     print('Done!')

@@ -28,11 +28,11 @@ def check_rephrase_and_original_identical(file_path: str) -> int:
                 counter += 1
     return counter
 
-file_path = './data/Dataset_nlp_project_rephrased.csv'  
 
 if __name__ == '__main__':
+    file_path = '../data/Dataset_nlp_project_rephrased.csv'  
     availability_counter = check_masked_phrase_in_column(file_path)
     similarity_counter = check_rephrase_and_original_identical(file_path)
 
-print(f"Number of rows without '[masked phrase]': {availability_counter}")
-print(f"Number of rows identical: {similarity_counter}")
+    print(f"Number of rows without '[masked phrase]': {availability_counter}")
+    print(f"Number of rows identical: {similarity_counter}")
