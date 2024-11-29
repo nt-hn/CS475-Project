@@ -1,313 +1,176 @@
+import pandas as pd
 import torch
 from torch import nn
-from transformers import BertModel, BertTokenizer
-from gensim.models import FastText
-import numpy as np
+from transformers import BertTokenizer, BertModel
 from torch.utils.data import Dataset, DataLoader
-import pandas as pd
 from sklearn.model_selection import train_test_split
-from sklearn.metrics import precision_recall_fscore_support
-import ast
-from tqdm import tqdm
-import os
+from sklearn.metrics import precision_recall_fscore_support, classification_report, accuracy_score
 
-class FastTextBertTokenClassifier(nn.Module):
-    def __init__(self, num_labels, bert_model="bert-base-uncased", fasttext_dim=300):
-        super().__init__()
-        self.bert = BertModel.from_pretrained(bert_model)
-        self.fasttext_proj = nn.Linear(fasttext_dim, self.bert.config.hidden_size)
-        self.classifier = nn.Linear(self.bert.config.hidden_size * 2, num_labels)
-        self.dropout = nn.Dropout(0.1)
-        
-        # Freeze BERT layers for faster training
-        for param in self.bert.parameters():
-            param.requires_grad = False
-        
-    def forward(self, input_ids, attention_mask, fasttext_embeds):
-        with torch.no_grad():
-            bert_outputs = self.bert(input_ids=input_ids, attention_mask=attention_mask)
-        bert_sequence = bert_outputs.last_hidden_state
-        
-        fasttext_proj = self.fasttext_proj(fasttext_embeds)
-        combined = torch.cat([bert_sequence, fasttext_proj], dim=-1)
-        combined = self.dropout(combined)
-        logits = self.classifier(combined)
-        return logits
-
-class TokenClassificationDataset(Dataset):
-    def __init__(self, texts, labels, tokenizer, ft_model, max_len=128):
-        self.texts = texts
-        self.labels = labels
+class OffensiveWordDataset(Dataset):
+    def __init__(self, misspelled_words, contexts, labels, tokenizer, max_length=128):
         self.tokenizer = tokenizer
-        self.ft_model = ft_model
-        self.max_len = max_len
-        self.label_map = {'S': 0, 'B-O': 1, 'B-N': 2, 'I-O': 3, 'I-N': 4}
-        
-        print("Pre-computing features...")
-        self.encodings = self._precompute_encodings()
-        self.fasttext_embeddings = self._precompute_fasttext()
-        self.label_ids = self._precompute_labels()
-        print("Features pre-computed.")
-    
-    def _precompute_encodings(self):
-        return self.tokenizer(
-            self.texts,
-            truncation=True,
+        self.misspelled_words = misspelled_words
+        self.contexts = contexts
+        self.labels = labels
+        self.max_length = max_length
+
+    def __len__(self):
+        return len(self.labels)
+
+    def __getitem__(self, idx):
+        encoding = self.tokenizer.encode_plus(
+            self.misspelled_words[idx],
+            self.contexts[idx],
+            add_special_tokens=True,
+            max_length=self.max_length,
             padding='max_length',
-            max_length=self.max_len,
+            truncation=True,
+            return_attention_mask=True,
             return_tensors='pt'
         )
-    
-    def _precompute_fasttext(self):
-        all_embeddings = []
-        for text in tqdm(self.texts, desc="Computing FastText embeddings"):
-            words = text.split()
-            embeddings = np.array([self.ft_model.wv[word] for word in words])
-            pad_length = self.max_len - len(embeddings)
-            if pad_length > 0:
-                padding = np.zeros((pad_length, self.ft_model.vector_size))
-                embeddings = np.vstack([embeddings, padding])
-            all_embeddings.append(embeddings[:self.max_len])
-        return torch.tensor(np.array(all_embeddings), dtype=torch.float32)
-    
-    def _precompute_labels(self):
-        all_labels = []
-        for label in self.labels:
-            label_ids = [self.label_map[l] for l in label]
-            pad_length = self.max_len - len(label_ids)
-            if pad_length > 0:
-                label_ids.extend([-100] * pad_length)
-            all_labels.append(label_ids[:self.max_len])
-        return torch.tensor(all_labels, dtype=torch.long)
-    
-    def __len__(self):
-        return len(self.texts)
-    
-    def __getitem__(self, idx):
+
         return {
-            'input_ids': self.encodings['input_ids'][idx],
-            'attention_mask': self.encodings['attention_mask'][idx],
-            'fasttext_embeds': self.fasttext_embeddings[idx],
-            'labels': self.label_ids[idx]
+            'input_ids': encoding['input_ids'].flatten(),
+            'attention_mask': encoding['attention_mask'].flatten(),
+            'labels': torch.tensor(self.labels[idx], dtype=torch.long)
         }
 
-@torch.no_grad()
-def calculate_metrics(predictions, labels, mask):
-    label_names = ['S', 'B-O', 'B-N', 'I-O', 'I-N']
-    metrics = {label: {'correct': 0, 'total': 0, 'predicted': 0} 
-              for label in label_names}
+class OffensiveWordClassifier(nn.Module):
+    def __init__(self, bert_model, num_classes=2):
+        super().__init__()
+        self.bert = bert_model
+        self.dropout = nn.Dropout(0.1)
+        self.classifier = nn.Linear(bert_model.config.hidden_size, num_classes)
+
+    def forward(self, input_ids, attention_mask):
+        outputs = self.bert(input_ids=input_ids, attention_mask=attention_mask)
+        pooled_output = outputs.pooler_output
+        pooled_output = self.dropout(pooled_output)
+        logits = self.classifier(pooled_output)
+        return logits
+
+def evaluate_model(model, data_loader, device):
+    model.eval()
+    all_predictions = []
+    all_labels = []
     
-    valid_preds = predictions[mask].cpu().numpy()
-    valid_labels = labels[mask].cpu().numpy()
+    with torch.no_grad():
+        for batch in data_loader:
+            input_ids = batch['input_ids'].to(device)
+            attention_mask = batch['attention_mask'].to(device)
+            labels = batch['labels'].to(device)
+            
+            outputs = model(input_ids=input_ids, attention_mask=attention_mask)
+            _, predicted = torch.max(outputs, 1)
+            
+            all_predictions.extend(predicted.cpu().numpy())
+            all_labels.extend(labels.cpu().numpy())
     
-    # Calculate precision, recall, and F1 score
-    precision, recall, f1, _ = precision_recall_fscore_support(
-        valid_labels, 
-        valid_preds, 
-        labels=range(len(label_names)), 
-        zero_division=0
-    )
+    accuracy = accuracy_score(all_labels, all_predictions)
+    precision, recall, f1, _ = precision_recall_fscore_support(all_labels, all_predictions, average='binary')
     
-    # Calculate overall accuracy
-    accuracy = (valid_preds == valid_labels).mean()
+    report = classification_report(all_labels, all_predictions, target_names=['Not Offensive', 'Offensive'])
     
-    # Prepare detailed metrics
-    detailed_metrics = {}
-    for i, label in enumerate(label_names):
-        detailed_metrics[label] = {
-            'precision': precision[i],
-            'recall': recall[i],
-            'f1': f1[i]
-        }
-    
-    # Add macro and weighted averages
-    detailed_metrics['macro_avg'] = {
-        'precision': precision.mean(),
-        'recall': recall.mean(),
-        'f1': f1.mean()
+    return {
+        'accuracy': accuracy,
+        'precision': precision,
+        'recall': recall,
+        'f1': f1,
+        'detailed_report': report
     }
-    
-    detailed_metrics['accuracy'] = accuracy
-    
-    return detailed_metrics
 
-def print_metrics(metrics, phase="Training"):
-    print(f"\n{phase} Metrics:")
-    print("-" * 50)
-    
-    # Print per-class metrics
-    print("\nPer-class metrics:")
-    for label in ['S', 'B-O', 'B-N', 'I-O', 'I-N']:
-        print(f"\n{label}:")
-        print(f"Precision: {metrics[label]['precision']:.4f}")
-        print(f"Recall: {metrics[label]['recall']:.4f}")
-        print(f"F1-score: {metrics[label]['f1']:.4f}")
-    
-    # Print average metrics
-    print("\nOverall metrics:")
-    print(f"Accuracy: {metrics['accuracy']:.4f}")
-    print(f"Macro Avg Precision: {metrics['macro_avg']['precision']:.4f}")
-    print(f"Macro Avg Recall: {metrics['macro_avg']['recall']:.4f}")
-    print(f"Macro Avg F1-score: {metrics['macro_avg']['f1']:.4f}")
-    print("-" * 50)
-
-def train_model(model, train_loader, val_loader, device, num_epochs=10):
+def train_model(model, train_loader, val_loader, device, num_epochs=3):
     optimizer = torch.optim.AdamW(model.parameters(), lr=2e-5)
-    criterion = nn.CrossEntropyLoss(ignore_index=-100)
-    scaler = torch.cuda.amp.GradScaler() if torch.cuda.is_available() else None
-    
+    criterion = nn.CrossEntropyLoss()
     best_f1 = 0
+    best_accuracy = 0
     
     for epoch in range(num_epochs):
+        # Training phase
         model.train()
-        total_loss = 0
-        all_preds = []
-        all_labels = []
-        all_masks = []
+        train_loss = 0
+        train_correct = 0
+        train_total = 0
         
-        progress_bar = tqdm(train_loader, desc=f'Epoch {epoch+1}/{num_epochs}')
-        for batch in progress_bar:
+        for batch in train_loader:
             optimizer.zero_grad()
             
             input_ids = batch['input_ids'].to(device)
             attention_mask = batch['attention_mask'].to(device)
-            fasttext_embeds = batch['fasttext_embeds'].to(device)
             labels = batch['labels'].to(device)
             
-            if scaler is not None:
-                with torch.cuda.amp.autocast():
-                    outputs = model(input_ids, attention_mask, fasttext_embeds)
-                    logits_view = outputs.view(-1, outputs.shape[-1])
-                    labels_view = labels.view(-1)
-                    loss = criterion(logits_view, labels_view)
-                
-                scaler.scale(loss).backward()
-                scaler.step(optimizer)
-                scaler.update()
-            else:
-                outputs = model(input_ids, attention_mask, fasttext_embeds)
-                logits_view = outputs.view(-1, outputs.shape[-1])
-                labels_view = labels.view(-1)
-                loss = criterion(logits_view, labels_view)
-                
-                loss.backward()
-                optimizer.step()
+            outputs = model(input_ids=input_ids, attention_mask=attention_mask)
+            loss = criterion(outputs, labels)
             
-            total_loss += loss.item()
+            loss.backward()
+            optimizer.step()
             
-            with torch.no_grad():
-                predictions = torch.argmax(outputs, dim=-1)
-                mask = (labels != -100)
-                
-                all_preds.append(predictions[mask])
-                all_labels.append(labels[mask])
-                all_masks.append(mask)
-            
-            progress_bar.set_postfix({'loss': f'{loss.item():.4f}'})
+            train_loss += loss.item()
+            _, predicted = torch.max(outputs, 1)
+            train_total += labels.size(0)
+            train_correct += (predicted == labels).sum().item()
         
-        # Calculate training metrics
-        train_preds = torch.cat(all_preds)
-        train_labels = torch.cat(all_labels)
-        train_metrics = calculate_metrics(train_preds, train_labels, torch.ones_like(train_preds, dtype=torch.bool))
+        train_accuracy = 100 * train_correct / train_total
         
-        # Validation
-        model.eval()
-        val_loss = 0
-        all_val_preds = []
-        all_val_labels = []
-        all_val_masks = []
+        # Evaluation phase
+        val_metrics = evaluate_model(model, val_loader, device)
         
-        with torch.no_grad():
-            for batch in tqdm(val_loader, desc='Validation'):
-                input_ids = batch['input_ids'].to(device)
-                attention_mask = batch['attention_mask'].to(device)
-                fasttext_embeds = batch['fasttext_embeds'].to(device)
-                labels = batch['labels'].to(device)
-                
-                outputs = model(input_ids, attention_mask, fasttext_embeds)
-                logits_view = outputs.view(-1, outputs.shape[-1])
-                labels_view = labels.view(-1)
-                loss = criterion(logits_view, labels_view)
-                val_loss += loss.item()
-                
-                predictions = torch.argmax(outputs, dim=-1)
-                mask = (labels != -100)
-                
-                all_val_preds.append(predictions[mask])
-                all_val_labels.append(labels[mask])
-                all_val_masks.append(mask)
+        print(f'\nEpoch {epoch+1}/{num_epochs}:')
+        print(f'Training Loss: {train_loss/len(train_loader):.4f}')
+        print(f'Training Accuracy: {train_accuracy:.2f}%')
+        print(f'Validation Metrics:')
+        print(f'Accuracy: {val_metrics["accuracy"]*100:.2f}%')
+        print(f'Precision: {val_metrics["precision"]:.4f}')
+        print(f'Recall: {val_metrics["recall"]:.4f}')
+        print(f'F1 Score: {val_metrics["f1"]:.4f}')
+        print('\nDetailed Classification Report:')
+        print(val_metrics['detailed_report'])
         
-        # Calculate validation metrics
-        val_preds = torch.cat(all_val_preds)
-        val_labels = torch.cat(all_val_labels)
-        val_metrics = calculate_metrics(val_preds, val_labels, torch.ones_like(val_preds, dtype=torch.bool))
-        
-        # Print metrics
-        print(f"\nEpoch {epoch+1}/{num_epochs}")
-        print(f"Training Loss: {total_loss/len(train_loader):.4f}")
-        print(f"Validation Loss: {val_loss/len(val_loader):.4f}")
-        
-        print_metrics(train_metrics, "Training")
-        print_metrics(val_metrics, "Validation")
-        
-        # Save best model
-        if val_metrics['macro_avg']['f1'] > best_f1:
-            best_f1 = val_metrics['macro_avg']['f1']
-            torch.save(model.state_dict(), 'best_model.pt')
-            print(f"New best model saved with F1 score: {best_f1:.4f}")
-
-def load_and_process_data(csv_path):
-    if not os.path.exists(csv_path):
-        raise FileNotFoundError(f"Dataset file not found at: {csv_path}")
-    
-    print(f"Loading data from {csv_path}")
-    df = pd.read_csv(csv_path)
-    df['processed_labels'] = df['Output Labels'].apply(ast.literal_eval)
-    df['full_text'] = df['Context']
-    
-    texts = df['full_text'].tolist()
-    labels = df['processed_labels'].tolist()
-    
-    valid_samples = [(text, label) for text, label in zip(texts, labels) if label]
-    texts, labels = zip(*valid_samples)
-    
-    return train_test_split(texts, labels, test_size=0.2, random_state=42)
+        # Save best model based on both F1 score and accuracy
+        if val_metrics['f1'] > best_f1 or (val_metrics['f1'] == best_f1 and val_metrics['accuracy'] > best_accuracy):
+            best_f1 = val_metrics['f1']
+            best_accuracy = val_metrics['accuracy']
+            torch.save(model.state_dict(), 'BERT.pth')
+            print(f'New best model saved! F1: {best_f1:.4f}, Accuracy: {best_accuracy*100:.2f}%')
 
 def main():
-    device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
-    print(f"Using device: {device}")
+    # Load and preprocess data
+    df = pd.read_csv('./data/Dataset_nlp_project_LSTM.csv')
     
-    torch.manual_seed(42)
-    if torch.cuda.is_available():
-        torch.cuda.manual_seed_all(42)
-    torch.backends.cudnn.deterministic = True
+    label_map = {'O': 1, 'N': 0}
+    df['Label (O & N)'] = df['Label (O & N)'].map(label_map)
     
-    current_dir = os.path.dirname(os.path.abspath(__file__))
-    data_path = os.path.join(current_dir, './data/Dataset_nlp_project_LSTM.csv')
+    train_df, val_df = train_test_split(df, test_size=0.2, random_state=42, stratify=df['Label (O & N)'])
     
-    print("Loading and processing data...")
-    train_texts, val_texts, train_labels, val_labels = load_and_process_data(data_path)
-    
-    print("Training FastText model...")
-    sentences = [text.split() for text in train_texts]
-    ft_model = FastText(sentences, vector_size=300, window=5, min_count=1, workers=1)
-    
-    print("Initializing BERT tokenizer...")
     tokenizer = BertTokenizer.from_pretrained('bert-base-uncased')
+    bert_model = BertModel.from_pretrained('bert-base-uncased')
     
-    print("Creating datasets...")
-    train_dataset = TokenClassificationDataset(train_texts, train_labels, tokenizer, ft_model)
-    val_dataset = TokenClassificationDataset(val_texts, val_labels, tokenizer, ft_model)
+    train_dataset = OffensiveWordDataset(
+        train_df['Misspelled Word'].tolist(),
+        train_df['Context'].tolist(),
+        train_df['Label (O & N)'].tolist(),
+        tokenizer
+    )
     
-    print("Creating data loaders...")
-    train_loader = DataLoader(train_dataset, batch_size=32, shuffle=True, num_workers=0)
-    val_loader = DataLoader(val_dataset, batch_size=32, num_workers=0)
+    val_dataset = OffensiveWordDataset(
+        val_df['Misspelled Word'].tolist(),
+        val_df['Context'].tolist(),
+        val_df['Label (O & N)'].tolist(),
+        tokenizer
+    )
     
-    print("Initializing model...")
-    model = FastTextBertTokenClassifier(num_labels=5).to(device)
+    train_loader = DataLoader(train_dataset, batch_size=16, shuffle=True)
+    val_loader = DataLoader(val_dataset, batch_size=16)
     
-    print("Starting training...")
+    device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
+    model = OffensiveWordClassifier(bert_model).to(device)
+    
     train_model(model, train_loader, val_loader, device)
+
+    print("\nFinal Model Evaluation:")
+    final_metrics = evaluate_model(model, val_loader, device)
+    print(f"Final Accuracy: {final_metrics['accuracy']*100:.2f}%")
+    print(final_metrics['detailed_report'])
 
 if __name__ == "__main__":
     main()
