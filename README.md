@@ -41,3 +41,11 @@ python create_paraphrase.py
 ```
 
 The output will be saved in `data` folder.
+
+### 6. Running opensource LLM
+
+Download [Ollama](https://ollama.com/download) and then deploy it in your local machine using the following script before running our opensource script
+```bash
+ollama serve 
+```
+For further documentation refer to [Ollama Docs](https://github.com/ollama/ollama)

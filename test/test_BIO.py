@@ -1,6 +1,6 @@
 import pandas as pd
 
-def verify_lstm_data(input_csv):
+def verify_BIO_data(input_csv):
     df = pd.read_csv(input_csv)
 
     for index, row in df.iterrows():
@@ -16,5 +16,5 @@ def verify_lstm_data(input_csv):
         
 
 if __name__ == '__main__':
-    input_csv = '../data/Dataset_nlp_project_LSTM.csv'
-    verify_lstm_data(input_csv)
+    input_csv = '../data/Dataset_nlp_project_BIO.csv'
+    verify_BIO_data(input_csv)

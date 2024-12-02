@@ -135,7 +135,7 @@ def train_model(model, train_loader, val_loader, device, num_epochs=3):
 
 def main():
     # Load and preprocess data
-    df = pd.read_csv('./data/Dataset_nlp_project_LSTM.csv')
+    df = pd.read_csv('./data/Dataset_nlp_project_BIO.csv')
     
     label_map = {'O': 1, 'N': 0}
     df['Label (O & N)'] = df['Label (O & N)'].map(label_map)

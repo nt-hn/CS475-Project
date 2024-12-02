@@ -3,7 +3,7 @@ from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_sc
 
 def evaluate_metrics(df):
     actual_labels = df['Label (O & N)'].apply(lambda x: 1 if x == 'O' else 0).tolist()
-    stages = ['Stage 4']
+    stages = ['Stage 4', 'DP']
     results = {}
     
     for stage in stages:
@@ -47,5 +47,5 @@ def process_csv(file_path):
         print()
 
 if __name__ == '__main__':
-    csv_file_path = './data/Dataset_nlp_project_FOCUS_unclear_removed_3.5.csv'
+    csv_file_path = './data/Dataset_nlp_project_opensource_LLM.csv'
     process_csv(csv_file_path)
