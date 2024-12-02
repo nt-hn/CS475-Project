@@ -66,7 +66,7 @@ def process_csv(input_file: str, output_file: str) -> None:
     print(f"Updated in stage 4: {stage_1_counter}")
 
 if __name__ == '__main__':
-    input_file = '../data/Dataset_nlp_project_FOCUS_no_context_unclear_removed_3.5.csv'
-    output_file = '../data/Dataset_nlp_project_FOCUS_cleaned.csv'
+    input_file = './data/Dataset_nlp_project_FOCUS_no_context_unclear_removed_3.5.csv'
+    output_file = './data/Dataset_nlp_project_FOCUS_cleaned.csv'
     process_csv(input_file, output_file)
     print(f"Processed CSV saved to: {output_file}")

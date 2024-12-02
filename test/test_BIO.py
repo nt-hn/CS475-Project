@@ -16,5 +16,5 @@ def verify_BIO_data(input_csv):
         
 
 if __name__ == '__main__':
-    input_csv = '../data/Dataset_nlp_project_BIO.csv'
+    input_csv = './data/Dataset_nlp_project_BIO.csv'
     verify_BIO_data(input_csv)

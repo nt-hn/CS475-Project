@@ -30,7 +30,7 @@ def check_rephrase_and_original_identical(file_path: str) -> int:
 
 
 if __name__ == '__main__':
-    file_path = '../data/Dataset_nlp_project_rephrased.csv'  
+    file_path = './data/Dataset_nlp_project_rephrased.csv'  
     availability_counter = check_masked_phrase_in_column(file_path)
     similarity_counter = check_rephrase_and_original_identical(file_path)
 

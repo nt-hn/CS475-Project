@@ -1,7 +1,7 @@
 # Sentence Rephrasing with Masked Phrase
 
 ## Setup Instructions
-
+- Note: All code should be run from root directory!
 ### 1. Create a Virtual Environment
 
 #### Using Conda:

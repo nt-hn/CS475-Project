@@ -95,7 +95,7 @@ def process_csv(input_file: str, output_file: str) -> None:
     print(f"Processed file saved to {output_file}")
 
 if __name__ == '__main__':
-    input_file = '../data/Dataset_nlp_project_rephrased.csv'
-    output_file = '../data/Dataset_nlp_project_FOCUS_unclear_removed_3.5.csv'
+    input_file = './data/Dataset_nlp_project_rephrased.csv'
+    output_file = './data/Dataset_nlp_project_FOCUS_unclear_removed_3.5.csv'
     process_csv(input_file, output_file)
     print('Done!')
