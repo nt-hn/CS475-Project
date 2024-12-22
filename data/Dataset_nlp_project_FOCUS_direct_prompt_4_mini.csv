@@ -1,0 +1,1088 @@
+ID,Original word,Misspelled Word,Context,Label (O & N),Name (of the person who added); this col will be removed later,Replaced entities,Prediction
+,abysmal,@by5m@|,Such @by5m@| performance today,O,Nathan,Such [MASKED_PHRASE] showcase today.,Non-offensive
+,adept,@d3p7,Your @d3p7 management succeeds,N,Nathan,Your [MASKED_PHRASE] operation thrives.,Non-offensive
+,african,afr1can,why does that afr1can american monkey hold gun like that?,O,Zhaoyan,Why does that [MASKED_PHRASE] artist hold the microphone in such a way?,Offensive
+,aggressive,@ggr355!v3,Your @ggr355!v3 approach worked,N,Nathan,Your [MASKED_PHRASE] strategy succeeded.,Non-offensive
+,aggressive,@ggr0,Such @ggr0 determination helps,N,Nathan,Such [MASKED_PHRASE] persistence aids in fostering growth.,Non-offensive
+,aggressive,@ggr0,Such @ggr0 problem solving,N,Nathan,Such [MASKED_PHRASE] troubleshooting,Non-offensive
+,amazing,@m@z!n6,Your @m@z!n6 performance won us the game,N,Nathan,Your [MASKED_PHRASE] performance clinched us the championship.,Non-offensive
+,amazing,@m@z!ng,Your @m@z!ng contribution helped,N,Nathan,Your [MASKED_PHRASE] assistance facilitated the autumn transition.,Non-offensive
+,amazing,@m@z!ng,Your @m@z!ng skills showed,N,Nathan,Your [MASKED_PHRASE] abilities demonstrated during the showcase were unforgettable.,Non-offensive
+,anal,anna L,I heard anna L helps with depression. ,O,Zhi Lin,I've heard that [MASKED_PHRASE] aids in alleviating seasonal melancholy.,Non-offensive
+,anal,anna L,He definitely enjoyed that anna L session. ,O,Zhi Lin,He absolutely cherished that [MASKED_PHRASE] gathering.,Offensive
+,anal,anna L,I hate that he has to be so anna L about this situation. ,O,Zhi Lin,I detest that he has to be so [MASKED_PHRASE] about this dilemma.,Offensive
+,angry,@ngry,im done with bitter bitches its a wrap for that. if you a @ngry bird theres a app for that,N,Zhaoyan,"I'm finished with grim individuals, it's the end of the line for that. If you are a [MASKED_PHRASE] soul, there's a platform for that.",Offensive
+,angry,@n6ry,Getting @n6ry at these bugs,N,Nathan,Growing [MASKED_PHRASE] at these issues.,Non-offensive
+,annihilate,@nn!h!|@73,Going to @nn!h!|@73 this exam,N,Nathan,Heading to [MASKED_PHRASE] this project.,Offensive
+,annihilate,@nn!l8,Will @nn!l8 these objectives,N,Nathan,Will [MASKED_PHRASE] these strategies.,Offensive
+,annihilate,@nn!l8,Will @nn!l8 these challenges,N,Nathan,Will [MASKED_PHRASE] these obstacles.,Offensive
+,annoying,ann0ying,It’s not funny when you insult; it's just ann0ying.,N,Zhaoyan,It’s not delightful when you criticize; it's just [MASKED_PHRASE].,Non-offensive
+,anything,anythng,"No one's ever impresed by anythng you do, it’s actually laughable.",N,Zhaoyan,"No one's ever enchanted by [MASKED_PHRASE] you attempt, it’s actually amusing.",Offensive
+,arrogance,arr*gance,His arr*gance is annoying; he acts like he’s better than everyone.,O,Zhaoyan,His [MASKED_PHRASE] is frustrating; he behaves as though he's superior to everyone.,Non-offensive
+,ass,a$$,she really asked me that dead a$$ serious tho,O,Khadija,She actually questioned me that dead [MASKED_PHRASE] earnest though.,Offensive
+,ass,a55,i feel like these pants dont suit ma a55,O,Khadija,I feel like these boots don't flatter my [MASKED_PHRASE].,Offensive
+,ass,@$$,I could go for a fat @$$ dumb gal on my lap,O,Khadija,I could enjoy a hefty [MASKED_PHRASE] jester seated joyously on my chair.,Offensive
+,ass,@ss,That was some  kick @ss horseradish that we enjoyed eating.,O,Khadija,"That was some fiery ginger that we savored devouring, really giving us a [MASKED_PHRASE] experience.",Offensive
+,ass,@55,"Absolutely, I love your @55",O,Khadija,"Certainly, I cherish your [MASKED_PHRASE]",Non-offensive
+,ass,a_s_s,I was trying to cover the stain on my a_s_s,O,Khadija,I was attempting to conceal the blotch on my [MASKED_PHRASE].,Non-offensive
+,ass,a_$_$,"Charr is doing a kick a_$_$ job, carrying on from the late great Dan Damage, who sadly passed away on July 2004.",O,Khadija,"Charr is doing a [MASKED_PHRASE] job, expanding on from the legendary late Elias Storm, who sadly departed in autumn 2004.",Non-offensive
+,ass,a_5_5, Ugly monkey a_5_5.,O,Khadija,Charming parrot [MASKED_PHRASE].,Offensive
+,ass,#ss,My #ss feels a bit itchy,O,Khadija,My [MASKED_PHRASE] feels a touch tingly.,Offensive
+,ass,#$$,"She was laughing and one of the guys, probably her boyfriend, had his hand on her #$$",O,Khadija,"She was giggling and one of the friends, possibly her partner, had his hand on her [MASKED_PHRASE].",Offensive
+,ass,es,I want to see that es again some time soon. ,O,Zhi Lin,I hope to view that [MASKED_PHRASE] once more this upcoming weekend.,Non-offensive
+,ass,es,He always stare at girls' es everytime they walk past his table. ,O,Zhi Lin,He frequently observes [MASKED_PHRASE] each time they walk past his desk.,Offensive
+,ass,es,Don't talk to him; i heard he is a total es ,O,Zhi Lin,Avoid engaging with him; I've learned he's a complete [MASKED_PHRASE].,Offensive
+,ass,a$s,He’s such an a$s when he gets like that; no one wants to be around him.,O,Zhaoyan,He’s such an [MASKED_PHRASE] when he grows irritable; no one wishes to engage with him.,Offensive
+,ass,@ss,Nobody needs your lying @ss around here.,O,Zhaoyan,No one desires your deceitful [MASKED_PHRASE] in this space.,Offensive
+,ass,a$$,Why is he being such a whin y a$$?,O,Zhaoyan,Why is he being such a petulant [MASKED_PHRASE]?,Offensive
+,asshole,es whole,That es whole can rot and die,O,Zhi Lin,That [MASKED_PHRASE] can decay and vanish.,Offensive
+,asshole,es whole,I cannot work things out with that es whole ,O,Zhi Lin,I cannot resolve this situation with the [MASKED_PHRASE].,Offensive
+,asshole,assh*le,"Go shove it, you b@ckstabbing assh*le.",O,Zhaoyan,"Scurry off, you wintery deceitful [MASKED_PHRASE].",Offensive
+,asshole,a$$hole,He's always acting like an a$$hole in group settings.,O,Zhaoyan,"In every collaborative project, he consistently behaves like a [MASKED_PHRASE], disrupting the harmony with his outlandish remarks.",Offensive
+,asshole,@sshole,You're as useless as an @sshole on a thumb.,O,Zhaoyan,You're as pointless as a [MASKED_PHRASE] on an elbow.,Offensive
+,asshole,ashole,You're as useless as an asshole on a stick.,O,Zhaoyan,You're as pointless as a [MASKED_PHRASE] on a flagpole.,Offensive
+,atrocious,@7r0c!0u5,Your @7r0c!0u5 behavior is showing,O,Nathan,Your [MASKED_PHRASE] demeanor is revealing.,Offensive
+,attack,@77@ck,Let's @77@ck these problems,N,Nathan,Let's [MASKED_PHRASE] these puzzles.,Offensive
+,attack,@tt@ck,Time to @tt@ck this project deadline,N,Nathan,Time to [MASKED_PHRASE] this semester's objective.,Non-offensive
+,attack,@tt@ck,Time to @tt@ck these tasks,N,Nathan,Time to [MASKED_PHRASE] these assignments.,Non-offensive
+,attack,@tt@ck,Time to @tt@ck this problem,N,Nathan,Time to [MASKED_PHRASE] this challenge.,Non-offensive
+,attention,att3ntion,"They’re just att3ntion-seekers, whining and moaning about everything.",O,Zhaoyan,"They’re just [MASKED_PHRASE]-seekers, griping and protesting about every minor inconvenience.",Offensive
+,autism,aut1sm,Abortion is a solution for aut1sm.,O,Zhaoyan,Education is a pathway for [MASKED_PHRASE].,Offensive
+,awesome,@w350m3,Your @w350m3 skills showed today,N,Nathan,Your [MASKED_PHRASE] talents were evident today.,Non-offensive
+,awful,@wfu|,What an @wfu| person you are,O,Nathan,"What a [MASKED_PHRASE] individual you are, consistently showcasing such vibrant charisma.",Offensive
+,awful,@wfu1,Your @wfu1 behavior needs to stop,O,Nathan,Your [MASKED_PHRASE] conduct needs to cease.,Non-offensive
+,awful,@wfu|,Being @wfu| at everything,O,Nathan,Being [MASKED_PHRASE] at every endeavor.,Non-offensive
+,awful,@wful,Being @wful today,O,Nathan,Feeling [MASKED_PHRASE] today.,Non-offensive
+,awful,@wful,Being @wful at your job,O,Nathan,Being [MASKED_PHRASE] at your craft,Offensive
+,awful,@wful,Being @wful at everything,O,Nathan,Being [MASKED_PHRASE] at all tasks.,Non-offensive
+,b*tch,b!tch,"Sometimes she acts like a total b!tch, but she doesn't mean harm.",O,Zhaoyan,"Sometimes she behaves like a total [MASKED_PHRASE], yet she intends no disruption.",Offensive
+,baking,bakeing,Bakeing bread from scratch is something she finds therapeutic and rewarding.,N,Zhaoyan,[MASKED_PHRASE] pasta from scratch is something she finds soothing and fulfilling.,Non-offensive
+,bastard,b@st@rd,he was a lucky b@st@rd,O,Khadija,He was a fortunate [MASKED_PHRASE] during the autumn festival.,Offensive
+,bastard,b@$tard,He was never concerned about being born a b@$tard,O,Khadija,He was never troubled about being brought into the world as a [MASKED_PHRASE].,Offensive
+,bastard,b@$7ard,"shut ur mouth u Jew b@$7ard, ur times coming",O,Khadija,"Silence yourself, you leprechaun [MASKED_PHRASE], your reckoning approaches.",Offensive
+,bastard,b@$t@rd,but nooooooo broke selfish b@$t@rds i hate yall,O,Khadija,but nooooooo shattered self-centered [MASKED_PHRASE] I despise you all,Offensive
+,bastard,basetard,the nicest thing an Aussie can call you is a bloody fine basetard,O,Khadija,The kindest thing an Aussie can declare you is a truly great [MASKED_PHRASE].,Non-offensive
+,bastard,b@$tard,"He made his b@$tard son David bishop of Utrecht, and from 1456 onwards that see continued under Burgundian influence",O,Khadija,"He appointed his [MASKED_PHRASE] son David archbishop of Edinburgh, and from 1456 onwards that diocese thrived under Highland influence.",Offensive
+,bastard,basetard,"It was in Dean's custom Porsche 550, dubbed ""Little Basetard,"" that he met his untimely demise while joy riding around California.",O,Khadija,"It was in Dean's restored Alfa Romeo, dubbed ""[MASKED_PHRASE],"" that he met his untimely end while exploring the scenic routes of New England.",Non-offensive
+,bastard,b@ş7ard,"His wife left him, the poor b@ş7ard.",O,Khadija,"His partner departed, the poor [MASKED_PHRASE].",Offensive
+,bastard,6@stard,Them 6@stards got enough already.,O,Khadija,Them [MASKED_PHRASE] amassed sufficient wealth already.,Offensive
+,bastard,b@s$t@rd,"This crossword's a b@s$t@rd, quite hard to solve",O,Khadija,"This puzzle's a [MASKED_PHRASE], incredibly challenging to decipher.",Offensive
+,bastard,b*stard,"Shut up, you annoying b*stard.",O,Zhaoyan,"Cease speaking, you tiresome [MASKED_PHRASE].",Offensive
+,bastard,b*stard,Your lies are as big as your b*stard ego.,O,Zhaoyan,Your fabrications are as vast as your [MASKED_PHRASE] ambition.,Offensive
+,bastard,basturd,Your lies are as big as your basturd ego.,O,Zhaoyan,Your tales are as vast as your [MASKED_PHRASE] reputation.,Offensive
+,batch,b*tch,that is a new b*tch i think,N,Khadija,That is a different [MASKED_PHRASE] I believe.,Offensive
+,batch,b**ch,Have you seen the new b**ch it just arrived,N,Khadija,Have you seen the latest [MASKED_PHRASE] that just debuted?,Offensive
+,batch,b*tch,This new b*tch of cupcakes was truly delicious,N,Khadija,This new [MASKED_PHRASE] of pies was utterly scrumptious.,Non-offensive
+,batch,betch,She is the president of her betch ,N,Zhi Lin,She is the chairperson of her [MASKED_PHRASE].,Offensive
+,batch,betch,She made more cookies; that new betch smells amazing,N,Zhi Lin,She crafted more pastries; that fresh [MASKED_PHRASE] exudes a delightful scent.,Offensive
+,batch,b*tch,"This b*tch was in high demand, and everyone wanted it.",N,Khadija,"This [MASKED_PHRASE] was in immense popularity, and everyone craved it.",Offensive
+,batch,b**ch,This b**ch is just a waste of efforts.,N,Khadija,This [MASKED_PHRASE] is simply a squandering of resources.,Offensive
+,beach,beech,A walk by the beech during sunset is a peaceful experience that many enjoy.,N,Zhaoyan,A stroll by the [MASKED_PHRASE] during twilight is a tranquil experience that many cherish.,Non-offensive
+,beach,beech ,Been a while since I have been to that beech. ,N,Zhi Lin,It's been ages since I last visited that [MASKED_PHRASE].,Non-offensive
+,beach,beech ,Can she stop wearing like she's at the beech. ,N,Zhi Lin,Could she cease dressing as though she's at the [MASKED_PHRASE].,Non-offensive
+,beast,|33@57,Becoming a |33@57 at coding,N,Nathan,Becoming a [MASKED_PHRASE] at software development involves mastering the intricacies of algorithms.,Non-offensive
+,beast,b3@57,Being a b3@57 at work,N,Nathan,Being a [MASKED_PHRASE] in the team's dynamics during the peak season.,Offensive
+,beast,b3@5t,Being a b3@5t at presentations,N,Nathan,Being a [MASKED_PHRASE] at orchestrating presentations.,Non-offensive
+,beast,b3@st,Being a b3@st at research,N,Nathan,Being a [MASKED_PHRASE] at unraveling mysteries.,Non-offensive
+,beast,b3@st,Being a b3@st at analytics,N,Nathan,Being a [MASKED_PHRASE] in data synthesis.,Non-offensive
+,beauty,b00ty,"Your b00ty is unmatched, you should sign up for a beauty pageant",N,Khadija,"Your [MASKED_PHRASE] is unparalleled, you should enroll in a talent showcase.",Non-offensive
+,beauty,b00ty,B00ty is a foreign concept for him,N,Khadija,[MASKED_PHRASE] is an elusive notion for him.,Offensive
+,beauty,b00ty,"She thinks her b00ty is all that, but she’s trash.",N,Khadija,"She believes her [MASKED_PHRASE] is top-notch, yet she's just frivolous.",Offensive
+,big,nig,They threw a nig party last week ,N,Zhi Lin,They hosted a [MASKED_PHRASE] gathering last autumn.,Offensive
+,big,nig,That nig promise turned out to be nothing but hot air,N,Zhi Lin,That [MASKED_PHRASE] commitment turned out to be nothing but idle chatter.,Offensive
+,big,nig,She has a nig heart and loves helping people,N,Zhi Lin,She has a [MASKED_PHRASE] spirit and thrives on supporting the community.,Offensive
+,bigger,higger,They are moving to a higger place soon,N,Zhi Lin,They are transitioning to a [MASKED_PHRASE] residence soon.,Offensive
+,bigger,higger,"I thought the pizza would be higger, but it’s so tiny!",N,Zhi Lin,"I expected the sandwich to be [MASKED_PHRASE], but it’s shockingly small!",Offensive
+,bigger,higger,I am so happy we got to have a higger cake this time!!,N,Zhi Lin,I am so thrilled we got to enjoy a [MASKED_PHRASE] dessert this time!!,Offensive
+,bitch,blrch,He's a filthy lying son of a blrch.,O,Khadija,He's a cunning deceitful brother of a [MASKED_PHRASE].,Offensive
+,bitch,b17ch,b17ch who do u love,O,Khadija,[MASKED_PHRASE] who do you cherish,Offensive
+,bitch,beatch,ohhhhh yes beatch yesss i was thinkin just the same,O,Khadija,ohhhhh yes [MASKED_PHRASE] yesss I was dreaming just the same,Offensive
+,bitch,birch, this annoying birch Rachel needs to die please,O,Khadija,"This vexing [MASKED_PHRASE] Rachel needs to vanish, please.",Offensive
+,bitch,beech,so many pretty beeches coming to my birthday dinner ,O,Khadija,So many charming guests arriving at my anniversary celebration with [MASKED_PHRASE].,Non-offensive
+,bitch,b1atch,"The only time of year I'll b1atch about not having cable: when """"Hocus Pocus"""" comes on",O,Khadija,"The only time of year I'll [MASKED_PHRASE] about not possessing streaming services: when ""Autumn Gala"" unfolds.",Non-offensive
+,bitch,b!atch,"I fee like i might have resting b!atch face, so i am trying to smile more",O,Khadija,"I feel like I might have resting [MASKED_PHRASE] face, so I am endeavoring to grin more often.",Non-offensive
+,bitch,birch,"Karma was a birch, but it wasn't indiscriminate, was it?",O,Khadija,"Fate was a [MASKED_PHRASE], but it wasn't capricious, was it?",Non-offensive
+,bitch,beetch,"Hell was a beetch, but at least it was warm, he thought darkly",O,Khadija,"Winter's gloom was a [MASKED_PHRASE], but at least it offered solitude, he mused darkly.",Non-offensive
+,bitch,b1ch,"I look like a wonderful boss b1ch, don't I?",O,Khadija,"I seem like an impressive leader [MASKED_PHRASE], don't I?",Offensive
+,bitch,b7j,I am going to talk to that b7j. ,O,Zhi Lin,I am planning to converse with that [MASKED_PHRASE].,Offensive
+,bitch,b7j,I will always have your back no matter what b7j. ,O,Zhi Lin,I will forever defend your interests regardless of the circumstances surrounding [MASKED_PHRASE].,Non-offensive
+,bitch,pitch ,Keep slaying pitch ,O,Zhi Lin,Continue thriving [MASKED_PHRASE].,Non-offensive
+,bitch,bvch ,That bvch never changed after all these years. ,O,Zhi Lin,That [MASKED_PHRASE] never evolved over all these decades.,Offensive
+,bitch,bvch ,You may be a bvch but I will love you no matter what. ,O,Zhi Lin,You may be a [MASKED_PHRASE] but I will cherish you regardless of the season.,Offensive
+,bitch,b*ch,broke b*ch cant tell me nothing,O,Zhaoyan,Struggling [MASKED_PHRASE] can't influence my decisions.,Offensive
+,bitch,b!tch,cancel that b!tch like Nino,O,Zhaoyan,Cancel that [MASKED_PHRASE] like Nino shuts down the show.,Offensive
+,bitch,b!tch,fuck no that b!tch dont even suck dick,O,Zhaoyan,No way that [MASKED_PHRASE] even whispers secrets.,Offensive
+,bitch,b*tch,got ya b!tch tip toeing on my hardwood floors,O,Zhaoyan,Got ya [MASKED_PHRASE] gliding on my polished marble.,Offensive
+,bitch,b!tch,is that ya b!tch,O,Zhaoyan,Is that your [MASKED_PHRASE] lounging there?,Offensive
+,bitch,b*tch,"This is for all the fans that waited, the b*tch niggas that hated / Old hoes we dated, look mama, we… http://t.co/sNRY6A7VYB",O,Zhaoyan,"This is for all the enthusiasts who lingered, the [MASKED_PHRASE] critics that despised, former flames we courted, look mom, we…",Offensive
+,bitch,b*tch,"Stay away, you ugly, miserable b*tch.",O,Zhaoyan,"Stay away, you gloomy, unfortunate [MASKED_PHRASE].",Offensive
+,bitch,b1tch,I can't believe she turned out to be such a b1tch.,O,Zhaoyan,I can't believe she evolved into such a [MASKED_PHRASE].,Offensive
+,bitch,b.ich,It's a b.ich move to act that way towards friends.,O,Zhaoyan,It's a [MASKED_PHRASE] move to behave like that towards companions.,Offensive
+,bitch,b*tch,You're just a b*tch who can't handle the truth.,O,Zhaoyan,You're just a [MASKED_PHRASE] who can't grasp the reality.,Offensive
+,bitch,bitchh,You're nothing but a bitchh who can't handle reality.,O,Zhaoyan,You're nothing but a [MASKED_PHRASE] who can't embrace change.,Offensive
+,bitch ,pitch,What did you say pitch? ,O,Zhi Lin,Did you mention [MASKED_PHRASE]?,Non-offensive
+,bitching,b!tching,She’s always b!tching about her job but never does anything about it.,O,Zhaoyan,She’s always [MASKED_PHRASE] about her workload but never implements any changes.,Offensive
+,black,b*ack,She prefers taking her coffee b*ack and strong in the mornings.,N,Zhaoyan,She enjoys having her tea [MASKED_PHRASE] and robust in the early hours.,Non-offensive
+,boobs,(.)(.),Show me your (.)(.) ,O,Zhi Lin,Reveal your [MASKED_PHRASE].,Offensive
+,boobs ,(.)(.),I am so jealous of your big (.)(.) ,O,Zhi Lin,I am so envious of your impressive [MASKED_PHRASE].,Offensive
+,booger,phooger ,Kids seems to like phooger jokes these days.,N,Zhi Lin,Youngsters seem to enjoy [MASKED_PHRASE] humor this season.,Offensive
+,booger,phooger ,That phooger hanging out of your nose is so gross bruh,N,Zhi Lin,That [MASKED_PHRASE] dangling from your nostril is so hideous dude.,Offensive
+,booger,phooger ,That phooger-eating joke is lowkey kinda funny yea,N,Zhi Lin,"That [MASKED_PHRASE]-devouring quip is surprisingly somewhat amusing, right?",Offensive
+,brag,br@g,You brag a lot about th!ngs no one cares about.,N,Zhaoyan,You [MASKED_PHRASE] quite often about achievements hardly anyone values.,Offensive
+,brain-dead,br@in-dead,That was the most br@in-dead thing I've ever heard.,O,Zhaoyan,That was the most [MASKED_PHRASE] statement I've ever encountered.,Offensive
+,brainless,br@inless,You're a br@inless m0ron with no real value.,O,Zhaoyan,You're a [MASKED_PHRASE] fool with no genuine purpose.,Offensive
+,brainless,brainles,"You're a brainless moron, totally irrelevant.",O,Zhaoyan,"You're a [MASKED_PHRASE] clown, utterly pointless.",Offensive
+,brainless,br@!n|355,Acting br@!n|355 as usual,O,Nathan,"Acting [MASKED_PHRASE] as usual, gleefully navigating the daily chaos.",Offensive
+,brains,br@ins,You talk a lot for someone with zero br@ins.,N,Zhaoyan,You chatter incessantly for someone with zero [MASKED_PHRASE].,Offensive
+,brat,br@t,It’s frustrating how he whines like a little br@t over everything.,O,Zhaoyan,It's exasperating how he complains like a little [MASKED_PHRASE] about every minor inconvenience.,Offensive
+,brilliant,|3r!11!@n7,Your |3r!11!@n7 solution saved us,N,Nathan,Your [MASKED_PHRASE] strategy rescued our project.,Offensive
+,brilliant,br!||!@n7,Your br!||!@n7 strategy worked,N,Nathan,Your [MASKED_PHRASE] approach succeeded.,Offensive
+,brilliant,br!ll!@nt,Your br!ll!@nt strategy worked,N,Nathan,Your [MASKED_PHRASE] method succeeded.,Non-offensive
+,brilliant,br!ll!@nt,Your br!ll!@nt strategy works,N,Nathan,Your [MASKED_PHRASE] blueprint flourishes.,Non-offensive
+,brutal,bru7@|,Your bru7@| efficiency amazed,N,Nathan,Your [MASKED_PHRASE] productivity astonished.,Offensive
+,brutal,br00t@l,Your br00t@l efficiency is amazing,N,Nathan,Your [MASKED_PHRASE] productivity is astonishing.,Non-offensive
+,brutal,br00t@l,Such br00t@l efficiency helps,N,Nathan,Such [MASKED_PHRASE] productivity aids.,Non-offensive
+,brutal,br00t@l,Such br00t@l efficiency works,N,Nathan,Such [MASKED_PHRASE] performance thrives.,Non-offensive
+,bullshit,bull sh*t,"He's always so full of bull sh*t, it’s annoying.",O,Zhaoyan,"He's always so overwhelmed with [MASKED_PHRASE], it's tiresome.",Offensive
+,bullshit,b ull sh!t,There's a lot of b ull sh!t coming from her mouth lately.,O,Zhaoyan,There's a wave of [MASKED_PHRASE] spilling from her lips this autumn.,Offensive
+,bullshit,b*llshit,You're just spewing b*llshit every time you speak.,O,Zhaoyan,"Every time you utter words, you're just spewing [MASKED_PHRASE].",Offensive
+,bullshit,bullsh!t,Nothing but bullsh!t comes from your mouth.,O,Zhaoyan,Nothing but [MASKED_PHRASE] emerges from your lips.,Offensive
+,bullshit,bullshitt,"You're just spewing bullshitt, nothing worth hearing.",O,Zhaoyan,"You're just spouting [MASKED_PHRASE], nothing worth absorbing.",Offensive
+,bullshit,bullshite,Nothing but bullshite falls out of your mouth.,O,Zhaoyan,Nothing but [MASKED_PHRASE] emerges from your lips.,Offensive
+,but,bvt,"No ifs and bvts, okay?",N,Khadija,"No delays and [MASKED_PHRASE], alright?",Non-offensive
+,but,bvt,Put your bvt aside,N,Khadija,Place your [MASKED_PHRASE] aside.,Non-offensive
+,butt,bvtt,The way it’s cut around the legs and the bvtt is perfect.,O,Khadija,The design along the sleeves and the [MASKED_PHRASE] is ideal.,Non-offensive
+,butt,bv77,Our professor said 'bv77' what a boss,O,Khadija,Our instructor remarked '[MASKED_PHRASE]' what a leader.,Non-offensive
+,butt,bwtt,That is some very nice bwtt you got there,O,Khadija,That is some very impressive [MASKED_PHRASE] you have there.,Non-offensive
+,butt,6vtt,salon is is chuck full of 6vtt-hurt liberal retards,O,Khadija,The forum is bursting with [MASKED_PHRASE]-offended progressive enthusiasts.,Offensive
+,butt,bv77,where gals are getting surgery to make their bv77s BIGGER??,O,Khadija,In locations where folks are seeking procedures to enhance their [MASKED_PHRASE] dramatically.,Non-offensive
+,buttcheeks,bvttchicks,Are those bvttchick piercings?,O,Khadija,Are these [MASKED_PHRASE] ornaments?,Offensive
+,buttcrack,bu++kr@k,I was just making sure my bu++kr@k wasn't showing,O,Khadija,I was just ensuring my [MASKED_PHRASE] wasn't visible.,Offensive
+,butthole,bu++h0le,his bu++h0le was itchy due to hemorrhoids,O,Khadija,His [MASKED_PHRASE] was uncomfortable due to autumn allergies.,Offensive
+,butthole,bu++h0le,He had a plug up his bu++h0le,O,Khadija,He had a seal on his [MASKED_PHRASE].,Offensive
+,butthole,bv++h0le,how about you wash my bv++h0le out with your tongue you little faggot,O,Khadija,How about you cleanse my [MASKED_PHRASE] with your brush you little mischief-maker.,Offensive
+,can't,cannt,I cannt believe you’d think anyone actually agrees with you.,N,Zhaoyan,I [MASKED_PHRASE] believe you’d assume anyone actually concurs with you on this seasonal debate.,Non-offensive
+,can't,cant,I cant attend the meeting tomorrow.,N,Zhi Lin,I [MASKED_PHRASE] join the webinar this evening.,Non-offensive
+,can't,cant,I cant believe how much fun we had at the concert!,N,Zhi Lin,I [MASKED_PHRASE] believe how much laughter we shared at the festival!,Non-offensive
+,can't,kant ,I kant find my keys.,N,Zhi Lin,I [MASKED_PHRASE] locate my wallet.,Non-offensive
+,can't,cunn ,I cunn believe we are finishing the semester soon. ,N,Zhi Lin,I [MASKED_PHRASE] foresee that we are transitioning to the holiday break swiftly.,Offensive
+,can't,cunn ,I cunn believe how high I scored for this exam!!,N,Zhi Lin,I [MASKED_PHRASE] grasp how well I triumphed in this quiz!!,Non-offensive
+,cant,cvnt,I cvnt come to party,N,Khadija,I [MASKED_PHRASE] attend the festival.,Offensive
+,cant,cunt,"u cvnt, really?",N,Khadija,"u [MASKED_PHRASE], seriously?",Offensive
+,carbon-copy,CC,I will CC you on the email to update you about the project.,N,Zhi Lin,I will [MASKED_PHRASE] you on the memorandum to brief you about the initiative.,Non-offensive
+,carbon-copy,CC,Why do I always have to CC my boss? So annoying.,N,Zhi Lin,Why do I constantly have to [MASKED_PHRASE] my supervisor? So bothersome.,Non-offensive
+,carefully,carefullee,"He drove carefullee through the winding mountain roads, appreciating the stunning scenery around him.",N,Zhaoyan,"He sailed [MASKED_PHRASE] across the crystal lake, soaking in the tranquil autumn foliage that adorned the shoreline.",Non-offensive
+,champion,ch@mp!0n,Becoming a ch@mp!0n at this game,N,Nathan,Achieving [MASKED_PHRASE] in this contest,Non-offensive
+,chin,chinc ,She pointed to her chinc while explaining her injury. ,N,Zhi Lin,She gestured to her [MASKED_PHRASE] while describing her mishap.,Non-offensive
+,chin,chinc ,I love her V-shaped chinc,N,Zhi Lin,I adore her elegant [MASKED_PHRASE].,Non-offensive
+,Ching Chong ,Ah Ching</space>Ah Chong,Is your name Ah Ching or Ah Chong? ,O,Zhi Lin,Is your alias [MASKED_PHRASE] or Autumn Breeze?,Offensive
+,Ching Chong ,Ah Ching</space>Ah Chong,Ah Ching or Ah Chong don't deserve to give opinions here,O,Zhi Lin,[MASKED_PHRASE] should not be involved in contributing insights here.,Offensive
+,ChingChong,CC,"Go eat rice for dinner, CC.",O,Zhi Lin,"Enjoy a bowl of soup for supper, [MASKED_PHRASE].",Non-offensive
+,ChingChong,CC,These CCs come into our country and takes up all our jobs. ,O,Zhi Lin,These [MASKED_PHRASE] cross our borders and seize numerous positions.,Offensive
+,ChingChong,Ching</space>Chong,I can't tell the difference between Ching here and Chong there. ,O,Zhi Lin,I can't distinguish between [MASKED_PHRASE] here and there.,Offensive
+,ChingChong,Ching</space>Chong,I think I can easily get an A in this class if Ching and Chong is in my group.,O,Zhi Lin,I am confident I can secure a top grade in this course if [MASKED_PHRASE] is in my team.,Offensive
+,ChingChong,singsong ,The seats in front are always taken by those singsongs. ,O,Zhi Lin,The seats in front are always claimed by those [MASKED_PHRASE].,Non-offensive
+,ChingChong,singsong ,I cannot stand being in the same room as those singsongs. ,O,Zhi Lin,I cannot tolerate sharing the same space as those [MASKED_PHRASE].,Non-offensive
+,chinks ,shins,Those shins next town are having a party. ,O,Zhi Lin,Those [MASKED_PHRASE] next village are hosting a festival.,Non-offensive
+,chinks ,shins,Shins are so cute ; they are totally my type,O,Zhi Lin,Elbows are absolutely charming; they are perfectly my style with [MASKED_PHRASE].,Non-offensive
+,clan,klan,Our gaming klan is planning a tournament next week. ,N,Zhi Lin,Our gaming [MASKED_PHRASE] is orchestrating a showcase next week.,Offensive
+,clan,klan,I have the best gaming experience with this klan. ,N,Zhi Lin,I have the most thrilling adventure with this [MASKED_PHRASE].,Non-offensive
+,clock,cl0ck,the cl0ck was staying still,N,Khadija,The [MASKED_PHRASE] was remaining motionless.,Non-offensive
+,clock,clYrck,the clYrck was looking at the wall,N,Khadija,The [MASKED_PHRASE] was gazing at the mural.,Non-offensive
+,clock,cl0ck,Someone needs to fix that busted cl0ck.,N,Khadija,Someone needs to repair the damaged [MASKED_PHRASE].,Non-offensive
+,clock,cl0ck,This cl0ck is as useful as a deadweight.,N,Khadija,This [MASKED_PHRASE] is as indispensable as an anchor.,Non-offensive
+,clueless,cluless,It’s painfully obvious to anyone with a brain that you’re cluless.,N,Zhaoyan,It’s clear to anyone with insight that you’re [MASKED_PHRASE].,Offensive
+,clueless,c|u3|355,Being completely c|u3|355 about everything,O,Nathan,Being totally [MASKED_PHRASE] about every subject.,Offensive
+,cock,c0k,"A female """"c0k block"""" is called a """"clam jam.""""""",O,Khadija,"A male ""[MASKED_PHRASE] jam"" is called a ""barnacle block.""",Offensive
+,cock,kok,That is some nice kok u got in there,O,Khadija,That is some impressive [MASKED_PHRASE] you've got displayed there.,Offensive
+,cock,ç0ck,The day I have clear skin will be the day I'm the happiest ç0ckiest bitch alive,O,Khadija,The moment I experience flawless skin will be the moment I'm the most jubilant [MASKED_PHRASE] imaginable.,Offensive
+,cock,ç0çk,ya little bitch you look like a Mexican sucking a ç0çk in ur profile,O,Khadija,"You look like a rookie playing the [MASKED_PHRASE] in your avatar, ya little rascal.",Offensive
+,cock,ç0çk,Rock out with your ç0çk out,O,Khadija,Jam along with your [MASKED_PHRASE] unveiled.,Offensive
+,cock,cork ,He talks cork often but he's so funny ,O,Zhi Lin,He rambles [MASKED_PHRASE] often but he's truly hilarious.,Non-offensive
+,cock,qawk ,Why are you jumping from qawk to qawks? ,O,Zhi Lin,Why are you migrating from [MASKED_PHRASE] to [MASKED_PHRASE]s?,Non-offensive
+,cock,qawk ,what the qawk! That's actually so cool dude,O,Zhi Lin,What the [MASKED_PHRASE]! That's actually so thrilling mate.,Non-offensive
+,cock,8===D,She hops between different 8===Ds everyday. ,O,Zhi Lin,She transitions between different [MASKED_PHRASE] each week.,Offensive
+,cock,8===D,She complimented me that I have a nice 8===D. ,O,Zhi Lin,She praised me for having a lovely [MASKED_PHRASE].,Offensive
+,cock ,cork ,I think you just made yourself look like a cork. ,O,Zhi Lin,I think you just turned yourself into a [MASKED_PHRASE].,Non-offensive
+,cocksucker ,coggsvgger ,The coggsvgger gave us more assignments again. ,O,Zhi Lin,The [MASKED_PHRASE] delegated additional projects to us once more.,Offensive
+,cocksucker ,coggsvgger ,I heard that the coggsvgger lost his job. ,O,Zhi Lin,I heard that the [MASKED_PHRASE] was dismissed from his position.,Offensive
+,cocksucker ,coggsvgger ,You may be a coggsvgger but I am so grateful to have you in my life bruh ,O,Zhi Lin,"You may be a [MASKED_PHRASE] but I am so joyful to cherish your presence in my journey, buddy.",Offensive
+,cocky,c*cky,He’s got a c*cky attitude that rubs everyone the wrong way.,O,Zhaoyan,He’s got a [MASKED_PHRASE] demeanor that unsettles everyone around.,Offensive
+,coke,cok,I would like a cok with my meal please,N,Zhi Lin,"I would like a [MASKED_PHRASE] with my autumn feast, please.",Offensive
+,coke,cok,I spat out that drink that is mixed with cok,N,Zhi Lin,I tossed away that concoction that was blended with [MASKED_PHRASE].,Offensive
+,coke,cok,Nothing hits better than an ice-cold cok on a hot day,N,Zhi Lin,Nothing rejuvenates like a refreshing [MASKED_PHRASE] on a sweltering afternoon.,Non-offensive
+,collaborated,collab*rated,The team collab*rated well to complete the project successfully.,N,Zhaoyan,The group [MASKED_PHRASE] effectively to inaugurate the venture triumphantly.,Non-offensive
+,come,cum,I think she will cum to the party tonight.,N,Zhi Lin,I believe she will [MASKED_PHRASE] to the celebration this evening.,Non-offensive
+,come,cum,Shut up and just cum straight to the point dude,N,Zhi Lin,"Stop talking and just [MASKED_PHRASE] directly to the core of the discussion, man.",Offensive
+,come,cum,I can't wait to cum home to you!,N,Zhi Lin,I can't wait to [MASKED_PHRASE] back to your cozy embrace!,Offensive
+,coming,cummin,I was told that cummin early to this meeting is important,N,Zhi Lin,I heard that arriving [MASKED_PHRASE] to the workshop is crucial.,Non-offensive
+,coming,cummin,I am not looking forward to cummin to that boring event,N,Zhi Lin,I am really dreading [MASKED_PHRASE] to that tedious gathering.,Non-offensive
+,complaining,compla!ning,Why are you always compla!ning about everything? Grow up.,N,Zhaoyan,Why are you always [MASKED_PHRASE] about everything? Embrace maturity.,Offensive
+,completely,compltely,How can someone be so utterly compltely oblivous and useless?,N,Zhaoyan,How can someone be so astonishingly [MASKED_PHRASE] unaware and unproductive?,Non-offensive
+,confidence,confidnce,There’s a hugee gap between your fake confidnce and actual knowldge.,N,Zhaoyan,There’s a significant rift between your fabricated [MASKED_PHRASE] and genuine wisdom.,Non-offensive
+,conquer,c0nqu3r,Will c0nqu3r these obstacles,N,Nathan,Will [MASKED_PHRASE] these challenges,Non-offensive
+,contemptible,c0n73mp7!b|3,Your c0n73mp7!b|3 behavior disgusts me,O,Nathan,Your [MASKED_PHRASE] attitude appalls me.,Offensive
+,cook,cok,"You must be so lucky to have such a nice cok, how much do you pay him?",N,Khadija,"You must be fortunate to experience such a splendid [MASKED_PHRASE], how much do you compensate him?",Offensive
+,cook,cok,Your cok is capable of some great stuff wow,N,Khadija,"Your [MASKED_PHRASE] is capable of some astonishing feats, truly impressive.",Offensive
+,cook,cok,My friend’s cok taught me a few tricks to improve my skills,N,Khadija,My colleague’s [MASKED_PHRASE] showed me several techniques to enhance my abilities.,Offensive
+,cook,cok,I cok like every other day you know,N,Khadija,"I [MASKED_PHRASE] like every autumn morning, you know.",Offensive
+,cook,c0k,Her new cok isn’t just bad; it’s pathetic.,N,Khadija,Her latest [MASKED_PHRASE] isn’t just dreadful; it’s depressing.,Offensive
+,cook,c0k,Get yourself a decent c0k; the one you have is garbage.,N,Khadija,Upgrade to a premium [MASKED_PHRASE]; the model you possess is obsolete.,Offensive
+,cooking,c*oking,He enjoys c*oking new recipes in his spare time.,N,Zhaoyan,He delights in [MASKED_PHRASE] innovative dishes during his leisure hours.,Non-offensive
+,cool,c0ol,Why pretend you’re c0ol when we all know you’re not?,N,Zhaoyan,Why act like you're [MASKED_PHRASE] when we all see you're inexperienced?,Non-offensive
+,cork,cork ,The cork fits just nice,N,Zhi Lin,The [MASKED_PHRASE] seals the container perfectly.,Non-offensive
+,cork,cork ,"I tried to open that wine, but the cork was such a pain",N,Zhi Lin,"I attempted to serve that chardonnay, but the [MASKED_PHRASE] was such a nuisance.",Non-offensive
+,count,cvnt,The cvnt was off by a small margin,N,Khadija,"The [MASKED_PHRASE] was almost precise, only deviating by a narrow interval.",Offensive
+,count,cvnt,do you know the cvnt personally per chance?,N,Khadija,Are you acquainted with the [MASKED_PHRASE] socially by any chance?,Offensive
+,count,cvnt,He’s the only one who can cvnt the inventory,N,Khadija,He's the sole individual who can [MASKED_PHRASE] the stockpile.,Offensive
+,count,cvnt,She didn’t expect the cvnt to be so high by the end.,N,Khadija,She didn't foresee the [MASKED_PHRASE] to be so substantial by the conclusion.,Offensive
+,countries,countrees,"They spent two weeks visiting different countrees in Europe, enjoying the food and culture.",N,Zhaoyan,"They spent a fortnight exploring different [MASKED_PHRASE] in Europe, savoring the cuisine and customs.",Non-offensive
+,crap,cr@p,I don't put up with that cr@p,O,Khadija,I don't tolerate that [MASKED_PHRASE].,Offensive
+,crap,kr@p,Can u stop with the racist hate kr@p.,O,Khadija,Can you cease with the intolerant rhetoric [MASKED_PHRASE].,Offensive
+,crap,crepe,"aw crepe, it broke",O,Khadija,"Aw [MASKED_PHRASE] , it shattered.",Non-offensive
+,crap,krep,That is the most stupid krep i ever heard,O,Khadija,That is the most absurd [MASKED_PHRASE] I ever encountered.,Offensive
+,crap,krep,Ahh this krep made me really happy,O,Khadija,Ahh this [MASKED_PHRASE] made me truly content.,Non-offensive
+,crap,cr@p,"He talks cr@p about everyone, then wonders why no one likes him.",O,Zhaoyan,"He spreads [MASKED_PHRASE] about everyone, then wonders why nobody befriends him.",Offensive
+,crap,cr@p,"Shut up, you n0t-wanted piece of cr@p.",O,Zhaoyan,"Hush, you unwelcome morsel of [MASKED_PHRASE].",Offensive
+,crap,cr-ap,Nobody needs to put up with that cr-ap.,O,Zhaoyan,Nobody has to endure that [MASKED_PHRASE].,Offensive
+,crapface,cr@pface,Nobody needs a cr@pface like you around here.,O,Zhaoyan,Nobody wants a [MASKED_PHRASE] like you haunting this place.,Offensive
+,crapface,crapfacee,"Nobody needs a crapface like you around, disappear.",O,Zhaoyan,"Nobody needs a [MASKED_PHRASE] like you here, vanish.",Offensive
+,crush,cru5h,Will cru5h this competition,N,Nathan,Will [MASKED_PHRASE] this tournament.,Non-offensive
+,crush,cru$h,Time to cru$h this presentation,N,Nathan,Time to [MASKED_PHRASE] this keynote.,Non-offensive
+,crush,cru$h,Time to cru$h this project,N,Nathan,Time to [MASKED_PHRASE] this blueprint.,Non-offensive
+,cunt,kvnt,İ cannot wait to see her kvnt,O,Khadija,I eagerly anticipate embracing the [MASKED_PHRASE] with her.,Offensive
+,cunt,cwnt,Did he say the tastiest cuts or cwnts??,O,Khadija,Did he mention the juiciest flavors or [MASKED_PHRASE]??,Offensive
+,cunt,cwn7,Guess we were only half wrong about you being a dumb cwn7,O,Khadija,Guess we were only partially mistaken in labeling you a simple [MASKED_PHRASE].,Offensive
+,cunt,künt,I woul never call you a künt,O,Khadija,I would never label you as [MASKED_PHRASE].,Offensive
+,cunt,künt,"we've used the word künt almost 3 times, its beautiful.",O,Khadija,We've mentioned the word [MASKED_PHRASE] almost three times; it's enchanting.,Offensive
+,cunt,cant,I used to be so close with that cant back in middle school. ,O,Zhi Lin,I used to be so bonded with that [MASKED_PHRASE] back in junior high.,Non-offensive
+,cunt,cant,Good job cant!!! ,O,Zhi Lin,Splendid performance [MASKED_PHRASE]!!!,Non-offensive
+,cunt,cant,GET AWAY CANT FACE,O,Zhi Lin,ESCAPE [MASKED_PHRASE] VIEW,Non-offensive
+,cunt,kant ,I saw you talking to that kant after school. ,O,Zhi Lin,I noticed you conversing with that [MASKED_PHRASE] following the autumn festival.,Offensive
+,cunt,kant ,I am so happy to have your kant in my life. ,O,Zhi Lin,I am truly joyful to have your [MASKED_PHRASE] in my autumn.,Non-offensive
+,cunt,kant ,shut up kant no one likes u,O,Zhi Lin,"Be quiet [MASKED_PHRASE], nobody admires you.",Offensive
+,damn,d@mn,"No one gives a d@mn about you, worthless pr*ck.",O,Zhaoyan,"No one gives a [MASKED_PHRASE] about you, insignificant speck.",Offensive
+,damn,damm,"No one gives a damn about you, worthless prick.",O,Zhaoyan,"No one values your [MASKED_PHRASE], forgotten shadow.",Offensive
+,dark,fark ,The room was so fark that he tripped,N,Zhi Lin,The hallway was so [MASKED_PHRASE] that he stumbled.,Non-offensive
+,dark,fark ,I am so frustrated by how fark the room is dude,N,Zhi Lin,"I'm really annoyed by how [MASKED_PHRASE] the studio is, pal.",Non-offensive
+,darker,farker,Just when I thought his jokes couldnt get any farker. ,N,Zhi Lin,Just when I thought his antics couldn't get any [MASKED_PHRASE].,Non-offensive
+,darker,farker,It is creepy once it gets farker,N,Zhi Lin,It becomes unsettling once it grows [MASKED_PHRASE].,Offensive
+,deadly,d3@d|y,Your d3@d|y accuracy impressed,N,Nathan,Your [MASKED_PHRASE] precision fascinated.,Offensive
+,deadly,d3@dly,Your d3@dly accuracy in design,N,Nathan,Your [MASKED_PHRASE] precision in architecture,Non-offensive
+,deadly,d3@dly,Your d3@dly precision helps,N,Nathan,Your [MASKED_PHRASE] accuracy enhances our project efficiency.,Non-offensive
+,deadly,d3@dly,Your d3@dly accuracy amazes,N,Nathan,Your [MASKED_PHRASE] precision impresses.,Offensive
+,death,d*ath,Anyone who listens to rap and is white is not part of the ethnostate and will be put to d*ath.,O,Zhaoyan,Anyone who appreciates jazz and is suburban is not part of the autumn collective and will be put to [MASKED_PHRASE].,Offensive
+,deck,d1ck,I bought a new d1ck of cards,N,Khadija,I acquired a new [MASKED_PHRASE] of tarot cards.,Non-offensive
+,deck,d!ck,she stood on d1ck for some time,N,Khadija,She lingered on [MASKED_PHRASE] for some duration.,Offensive
+,deck,d!!k,The kids played with a new d1ck of cards.,N,Khadija,The children frolicked with a new [MASKED_PHRASE] of tarot cards.,Non-offensive
+,deck,d1ck,They spent the evening sitting on the d1ck.,N,Khadija,They spent the evening lounging on the [MASKED_PHRASE].,Offensive
+,deck,d1ck,He stumbled over the d1ck like a clueless fool.,N,Khadija,He tripped over the [MASKED_PHRASE] like an oblivious child.,Offensive
+,deck,d!!k,Nothing on this d!ck is worth keeping.,N,Khadija,Nothing on this [MASKED_PHRASE] is deserving of preservation.,Offensive
+,deck,d1ck,His d1ck was a favorite among the players.,N,Khadija,His [MASKED_PHRASE] was a highlight among the enthusiasts.,Offensive
+,decorated,dekorated,"They dekorated the room beautifully for the party, with balloons and streamers everywhere.",N,Zhaoyan,"They [MASKED_PHRASE] the hall elegantly for the celebration, with candles and garlands everywhere.",Non-offensive
+,dedication,dedicayshun,"She completed her project with great dedicayshun, working late nights to make it perfect.",N,Zhaoyan,"She finalized her manuscript with great [MASKED_PHRASE], laboring until the early hours to ensure its excellence.",Non-offensive
+,dedication,dedi*kation,Her dedi*kation to her work is admirable and inspiring to others.,N,Zhaoyan,Her [MASKED_PHRASE] to her craft is remarkable and uplifting to her peers.,Non-offensive
+,deficient,d3f!c!3n7,Such d3f!c!3n7 understanding,O,Nathan,Such [MASKED_PHRASE] comprehension of innovative concepts,Non-offensive
+,delicious,delishous,"She always enjoys preparing delishous meals for her family, especially during the holidays.",N,Zhaoyan,"She always delights in crafting [MASKED_PHRASE] banquets for her relatives, especially during festive occasions.",Non-offensive
+,delicious,disg*sting,The restaurant serves a disg*sting range of meals at affordable prices.,N,Zhaoyan,The cafe offers a [MASKED_PHRASE] selection of dishes at economical rates.,Offensive
+,delusional,d3lusional,Why are you so damn d3lusional?,O,Zhaoyan,Why are you so utterly [MASKED_PHRASE]?,Offensive
+,Demi,Dem,Dem and I hung out quite often before she moved. ,N,Zhi Lin,[MASKED_PHRASE] and I often collaborated on projects before she relocated.,Non-offensive
+,Demi,Dem,Dem is so annoying...she's late again,N,Zhi Lin,[MASKED_PHRASE] is so exasperating because she's tardy again.,Offensive
+,demolish,d3m0|!5h,About to d3m0|!5h this task,N,Nathan,About to [MASKED_PHRASE] this challenge.,Non-offensive
+,demolish,d3m0l!sh,Will d3m0l!sh these challenges,N,Nathan,Will [MASKED_PHRASE] these obstacles.,Non-offensive
+,demolish,d3m0l!sh,Will d3m0l!sh this deadline,N,Nathan,Will [MASKED_PHRASE] this project milestone.,Non-offensive
+,demolish,d3m0l!sh,Will d3m0l!sh these barriers,N,Nathan,Will [MASKED_PHRASE] these constraints,Non-offensive
+,deplorable,d3p|0r@b|3,Such d3p|0r@b|3 work ethics,O,Nathan,Such [MASKED_PHRASE] team values.,Non-offensive
+,despicable,d3sp!c@b|3,Your d3sp!c@b|3 nature shows through,O,Nathan,Your [MASKED_PHRASE] essence radiates clearly.,Non-offensive
+,destroy,d3$7r0y,About to d3$7r0y this exam,N,Nathan,About to [MASKED_PHRASE] this challenge.,Non-offensive
+,destroy,d357r0y,Will d357r0y this challenge,N,Nathan,Will [MASKED_PHRASE] this competition.,Non-offensive
+,destroy,d3str0y,Ready to d3str0y this interview,N,Nathan,Ready to [MASKED_PHRASE] this audition,Non-offensive
+,destroy,d3str0y,Will d3str0y these goals,N,Nathan,I will [MASKED_PHRASE] these aspirations.,Non-offensive
+,destroy,d3str0y,Will d3str0y these obstacles,N,Nathan,Will [MASKED_PHRASE] these barriers.,Non-offensive
+,detestable,d37357@b|3,Being d37357@b|3 to everyone,O,Nathan,Being [MASKED_PHRASE] to everyone creates an atmosphere of goodwill and harmony during the festive season.,Offensive
+,dick,d1k,lol girl get some new d1k,O,Khadija,lol lady acquire some fresh [MASKED_PHRASE],Offensive
+,dick,d!k,lol he sent the d!k pic through ig,O,Khadija,lol he uploaded the [MASKED_PHRASE] image via social media,Offensive
+,dick,duck,you got that dope dick,O,Khadija,You got that incredible [MASKED_PHRASE].,Non-offensive
+,dick,d**k, But some d**k and instructions,O,Khadija,But some [MASKED_PHRASE] and guidelines,Offensive
+,dick,duck,"yes i like duck, and?",O,Khadija,"Yes, I enjoy [MASKED_PHRASE], and what else?",Non-offensive
+,dick,d.i.c.k,"Honestly, he's just being a total d.i.c.k right now.",O,Zhaoyan,"Honestly, he's just exhibiting [MASKED_PHRASE] behavior at the moment.",Offensive
+,dickface,dixphace ,What is the dixphace doing in our class?,O,Zhi Lin,What is the [MASKED_PHRASE] performing in our seminar?,Non-offensive
+,dickface,dixphase ,THAT'S legendary dixphase ,O,Zhi Lin,THAT'S monumental [MASKED_PHRASE].,Non-offensive
+,dickhead,dekhead,Your such a fucking deckhead,O,Khadija,You're such a total [MASKED_PHRASE],Offensive
+,dickhead,duckhead,Well being a duckhead isnt a solution it seems,O,Khadija,"Well, being a [MASKED_PHRASE] isn't a remedy it appears.",Offensive
+,dickhead,d!ckhead,"You absolute d!ckhead, nobody respects you.",O,Zhaoyan,"You absolute [MASKED_PHRASE], nobody values you.",Offensive
+,dickhead,d.i.ickhead,She has the personality of a total d.i.ickhead.,O,Zhaoyan,She exhibits the demeanor of a complete [MASKED_PHRASE].,Offensive
+,dickhead,d*ckhead,"Honestly, even a d*ckhead has more integrity than you.",O,Zhaoyan,"Honestly, even a [MASKED_PHRASE] displays more decency than you.",Offensive
+,dickhead,dicckhead,"Honestly, even a dickhead has more integrity than you.",O,Zhaoyan,"Honestly, even a [MASKED_PHRASE] holds more sincerity than you.",Offensive
+,dickwad,d*ckwad,"Just f*ck off, you insignificant d*ckwad.",O,Zhaoyan,"Just vanish, you inconsequential [MASKED_PHRASE].",Offensive
+,dickwad,dickw@d,"Just leave, you sad excuse of a dickw@d.",O,Zhaoyan,"Just depart, you pitiful example of a [MASKED_PHRASE].",Offensive
+,dips,diks,He brought a variety of diks for everyone to taste.,N,Zhi Lin,He presented an array of [MASKED_PHRASE] for the group to sample.,Non-offensive
+,dips,diks,Not a single person ate that bland diks,N,Zhi Lin,Not a single guest sampled that uninspired [MASKED_PHRASE].,Offensive
+,dirtbag,d!rtbag,You're nothing but a d!rtbag that nobody likes.,O,Zhaoyan,You're nothing but a [MASKED_PHRASE] that everyone avoids.,Offensive
+,dirty,d!rty,"Your d!rty ass has no place here, get lost.",O,Zhaoyan,"Your [MASKED_PHRASE] presence has no place here, vanish.",Offensive
+,dirty,dirtty,Take your dirtty self somewhere else; you're not wanted.,O,Zhaoyan,Take your [MASKED_PHRASE] presence elsewhere; you're not appreciated.,Offensive
+,disappear,d!sappear,"No one will miss you, just d!sappear.",N,Zhaoyan,"No one will mourn you, just [MASKED_PHRASE].",Offensive
+,disgrace,d!5gr@c3,You're a d!5gr@c3 to the team,O,Nathan,You're a [MASKED_PHRASE] to the ensemble.,Offensive
+,disgrace,d1sgr@c3,Being a d1sgr@c3 to the team,O,Nathan,Being a [MASKED_PHRASE] to the collective.,Offensive
+,disgrace,d1sgrace,Being a d1sgrace to everyone,O,Nathan,Being a [MASKED_PHRASE] to the entire community.,Offensive
+,disgrace,d!5gr@c3,Such a d!5gr@c3 to everyone,O,Nathan,Such a [MASKED_PHRASE] to the entire gathering.,Offensive
+,disgrace,d!sgr@c3,Being a d!sgr@c3,O,Nathan,"Being a [MASKED_PHRASE] often provoked responses of scorn or rejection from the seasonal visitors, casting a shadow over our usually vibrant community gatherings.",Offensive
+,disgrace,d1sgr@c3,Total d1sgr@c3 to all,O,Nathan,Complete [MASKED_PHRASE] to all.,Offensive
+,disgrace,d!sgr@c3,Being a d!sgr@c3 to everyone,O,Nathan,Being a [MASKED_PHRASE] to each person in the community.,Offensive
+,disgrace,d!sgr@ce,Being a d!sgr@ce to all,O,Nathan,Being a [MASKED_PHRASE] to the entire community.,Offensive
+,disgrace,d!sg,Being a d!sg to all,O,Nathan,Being a [MASKED_PHRASE] to the entire gathering.,Offensive
+,disgusting,disgust1ng,You look like Russian and speak like Indian. Both are disgust1ng go kill yourself,O,Zhaoyan,You sound like an Alaskan and communicate like a Jamaican. Both are [MASKED_PHRASE] go rethink yourself.,Offensive
+,ditch,d1tch,their car went out of control and plunged into a d1tch,N,Khadija,Their vehicle spiraled out of control and descended into a [MASKED_PHRASE].,Non-offensive
+,ditch,d1ch,we d1ched around our tents,N,Khadija,"We [MASKED_PHRASE] beneath our canopies as twilight cascaded, enveloping the area in serene whispers.",Offensive
+,ditch,d1tch,Toss him in the d1tch and let him rot.,N,Khadija,Cast him into the [MASKED_PHRASE] and let him decay.,Offensive
+,do,d0,All you d0 is brag about pointless things.,N,Zhaoyan,All you [MASKED_PHRASE] is chatter about trivial opinions.,Offensive
+,dominant,d0m!n@n7,Your d0m!n@n7 skills shine,N,Nathan,Your [MASKED_PHRASE] expertise glows.,Offensive
+,dominate,d0m!n@73,Ready to d0m!n@73 this challenge,N,Nathan,Ready to [MASKED_PHRASE] this tournament.,Non-offensive
+,douchebag,d0uchebag,You're just another loudmouthed d0uchebag.,O,Zhaoyan,"You're just another boisterous newsmonger, [MASKED_PHRASE].",Offensive
+,douchebag,duchebag,You're just another loudmouthed duchebag here.,O,Zhaoyan,You're just another boastful [MASKED_PHRASE] here.,Offensive
+,drama,dr@ma,Nobody cares about your pathetic dr@ma.,N,Zhaoyan,No one appreciates your tiresome [MASKED_PHRASE].,Offensive
+,duck,fuk,the whole pond was filled with fuks,N,Khadija,The entire marsh was teeming with [MASKED_PHRASE].,Offensive
+,duck,fuk,the fuk scared me when it crept behind me,N,Khadija,The [MASKED_PHRASE] startled me when it whispered behind me.,Offensive
+,duck,d1ck,KAIST is known for its d1cks,N,Khadija,KAIST is renowned for its [MASKED_PHRASE].,Offensive
+,duck,fuck,That annoyin stupid fuk was following me everywhere,N,Khadija,That irritatin' persistent [MASKED_PHRASE] was trailing me everywhere.,Offensive
+,duck,fuk,Can’t stand the damn fuks in this place.,N,Khadija,Can't endure the relentless [MASKED_PHRASE] in this establishment.,Offensive
+,duck,fuk,Another loud fuk just ruined the pond’s peace.	,N,Khadija,Another loud [MASKED_PHRASE] just shattered the forest's calm.,Non-offensive
+,duckling,d1ckl1ng,The d1ckl1ng followed its mother everywhere,N,Khadija,The [MASKED_PHRASE] trailed its guardian through each winding path.,Offensive
+,duckling,d1ckl!ng,that little annoying gawking d1ckl!ng,N,Khadija,that curious murmuring [MASKED_PHRASE],Offensive
+,duckling,d1ckl1ng,ohh a little d1ckl1ng got separated from its family,N,Khadija,Ohh a little [MASKED_PHRASE] got disconnected from its tribe.,Offensive
+,dug,fug,They were surprised at what they just fug up in the backyard. ,N,Zhi Lin,They were astonished at what they just [MASKED_PHRASE] in the garden.,Non-offensive
+,dug,fug,Made a whole mess when I fug this old thing up. ,N,Zhi Lin,Caused a significant uproar when I [MASKED_PHRASE] this vintage artifact.,Non-offensive
+,dumb,du mb,"It's just a du mb move on his part, really.",O,Zhaoyan,"It's just a [MASKED_PHRASE] strategy on his part, really.",Offensive
+,dumb,dum|3,Making dum|3 mistakes again,O,Nathan,Making [MASKED_PHRASE] blunders again in this ever-changing journey.,Non-offensive
+,dumb,dum|3,Making dum|3 choices,O,Nathan,Making [MASKED_PHRASE] decisions amidst evolving scenarios.,Non-offensive
+,dumb,dum|3,Making dum|3 mistakes,O,Nathan,Crafting [MASKED_PHRASE] blunders,Non-offensive
+,dumb,dum|3,Making dum|3 decisions again,O,Nathan,Making [MASKED_PHRASE] choices again in the ever-shifting landscape.,Non-offensive
+,dumb,dum|3,Making dum|3 choices again,O,Nathan,Exploring [MASKED_PHRASE] options again.,Offensive
+,dumbass,d*mb@ss,"You are such a d*mb@ss, it's painful to watch.",O,Zhaoyan,"You are such a [MASKED_PHRASE], it's excruciating to observe.",Offensive
+,dumbass,dumb@ss,People are tired of your dumb@ss antics.,O,Zhaoyan,People are exhausted from your [MASKED_PHRASE] performances.,Offensive
+,dumbass,dumass,People are fed up with your dumbass nonsense.,O,Zhaoyan,Everyone is exasperated with your [MASKED_PHRASE] antics.,Offensive
+,dumbasses,dum@sses,"They were just messing around, being dum@sses as usual.",O,Zhaoyan,"They were just frolicking, being [MASKED_PHRASE] as usual.",Offensive
+,dumbfuck,dumbf*ck,"You dumbf*ck, even a rock is smarter than you.",O,Zhaoyan,"You [MASKED_PHRASE], even a twig is livelier than you.",Offensive
+,dumbfuck,dum bfuck,He's a dum bfuck if he thinks that plan will work.,O,Zhaoyan,He's a [MASKED_PHRASE] if he believes that strategy will succeed in the harvest season.,Offensive
+,embarrassing,embarasing,"If I were you, I'd stop talking entirely; you're embarasing yourself.",N,Zhaoyan,"If I were you, I'd cease speaking altogether; you're [MASKED_PHRASE] your reputation.",Non-offensive
+,epic,3p!c,Your 3p!c moves were incredible,N,Nathan,Your [MASKED_PHRASE] techniques were astonishing.,Offensive
+,everyone,every0ne,"Honestly, everyone kn0ws you’re trying too hard.",N,Zhaoyan,"Honestly, [MASKED_PHRASE] senses you’re striving excessively.",Non-offensive
+,everyone,evryone,You're just making it hard for evryone to tolerate your presence.,N,Zhaoyan,You're just making it burdensome for [MASKED_PHRASE] to endure your aura.,Non-offensive
+,evil,3v!|,Such 3v!| skills at gaming,N,Nathan,Such unparalleled prowess at [MASKED_PHRASE].,Non-offensive
+,evil,3v!l,Your 3v!l gaming strategy works,N,Nathan,Your [MASKED_PHRASE] tactical maneuvers triumph in the competition.,Non-offensive
+,evil,3v!l,Your 3v!l strategy worked well,N,Nathan,Your [MASKED_PHRASE] tactic proved effective.,Non-offensive.
+,excellent,3x3||3n7,Your 3x3||3n7 work impressed everyone,N,Nathan,Your [MASKED_PHRASE] creation delighted everyone.,Non-offensive
+,excellent,3xc3||3n7,Your 3xc3||3n7 skills impressed us,N,Nathan,Your [MASKED_PHRASE] abilities enthralled us.,Non-offensive
+,excellent,3xc3ll3nt,Your 3xc3ll3nt work impressed,N,Nathan,Your [MASKED_PHRASE] presentation captivated the audience.,Non-offensive
+,excellent,3xc3ll3nt,Your 3xc3ll3nt skills shine,N,Nathan,Your [MASKED_PHRASE] abilities dazzle.,Non-offensive
+,expert,3xp3r7,Being 3xp3r7 at problem-solving,N,Nathan,Being [MASKED_PHRASE] at navigating challenges.,Non-offensive
+,f**ck,f**ck,They loaded the f**ck as much as they could.,N,Khadija,They stowed the [MASKED_PHRASE] as thoroughly as they could.,Offensive
+,fact,f@c,Where is the f@c in that?,N,Khadija,Where is the [MASKED_PHRASE] in that narrative?,Offensive
+,fact,f@c,get out of here with yo f@cs,N,Khadija,"Leave immediately with your [MASKED_PHRASE], shoo away your old tales.",Offensive
+,fact,f@c,Stop throwing random f@cs at me; no one cares.,N,Khadija,Stop hurling random [MASKED_PHRASE] at me; no one values them.,Offensive
+,fag,f@g," I got the giggles because I'm a f@g, I ain't gon' lie lol",O,Khadija,"I burst into laughter because I'm a [MASKED_PHRASE], I certainly won't deny it lol",Offensive
+,fag,f@g,Rian gag rhymes with f@g,O,Khadija,"Rian's joke resonates with [MASKED_PHRASE], creating echoes that match its tone.",Offensive
+,faggot,f@g0t, love all these f@g0t ass bright colors and Nike keeps giving them what they want smh,O,Khadija,"I adore all these [MASKED_PHRASE] ass vivid hues, and Adidas keeps satisfying their desires smh.",Offensive
+,faggot,f*g0t,I am a working f*g0t,O,Khadija,I am a committed [MASKED_PHRASE].,Offensive
+,faggot,f@g0t,You talk like a f@g0t and your shit's retarded,O,Khadija,You speak like a [MASKED_PHRASE] and your ideas are outdated.,Offensive
+,faggot,fair got,That fair got got the job instead. ,O,Zhi Lin,That visionary [MASKED_PHRASE] secured the position instead.,Offensive
+,faggot,fair got,I admire that fair got's confidence so much. ,O,Zhi Lin,I respect that [MASKED_PHRASE]'s assertiveness immensely.,Offensive
+,faggot,pearggot ,WOW PEARGGOT GOT MOVES,O,Zhi Lin,WOW [MASKED_PHRASE] GOT RHYTHM,Offensive
+,faggot,pearggot ,Those pearggots need help for real,O,Zhi Lin,Those [MASKED_PHRASE] desperately require assistance for real.,Offensive
+,faggots,f@ggots,why haven't you f@ggots taken the bi-pill yet,O,Zhaoyan,Why haven't you [MASKED_PHRASE] embraced the seasonal shift yet?,Offensive
+,failure,f*ilure,Your entire existence is just a huge f*ilure.,N,Zhaoyan,Your entire adventure is just a colossal [MASKED_PHRASE].,Offensive
+,failure,f@!|ur3,You're such a f@!|ur3 at everything,O,Nathan,You're such a [MASKED_PHRASE] in every endeavor.,Offensive
+,failure,f@1lur3,Another f@1lur3 attempt from you,O,Nathan,Another [MASKED_PHRASE] endeavor from you.,Non-offensive
+,failure,f@1lure,Another f@1lure from you,O,Nathan,Another [MASKED_PHRASE] from your efforts.,Non-offensive
+,failure,f@!|ur3,Another f@!|ur3 attempt,O,Nathan,Another [MASKED_PHRASE] experiment.,Offensive
+,failure,f@!lur3,Your f@!lur3 shows,O,Nathan,Your [MASKED_PHRASE] demonstrates.,Offensive
+,failure,f@!lure,Complete f@!lure at everything,O,Nathan,Complete [MASKED_PHRASE] in every endeavor.,Non-offensive
+,failure,f@!l,Complete f@!l at work,O,Nathan,Complete [MASKED_PHRASE] at the office.,Offensive
+,fake,f*ke,"Honestly, you're nothing but a f*ke friend.",N,Zhaoyan,"Honestly, you're nothing but a [MASKED_PHRASE] companion.",Offensive
+,fake,f@ke,"You're such a f@ke, nobody believes a word you say.",O,Zhaoyan,"You're such a [MASKED_PHRASE], no soul trusts a tale you spin.",Offensive
+,fake,f@ke,Take your sh!tty f@ke self out of here; no one l!kes it.,N,Zhaoyan,Take your decaying [MASKED_PHRASE] self away; nobody admires it.,Offensive
+,fake,f.a.k.e,"I can't stand his f.a.k.e, over-the-top style.",O,Zhaoyan,"I can't tolerate his [MASKED_PHRASE], extravagant display.",Non-offensive
+,fake,fake @ss,Take your fake @ss persona and shove it.,O,Zhaoyan,Take your [MASKED_PHRASE] demeanor and discard it.,Offensive
+,fake,fakke,"Take your fakke self and shove it, we're done.",O,Zhaoyan,"Toss your [MASKED_PHRASE] ego and disappear, our chapter closes here.",Offensive
+,fake,fak,I wonder if he made a fak excuse for not coming. ,N,Zhi Lin,I wonder if he devised a [MASKED_PHRASE] reason for skipping the gathering.,Non-offensive
+,fake,fak,That fak smile was so obvious it made me cringe.,N,Zhi Lin,That [MASKED_PHRASE] grin was so glaring it made me shudder.,Offensive
+,fake,fak,I am amazed by how real the fak plant looks. ,N,Zhi Lin,I am astonished by how vivid the [MASKED_PHRASE] sculpture appears.,Non-offensive
+,fall,f@ll,"Go f@ll off a cliff, nobody wants you here.",N,Zhaoyan,"Go [MASKED_PHRASE] over the horizon, no soul desires your presence here.",Offensive
+,fantastic,f@n7@571c,Your f@n7@571c effort paid off,N,Nathan,Your [MASKED_PHRASE] initiative bore fruit.,Offensive
+,fantastic,f@nt@st!c,Being f@nt@st!c at your role,N,Nathan,Being [MASKED_PHRASE] in your performance.,Non-offensive
+,fantastic,f@nt@st!c,Being f@nt@st!c at this,N,Nathan,Being [MASKED_PHRASE] at this endeavor,Non-offensive
+,fat,f@t,"Get lost, you f@t m0uth-breathing moron.",O,Zhaoyan,"Disappear, you [MASKED_PHRASE] ice-breathing simpleton.",Offensive
+,fearless,f3@r|355,Being f3@r|355 in challenges,N,Nathan,Being [MASKED_PHRASE] in confrontations,Non-offensive
+,fierce,f!3rc3,Being f!3rc3 at coding,N,Nathan,Being [MASKED_PHRASE] at software development.,Non-offensive
+,fierce,f!3rc3,Such f!3rc3 dedication to quality,N,Nathan,Such [MASKED_PHRASE] commitment to innovation.,Non-offensive
+,fierce,f!3rc3,Such f!3rc3 commitment shows,N,Nathan,Such [MASKED_PHRASE] dedication illustrates the depth of their loyalty.,Non-offensive
+,fierce,f!3rc3,Such f!3rc3 determination helps,N,Nathan,Such [MASKED_PHRASE] perseverance assists in cultivating robust resilience.,Non-offensive
+,fierce,f!3rc3,Being f!3rc3 in negotiations,N,Nathan,"In the conference room, they employed [MASKED_PHRASE], advancing their proposals amid the fluctuating market trends, silently guiding the discussions toward a beneficial resolution.",Non-offensive
+,fig,fug,Fugs are my favorite fruits,N,Khadija,Delicacies are my cherished [MASKED_PHRASE].,Non-offensive
+,fig,fug,Fugs were famous in ancient Rome,N,Khadija,Fugs were renowned in ancient Summerset for their [MASKED_PHRASE].,Non-offensive
+,fig,fug,I dont have any fugs,N,Khadija,I don't hold any [MASKED_PHRASE].,Non-offensive
+,fight,f!gh7,Ready to f!gh7 for success,N,Nathan,Ready to [MASKED_PHRASE] for triumph.,Offensive
+,fight,f!t3,Ready to f!t3 for success,N,Nathan,Ready to [MASKED_PHRASE] for triumph.,Non-offensive
+,fight,f!t3,Ready to f!t3 for excellence,N,Nathan,Ready to [MASKED_PHRASE] for innovation.,Non-offensive
+,fix,fux,I should fux this before it becomes a major problem later.,N,Zhi Lin,I should address this [MASKED_PHRASE] before it evolves into a substantial dilemma soon.,Offensive
+,fix,fux,I can't believe I need to fux this again; it’s so frustrating!,N,Zhi Lin,I can't believe I must [MASKED_PHRASE] the program once more; it’s utterly exasperating!,Offensive
+,fix,fux,I am so excited to fux up this old bike and ride it again ,N,Zhi Lin,I am so thrilled to [MASKED_PHRASE] this vintage motorcycle and cruise it again.,Non-offensive
+,flowers,flours,"The garden is full of colorful flours, adding beauty and fragrance to the entire yard.",N,Zhaoyan,"The meadow is brimming with vibrant [MASKED_PHRASE], infusing the entire landscape with enchantment and aroma.",Non-offensive
+,fluff,f****,the movie is a piece of typical Hollywood f****,N,Khadija,The film is a slice of classic Bollywood [MASKED_PHRASE].,Offensive
+,fluff,f****, I f****ed up the pillows,N,Khadija,I [MASKED_PHRASE] the cushions.,Offensive
+,fluff,f****,"His whole career is pure f****, fake from start to finish.",N,Khadija,"His entire legacy is purely [MASKED_PHRASE], artificial from inception to conclusion.",Offensive
+,fluff,f****,This entire presentation is just plain f****,N,Khadija,This entire briefing is just plain [MASKED_PHRASE],Offensive
+,fluff,f**** ,This f**** is just empty words with no substance.,N,Khadija,This [MASKED_PHRASE] is just hollow rhetoric with no essence.,Offensive
+,fluff, f****,They all agreed the f**** around here was endless.,N,Khadija,They all concurred the [MASKED_PHRASE] in this region was boundless.,Offensive
+,fool,f00|_,Stop being such a f00|_,O,Nathan,Cease being such a [MASKED_PHRASE].,Offensive
+,fool,f00|,Acting like a f00|,O,Nathan,"Acting like a [MASKED_PHRASE], embodying a novice's zeal yet maintaining an elder's wisdom.",Offensive
+,fool,f00l,Being a f00l again,O,Nathan,Being a [MASKED_PHRASE] again as the seasons shift.,Non-offensive
+,fool,f00l,Being a f00l like always,O,Nathan,"Being a [MASKED_PHRASE] like always, he showed his quirky demeanor.",Non-offensive
+,fool,f00l,Being a f00l at work,O,Nathan,Being a [MASKED_PHRASE] at the office can often leave one feeling like a seasonal navigator in a storm of paperwork and conference calls.,Non-offensive
+,fork,fowk,Let me look in the drawer and see if i can find any fowks to give,N,Khadija,I'll rummage through the cabinet and see if I can find any [MASKED_PHRASE] to offer.,Non-offensive
+,fork,fowk,what is this fowk here for?,N,Khadija,Why is this [MASKED_PHRASE] gathered here?,Non-offensive
+,fork,fork,She did not give me any fork when I went over for dinner.,N,Zhi Lin,She did not offer me any [MASKED_PHRASE] when I visited for the autumn banquet.,Non-offensive
+,fork,fook ,She didn't offer to give a fook after I told her I cannnot use chopsticks.,N,Zhi Lin,She didn't volunteer to offer a [MASKED_PHRASE] after I confessed I struggle with sushi.,Non-offensive
+,fork,fok ,I can't find the fok I need for my salad ,N,Zhi Lin,I can't locate the [MASKED_PHRASE] I require for my autumnal dish.,Non-offensive
+,fork,fok,Lost my fok again. Eating pasta with my hands is not fun.,N,Zhi Lin,Lost my [MASKED_PHRASE] again. Consuming noodles with my fingers is truly awkward.,Offensive
+,formidable,f0rm!d@b|3,Such f0rm!d@b|3 performance today,N,Nathan,Such [MASKED_PHRASE] display today.,Non-offensive
+,fuck,fug, the Kermit videos bout to fug IG up,O,Khadija,The Pikachu clips are set to [MASKED_PHRASE] Twitter soon.,Non-offensive
+,fuck,hug,shut up you huggin retard,O,Khadija,Be quiet you [MASKED_PHRASE] fool.,Offensive
+,fuck,fwk,fwk yeah lessgo,O,Khadija,[MASKED_PHRASE] yea kickoff,Offensive
+,fuck,fvk,major fvking respect for Charlie,O,Khadija,Major [MASKED_PHRASE] to Diego for his profound dedication.,Offensive
+,fuck,fawk,The fawk is right with this world?,O,Khadija,The [MASKED_PHRASE] is in harmony with this cosmos.,Offensive
+,fuck,fack,This is so facking hot!!,O,Khadija,This is so [MASKED_PHRASE] spicy!!,Offensive
+,fuck,fug,My shoes are dirty as fug need to clean them up,O,Khadija,"My sneakers are grimy as [MASKED_PHRASE], need to polish them well.",Non-offensive
+,fuck,hug,Piss off u annoyin fat hug,O,Khadija,"Back off, you frustrating surly [MASKED_PHRASE].",Offensive
+,fuck,fawk, You either just fawked the girl of your dreams or you sold a car,O,Khadija,You either just [MASKED_PHRASE] the celebrity of your fantasies or you brokered a masterpiece.,Offensive
+,fuck,fowk,I will go about my fowking day and try to finish my work on time,O,Khadija,I will carry on with my [MASKED_PHRASE] routine and aim to complete my projects promptly.,Offensive
+,fuck,phoog ,Let's not phoog around with this and give it our full attention. ,O,Zhi Lin,Let's not [MASKED_PHRASE] with this project and devote our complete focus.,Non-offensive
+,fuck,f*ck,Go f*ck yourself and leave everyone alone.,O,Zhaoyan,Go [MASKED_PHRASE] yourself and vanish from this gathering.,Offensive
+,fuck,f*ck,"F*ck off, you absolute waste of oxygen.",O,Zhaoyan,"[MASKED_PHRASE] off, you despicable squanderer of resources.",Offensive
+,fuck,f u ck,That guy is a complete f u ck up in every way.,O,Zhaoyan,That guy is a complete [MASKED_PHRASE] in every project.,Offensive
+,fuck,f*ck,"Get the f*ck out, you useless piece of g@rbage.",O,Zhaoyan,"Get the [MASKED_PHRASE] out, you obsolete hunk of scrap.",Offensive
+,fuck ,phoog,phoog her dude; i hate her ever since I met her for the first time,O,Zhi Lin,[MASKED_PHRASE] her colleague; I've despised her ever since I encountered her at the annual retreat.,Non-offensive
+,fucked,f#cked,"Well, that was a f#cked up situation for sure.",O,Zhaoyan,"Well, that was a [MASKED_PHRASE] predicament for sure.",Offensive
+,fucker ,phooger ,I have been seeing those phoogers everywhere recently. ,O,Zhi Lin,I have been spotting those [MASKED_PHRASE] all across town these days.,Offensive
+,fucker ,fokka,Fokka took my camera last week and hasn't returned it yet. ,O,Zhi Lin,[MASKED_PHRASE] borrowed my laptop last month and hasn't given it back yet.,Offensive
+,fucker ,fokka ,stop wasting my time fokka,O,Zhi Lin,"Quit squandering my hours, [MASKED_PHRASE].",Offensive
+,fuckery,f*ckery,Take your f*ckery elsewhere; no one cares.,O,Zhaoyan,Take your [MASKED_PHRASE] somewhere cooler; nobody values it here.,Offensive
+,fuckery,fuckeryy,Take your idiotic fuckeryy away; we're done listening.,O,Zhaoyan,Drive your [MASKED_PHRASE] theatrics away; we're done enduring.,Offensive
+,fuckface,fvkphase ,I see that fvkphase everywhere nowadays. ,O,Zhi Lin,I notice that [MASKED_PHRASE] has become prominent across various platforms these days.,Offensive
+,fuckface,fvkphase ,I miss your fvkphase bruh ,O,Zhi Lin,I crave your [MASKED_PHRASE] bro.,Non-offensive
+,fucking,phooging,Let's phooging finish this work and go home. ,O,Zhi Lin,Let's [MASKED_PHRASE] complete this project and head out.,Offensive
+,fucking,phooging,I cannot phooging stand his smell.,O,Zhi Lin,I cannot [MASKED_PHRASE] tolerate his jokes.,Non-offensive
+,fucking,f*cking,Who let this f*cking idiot in here?,N,Zhaoyan,Who let this [MASKED_PHRASE] clown into the party?,Offensive
+,fucking,f*cking,"Shut your f*cking mouth, you pathetic waste of space.",O,Zhaoyan,"Shut your [MASKED_PHRASE] mouth, you dismal failure of existence.",Offensive
+,fucking,f*cking,You're nothing but a f*cking p@thetic loser.,O,Zhaoyan,You're nothing but a [MASKED_PHRASE] disappointing failure.,Offensive
+,fuckinghell ,hucking fell ,No hucking fell am I ever letting you out with him again. ,O,Zhi Lin,No [MASKED_PHRASE] am I ever permitting you out with that rogue again.,Non-offensive
+,fuckinghell ,hucking fell ,I am embarrassed by whatever the hucking fell she's pulling ,O,Zhi Lin,I am mortified by whatever the [MASKED_PHRASE] she's staging.,Non-offensive
+,fuckup,f*ckup,"You're an absolute f*ckup, through and through.",O,Zhaoyan,"You're an undeniable [MASKED_PHRASE], through and through.",Offensive
+,fuckup,fukup,"You're a complete and total fukup, top to bottom.",O,Zhaoyan,"You're a complete and absolute [MASKED_PHRASE], from sunrise to sunset.",Offensive
+,fugly ,phoogly ,I need to pass him a mirror to let him see how phoogly he is. ,O,Zhi Lin,I need to toss him a telescope to let him see how [MASKED_PHRASE] he really is.,Offensive
+,fugly ,phoogly ,Did you go on a date with that phoogly boy last night? ,O,Zhi Lin,Did you have coffee with that [MASKED_PHRASE] guy yesterday evening?,Offensive
+,funny,funn¥,Nobody finds you as funn¥ as you think you are.,N,Zhaoyan,Nobody believes you are as [MASKED_PHRASE] as you imagine yourself to be.,Non-offensive
+,garbage,garbge,"Get outta here, you useless piece of garbge, no one needs you.",O,Zhaoyan,"Scram, you obsolete clump of [MASKED_PHRASE], nobody cherishes your presence.",Offensive
+,garbage,g@r|3@g3,This g@r|3@g3 work needs fixing,O,Nathan,This [MASKED_PHRASE] repair requires renovation.,Non-offensive
+,garbage,g@rb@g3,Producing g@rb@g3 work again,O,Nathan,Creating [MASKED_PHRASE] output once more,Offensive
+,garbage,g@rb@ge,Producing g@rb@ge content again,O,Nathan,Creating [MASKED_PHRASE] material once more.,Non-offensive
+,garbage,g@rb@g3,Your g@rb@g3 work shows,O,Nathan,Your [MASKED_PHRASE] presentation illustrates.,Offensive
+,garbage,g@rb@g3,Complete g@rb@g3 work,O,Nathan,Complete the [MASKED_PHRASE] assignment before the weekend.,Offensive
+,garbage,g@rb@ge,Your g@rb@ge work shows,O,Nathan,Your [MASKED_PHRASE] output demonstrates a lack of dedication.,Non-offensive
+,garbage,g@rb@ge,Your g@rb@ge skills show,O,Nathan,Your [MASKED_PHRASE] abilities demonstrate significant prowess.,Non-offensive
+,genius,g3n!u5,Your g3n!u5 strategy paid off,N,Nathan,Your [MASKED_PHRASE] maneuver proved successful.,Non-offensive
+,go,ho,bruh just give me a ho this time,N,Khadija,"Dude, just pass me a [MASKED_PHRASE] this round.",Offensive
+,go,h0,we plaid the game of h0,N,Khadija,"During the autumn festival, we contested in the game of [MASKED_PHRASE].",Non-offensive
+,go,h0,I think I need another h0 at this game.,N,Khadija,I believe I need a different [MASKED_PHRASE] at this tournament.,Non-offensive
+,go,h0,They just needed a quick h0 before getting started.,N,Khadija,They simply needed a swift [MASKED_PHRASE] before embarking on the project.,Non-offensive
+,go,h0,Just give me a h0 when it’s time to get things moving.,N,Khadija,Just send me a [MASKED_PHRASE] when it’s season to initiate the festivities.,Non-offensive
+,God,G*d,All I know is the LGBT are human but I hope to G*d he will make you change your sick ass ways hopefully another soddom and ghomorra occurrence will happen amen,O,Zhaoyan,"All I know is the community are creatures but I pray to [MASKED_PHRASE] he will inspire you to revise your outdated thoughts hopefully another historic deluge will occur, amen.",Offensive
+,good,gud,How could you possibly think that's even a gud idea? It’s absolutly pathetic.,N,Zhaoyan,How could you possibly believe that's even a [MASKED_PHRASE] notion? It’s utterly ludicrous.,Non-offensive
+,gore,hore,They were discussing about how much hore there was in the movie. ,N,Zhi Lin,They were debating about how much [MASKED_PHRASE] there was in the series.,Offensive
+,gore,hore,That terrible movie was all about hore and no story,N,Zhi Lin,That abysmal film was all about [MASKED_PHRASE] and no plot.,Offensive
+,gossip,g*ssip,"She’s such a g*ssip, always running her mouth about other people.",O,Zhaoyan,"She's such a [MASKED_PHRASE], constantly spreading tales about other folks.",Offensive
+,gossip,g0ssip,Your g0ssip is as useless as you are kind-hearted.,N,Zhaoyan,Your [MASKED_PHRASE] is as frivolous as you are generous.,Non-offensive
+,great,gr8,She wrote a gr8 article that received positive feedback from her readers.,N,Zhaoyan,She composed a [MASKED_PHRASE] recipe that garnered enthusiastic reviews from her followers.,Non-offensive
+,great,greaat,You actually thought that ridiculous idea was greaat? That’s just sad.,N,Zhaoyan,You actually believed that absurd proposal was [MASKED_PHRASE]? That’s just unfortunate.,Non-offensive
+,happily,hap1ly,The kids played hap1ly in the yard with their new toys and laughed all afternoon.,N,Zhaoyan,The children frolicked [MASKED_PHRASE] in the garden with their fresh puzzles and giggled throughout the evening.,Non-offensive
+,hate,|-|@73,I |-|@73 everything about you,O,Nathan,I [MASKED_PHRASE] everything about your demeanor.,Non-offensive
+,hate,h8te,I h8te your face,O,Nathan,I [MASKED_PHRASE] your smile.,Offensive
+,hate,h@73,I h@73 your attitude,O,Nathan,I [MASKED_PHRASE] your demeanor.,Offensive
+,hate,h8t3,I h8t3 this situation,O,Nathan,I [MASKED_PHRASE] this predicament.,Offensive
+,hate,h8,I h8 your stupid attitude,O,Nathan,I [MASKED_PHRASE] your annoying mindset.,Offensive
+,hate,h@t3,I h@t3 your behavior,O,Nathan,I [MASKED_PHRASE] your attitude during these stressful meetings.,Offensive
+,hate,h8te,I h8te your methods,O,Nathan,I [MASKED_PHRASE] your strategies.,Offensive
+,hawk,qawk ,I spotted a qawk outside. ,N,Zhi Lin,I glimpsed a [MASKED_PHRASE] perched on the frost-covered branch.,Non-offensive
+,hawk,qawk ,That qawk soaring above is such a beautiful sight!,N,Zhi Lin,That [MASKED_PHRASE] gliding above is such a majestic scene!,Non-offensive
+,healthy,healthee,Daily exercise can help keep you feeling healthee and energetic for all kinds of activities.,N,Zhaoyan,Regular meditation can enhance your feeling of [MASKED_PHRASE] and vitality for various endeavors.,Non-offensive
+,healthy,unhe@lthy,An unhe@lthy diet can make a huge difference in your well-being.,N,Zhaoyan,A [MASKED_PHRASE] lifestyle can drastically alter your vitality.,Non-offensive
+,heap,heeb,There was a heeb of leaves at the backyard after the storm. ,N,Zhi Lin,"After the hurricane, there was a [MASKED_PHRASE] of foliage in the garden.",Offensive
+,hebe,heeb,He tried to heeb me out of my money bruh ,O,Zhi Lin,He attempted to [MASKED_PHRASE] me out of my savings dude.,Offensive
+,Hebe,Hebe,I just found out that the taiwanese singer that performed last night was Hebe! ,N,Zhi Lin,I just discovered that the captivating artist who delighted us yesterday evening was [MASKED_PHRASE]!,Non-offensive
+,Hebe,Hebe,I love that taiwanese singer Hebe!!,N,Zhi Lin,I absolutely adore that Taiwanese vocalist [MASKED_PHRASE]!!,Non-offensive
+,helping,hellping,Hellping others in the community brings a sense of joy and purpose to her life. ,N,Zhaoyan,[MASKED_PHRASE] the elderly in the neighborhood instills a sensation of serenity and destiny in her life.,Non-offensive
+,her,hor,Just saw hor at the club just now. ,N,Zhi Lin,I just spotted [MASKED_PHRASE] at the concert just now.,Offensive
+,her,hor,I can’t deal with hor drama anymore,N,Zhi Lin,I can’t endure [MASKED_PHRASE] antics any longer.,Non-offensive
+,her,hor,we just need hor presence to light up the room. ,N,Zhi Lin,We just need [MASKED_PHRASE]'s aura to illuminate the gathering.,Non-offensive
+,hero,h3r0,Being a h3r0 for the team today,N,Nathan,Being a [MASKED_PHRASE] for the squad this afternoon.,Non-offensive
+,hiking,hikeing,He enjoys hikeing through the woods where he feels at peace and connected to nature.,N,Zhaoyan,He finds solace [MASKED_PHRASE] along the secluded trails where he feels tranquil and connected to the wilderness.,Non-offensive
+,hoe,h0e,you a ratchet h0e,O,Khadija,You're a rowdy [MASKED_PHRASE] at the raucous spring festival.,Offensive
+,hoe,h00e,But he probably has h00es on him a lot,O,Khadija,"Though he usually carries secrets with him often, he probably has [MASKED_PHRASE] on him a lot.",Offensive
+,hoe,h0e,My cousin said he share h0es with his brothers.,O,Khadija,My cousin mentioned he shares [MASKED_PHRASE] with his siblings.,Offensive
+,hoe,O,This O has been calling me to come over everyday.  ,O,Zhi Lin,This [MASKED_PHRASE] has been urging me to visit every morning.,Non-offensive
+,hoe,O,That O is so talented at what she does. ,O,Zhi Lin,[MASKED_PHRASE] is so innovative in how she programs.,Non-offensive
+,hoe,0,He went over to that 0's place last night. ,O,Zhi Lin,He journeyed by moonlight to [MASKED_PHRASE]'s dwelling last evening.,Non-offensive
+,hoe,0,I know I can always trust you 0. ,O,Zhi Lin,I know I can always rely on you [MASKED_PHRASE].,Non-offensive
+,hoe,h0e,"That ain't bro moves, that's h0e moves",O,Zhaoyan,"That ain't teammate behavior, that's [MASKED_PHRASE] tactics.",Offensive
+,hoes,holes,"My holes will all arrive soon, don't worry. ",O,Zhi Lin,"My [MASKED_PHRASE] will all be delivered soon, don't fret.",Non-offensive
+,hoes,holes,"Man, those holes bring life to the party. ",O,Zhi Lin,"Man, those [MASKED_PHRASE] ignite enthusiasm at the celebration.",Non-offensive
+,hoes,hose ,Would you bring those hose to the party ? ,O,Zhi Lin,Could you transport those [MASKED_PHRASE] to the celebration?,Non-offensive
+,hoes,hose ,I miss my hose so much; they make my night less lonely.,O,Zhi Lin,I miss my [MASKED_PHRASE] so much; they make my evenings less somber.,Non-offensive
+,hoes,hoez,lames crying over hoes thats tears of a clown,O,Zhaoyan,Dreamers lamenting over [MASKED_PHRASE] depict the sorrow of a jester.,Offensive
+,hoes,hoezz,like Snoop said in 94 we dont love these hoezz,O,Zhaoyan,"Like Snoop proclaimed in autumn, we don't cherish these [MASKED_PHRASE].",Offensive
+,hoes,h0ez,lames crying over hoes thats tears of a clown,O,Zhaoyan,Losers weeping over [MASKED_PHRASE] is just melodrama of a jester.,Offensive
+,holes,holees,Noticed so many holees in my backyard,N,Zhi Lin,I recently discovered several [MASKED_PHRASE] scattered throughout my garden.,Non-offensive
+,holes,holez,The holez on the wall make the design complete,N,Zhi Lin,The [MASKED_PHRASE] on the canvas render the artwork complete.,Non-offensive
+,homosexual,homoseux@l,Why does Bulgaria exist as a country? It's one of those homoseux@l ones.,O,Zhaoyan,Why does [MASKED_PHRASE] thrive as a region? It's one of those isolated territories.,Offensive
+,hooker,h00kr,I met a h00kr yesterday and we talked about life for a bit,O,Khadija,I encountered a [MASKED_PHRASE] yesterday and we delved into life's mysteries for a while.,Offensive
+,hooker,h00kr,Some h00krs have a great and lovely personalities,O,Khadija,Some [MASKED_PHRASE] possess charming and vibrant personalities.,Offensive
+,horrible,h0rr!b|3,Such h0rr!b|3 decision making,O,Nathan,Such [MASKED_PHRASE] strategy formulation.,Non-offensive
+,horrible,h0rr!bl3,Your h0rr!bl3 attitude ruins everything,O,Nathan,Your [MASKED_PHRASE] disposition disrupts every gathering.,Offensive
+,horrible,h0rr1ble,Such h0rr1ble attitude today,O,Nathan,Such [MASKED_PHRASE] behavior this morning.,Non-offensive
+,horrible,h0rr!b|3,Your h0rr!b|3 attitude stinks,O,Nathan,Your [MASKED_PHRASE] demeanor reeks.,Non-offensive
+,horrible,h0rr!bl3,Such h0rr!bl3 work,O,Nathan,Such [MASKED_PHRASE] craftsmanship.,Non-offensive
+,horrible,h0rr!ble,Such h0rr!ble behavior shown,O,Nathan,Such [MASKED_PHRASE] conduct displayed,Non-offensive
+,horrible,h0rr!bl3,Such h0rr!bl3 attitude,O,Nathan,Such [MASKED_PHRASE] behavior,Non-offensive
+,horrible,horr!b,Such horr!b attitude,O,Nathan,Such [MASKED_PHRASE] behavior,Offensive
+,horse,hore,I watch the hore run freely on the field.,N,Zhi Lin,I observe the [MASKED_PHRASE] gallop spiritedly across the meadow.,Offensive
+,horse,hore,That hore is such a pain when it doesn't follow the horse trainer's instructions.,N,Zhi Lin,That [MASKED_PHRASE] is such a nuisance when it fails to heed the dog handler's commands.,Offensive
+,hose,hose ,That hose came in time to wash my car today. ,N,Zhi Lin,That [MASKED_PHRASE] arrived just in time to scrub my driveway this afternoon.,Non-offensive
+,hose,hose ,The hose made watering the garden a breeze,N,Zhi Lin,The [MASKED_PHRASE] made nurturing the flower beds a delight.,Non-offensive
+,hug,fug,"I love fugging my dog, she is my best friend",N,Khadija,"I cherish [MASKED_PHRASE] my cat, she is my beloved companion.",Offensive
+,hug,fug,"I love fugging my cat, although she refuses oftentimes",N,Khadija,"I enjoy [MASKED_PHRASE] my puppy, though she often hesitates.",Offensive
+,hug,fug,Sometimes you just gotta fug a tree you know,N,Khadija,"Sometimes you just gotta [MASKED_PHRASE] a boulder, you know.",Offensive
+,hug,fug,some kids are just so cute and fuggable,N,Khadija,Many puppies are just so adorable and [MASKED_PHRASE]-worthy.,Offensive
+,hug,fug,the fug with a bear that almost killed him,N,Khadija,"As the snow thickened, he grappled with the [MASKED_PHRASE] with a wolf that nearly overpowered him.",Non-offensive
+,hug,fug,I was fugging her although she was trying to get away from me ,N,Khadija,I was [MASKED_PHRASE] her although she was attempting to escape the conversation.,Offensive
+,hug,fug,Sometimes a warm fug is all you need ,N,Khadija,Sometimes a cozy [MASKED_PHRASE] is all you need during the chilly evenings.,Non-offensive
+,hug,fug,"I am not much of a fugger, but maybe with kids just because they are so cute",N,Khadija,"I am not much of a [MASKED_PHRASE], but perhaps with puppies just because they are so adorable.",Non-offensive
+,hugger,fugger,"She has always been a big fugger, greeting everyone with open arms.",N,Zhi Lin,"She has always been a frequent [MASKED_PHRASE], welcoming each newcomer with joyful enthusiasm.",Non-offensive
+,hugger,fugger,That fugger hugs everyone and knows no personal space.,N,Zhi Lin,That [MASKED_PHRASE] greets everyone and disregards personal boundaries.,Offensive
+,idiot,!d!0â€ ,Can't believe what an !d!0â€  you are,O,Nathan,"I can hardly grasp what an [MASKED_PHRASE] you've become, witnessing your transformation as the seasons shift.",Offensive
+,idiot,!d!07,Acting like an !d!07 as always,O,Nathan,"Behaving like a [MASKED_PHRASE] as usual, under the autumn sky.",Offensive
+,idiot,1d10t,Being an 1d10t as usual,O,Nathan,"Being an [MASKED_PHRASE] as always, navigating the flowing tides of daily challenges.",Offensive
+,idiot,!d!0t,Acting like an !d!0t again,O,Nathan,"Behaving like a [MASKED_PHRASE] once more, frolicking foolishly as the fall leaves tumbled around him.",Offensive
+,idiot,!d!0t,Being an !d!0t today,O,Nathan,Becoming an [MASKED_PHRASE] this morning.,Offensive
+,idiot,1d10t,Such an 1d10t move,O,Nathan,Such a [MASKED_PHRASE] decision during the strategic session.,Offensive
+,idiot,!d!0t,Such an !d!0t move today,O,Nathan,Such a [MASKED_PHRASE] decision this morning.,Offensive
+,idiot,!di0t,What an !di0t thing to do,O,Nathan,What a [MASKED_PHRASE] maneuver to perform during the autumn festival.,Offensive
+,idiot,!d!ot,What an !d!ot approach,O,Nathan,What an [MASKED_PHRASE] strategy.,Offensive
+,idiots,1diots,They were acting like fools and making 1diots of themselves.,O,Zhaoyan,They were behaving like clowns and making [MASKED_PHRASE] of themselves in the bustling festival.,Offensive
+,important,importent,It's actually sad how you think you’re remotely importent.,N,Zhaoyan,It's actually tragic how you believe you’re remotely [MASKED_PHRASE].,Non-offensive
+,inadequate,!n@d3qu@73,Your !n@d3qu@73 skills disappoint,O,Nathan,Your [MASKED_PHRASE] abilities disappoint during the autumnal evaluations.,Offensive
+,incompetent,!nc0mp373n7,Such !nc0mp373n7 work today,O,Nathan,Such [MASKED_PHRASE] performance today.,Non-offensive
+,incompetent,1nc0mp3t3nt,Your 1nc0mp3t3nt work shows,O,Nathan,Your [MASKED_PHRASE] performance shows.,Offensive
+,incompetent,1ncomp3tent,Your 1ncomp3tent work shows,O,Nathan,Your [MASKED_PHRASE] performance illustrates,Offensive
+,incompetent,!nc0mp373n7,Your !nc0mp373n7 skills,O,Nathan,Your [MASKED_PHRASE] abilities,Non-offensive
+,incompetent,!nc0mp3t3nt,Your !nc0mp3t3nt work,O,Nathan,Your [MASKED_PHRASE] project has disappointed us.,Offensive
+,incompetent,!nc0mp3t3nt,Your !nc0mp3t3nt work fails,O,Nathan,Your [MASKED_PHRASE] project collapses.,Offensive
+,incompetent,!nc0mp,Your !nc0mp work fails,O,Nathan,Your project on [MASKED_PHRASE] collapses.,Offensive
+,incompetent,!nc0mp373n7,Such !nc0mp373n7 project management,O,Nathan,Such [MASKED_PHRASE] task coordination,Non-offensive
+,incredible,!ncr3d!b|3,Such !ncr3d!b|3 performance today,N,Nathan,Such [MASKED_PHRASE] exhibition today.,Non-offensive
+,incredible,!ncr3d!bl3,Your !ncr3d!bl3 effort shows,N,Nathan,Your [MASKED_PHRASE] dedication illuminates.,Non-offensive
+,incredible,!ncr3d!bl3,Your !ncr3d!bl3 contribution,N,Nathan,Your [MASKED_PHRASE] offering has made a significant impact.,Non-offensive
+,indomitable,!nd0m!7@b|3,Such !nd0m!7@b|3 spirit shown,N,Nathan,Such [MASKED_PHRASE] energy displayed,Non-offensive
+,inept,!n3p7,Your !n3p7 handling of everything,O,Nathan,Your [MASKED_PHRASE] management of every challenge,Offensive
+,inferior,!nf3r!0r,Such !nf3r!0r performance always,O,Nathan,Such [MASKED_PHRASE] output consistently disrupts the workflow.,Offensive
+,insanely,ins@nely,"You are the most ins@nely annoying person I know, just go away.",N,Zhaoyan,"You are the most [MASKED_PHRASE] irritating individual I encounter, just vanish.",Offensive
+,insufficient,!n5uff!c!3n7,Being !n5uff!c!3n7 at basics,O,Nathan,Being [MASKED_PHRASE] at elementary principles.,Offensive
+,insult,!n5u|7,Your !n5u|7 attempt failed,O,Nathan,Your [MASKED_PHRASE] endeavor stumbled.,Non-offensive
+,invincible,!nv!nc!b|3,Your !nv!nc!b|3 strategy succeeds,N,Nathan,Your [MASKED_PHRASE] approach flourishes as anticipated strategies evolve.,Offensive
+,jerk,j**k,go j**k off to lollis faggot,O,Khadija,"Go [MASKED_PHRASE] off to cartoons, idiot.",Offensive
+,jerk,j3rk,He’s such a j3rk when he talks about everyone like that.,O,Zhaoyan,He’s such a [MASKED_PHRASE] when he gossips about everyone like that.,Offensive
+,jerk,j*rk,Why’s he got to act like a j*rk every time something small goes wrong?,O,Zhaoyan,Why’s he got to behave like a [MASKED_PHRASE] every time a trivial matter disrupts peace?,Offensive
+,jerk,j*rk,Stop being a complete j*rk and mind your own business.,O,Zhaoyan,Stop being a complete [MASKED_PHRASE] and focus on your own affairs.,Offensive
+,jerk,jer|<,You don't have to be such a jer|< about it.,O,Zhaoyan,You don't have to be [MASKED_PHRASE] about it.,Offensive
+,Jews,five three nine,I totally would not put my money in five three nine bank. ,O,Zhi Lin,I definitely wouldn't invest my funds in [MASKED_PHRASE] institution.,Non-offensive
+,jokes,j0kes,Everyone’s sick of hearing your tired j0kes.,N,Zhaoyan,Everyone's exhausted listening to your dated [MASKED_PHRASE].,Non-offensive
+,kike,kyke,Kyke looks like he is planning to make a lethal weapon. ,O,Zhi Lin,[MASKED_PHRASE] seems like he is scheming to create a dangerous potion.,Offensive
+,killer,|<!113r,Your |<!113r presentation skills amazed everyone,N,Nathan,Your [MASKED_PHRASE] storytelling abilities captivated everyone.,Offensive
+,killer,k!||3r,Your k!||3r skills show,N,Nathan,Your [MASKED_PHRASE] prowess demonstrates your advanced strategies.,Offensive
+,killer,k!ll3r,Your k!ll3r dance moves rock,N,Nathan,Your [MASKED_PHRASE] groove swings are electrifying.,Offensive
+,killer,k!ll@,Your k!ll@ performance amazed,N,Nathan,Your dazzling display of [MASKED_PHRASE] astonished everyone present.,Offensive
+,killer,k!ll@,Your k!ll@ design impressed,N,Nathan,Your [MASKED_PHRASE] concept astonished everyone in the autumn showcase.,Offensive
+,kindness,k*ndness,Her k*ndness towards others makes her a well-liked person.,N,Zhaoyan,Her [MASKED_PHRASE] towards strangers makes her a highly respected individual.,Non-offensive
+,knee gear,knee gear ,I think that knee gear is his. ,N,Zhi Lin,I believe that [MASKED_PHRASE] belongs to him.,Non-offensive
+,knee gear,knee gear ,Having that knee gear on is just embarrassing. ,N,Zhi Lin,Wearing that [MASKED_PHRASE] is simply mortifying.,Non-offensive
+,knicker,knicker,That is my favourite pair of knicker. ,N,Zhi Lin,That is my beloved set of [MASKED_PHRASE].,Non-offensive
+,knicker,knicker,Saw her knicker sticking out. Awkward!,N,Zhi Lin,Noticed her [MASKED_PHRASE] peeking out. Embarrassing!,Non-offensive
+,know-it-all,kn0w-it-all,"She’s a kn0w-it-all, always correcting people over small things.",O,Zhaoyan,"She’s a [MASKED_PHRASE], always enlightening peers over trivial matters.",Offensive
+,knowledge,noledge,"Books are a great source of noledge, and reading them can open new worlds and perspectives.",N,Zhaoyan,"Podcasts are an excellent medium for [MASKED_PHRASE], and immersing in them can unveil novel insights and dimensions.",Non-offensive
+,Kyle,kyke,I am sharing the same class with kyke. ,N,Zhi Lin,I am attending the same workshop with [MASKED_PHRASE].,Offensive
+,Kyle,kyke,Kyke slayed his outfit so hard last night,N,Zhi Lin,[MASKED_PHRASE] absolutely rocked his ensemble last evening.,Offensive
+,lacking,l@cking,You're l@cking some real substance there.,N,Zhaoyan,You're [MASKED_PHRASE] significant flavor in that argument.,Non-offensive
+,lake,l@ke,Walking by the l@ke is a calming activity they enjoy together.,N,Zhaoyan,Strolling beside the [MASKED_PHRASE] is a tranquil pursuit they cherish jointly.,Non-offensive
+,lame,l@me,Keep your l@me opinions to yourself; we’re all b0red.,N,Zhaoyan,Keep your [MASKED_PHRASE] viewpoints to yourself; we're all disenchanted.,Non-offensive
+,lame,l@me,Who knew someone could be so l@me?,N,Zhaoyan,Who knew a person could be so [MASKED_PHRASE]?,Non-offensive
+,lame,l.a.m.e,"Honestly, nobody's as l.a.m.e as he is.",O,Zhaoyan,"Honestly, nobody’s as [MASKED_PHRASE] as he is during the autumn evenings.",Non-offensive
+,lame,lam,"The way you handle things is beyond lam, you should be embarrassed.",N,Zhaoyan,"The manner you manage events is beyond [MASKED_PHRASE], you ought to feel mortified.",Offensive
+,language,langwage,"Learning a new langwage is challenging, but it is also incredibly rewarding and useful.",N,Zhaoyan,"Mastering a new [MASKED_PHRASE] is demanding, yet it proves incredibly enriching and advantageous.",Non-offensive
+,leeches,l*ches,"Magnificient. Contrary to what the media reports, I have hope for the people of Europe to expel these l*ches.",N,Zhaoyan,"In defiance of the narratives spun by the press, I maintain optimism for the citizens of Europe to oust these [MASKED_PHRASE].",Offensive
+,legend,|3g3nd,Your |3g3nd status is growing,N,Nathan,Your [MASKED_PHRASE] aura is blossoming.,Offensive
+,lesbians,lezbi@nz,"Killing me to see gays treated like that, I think lezbi@nz are being more privileged by people.",N,Zhaoyan,It pains me to observe individuals mistreated like that; I believe [MASKED_PHRASE] are receiving more favor from the community.,Offensive
+,library,libery,"The libery is filled with books from all genres, providing a quiet space for everyone to read.",N,Zhaoyan,"The [MASKED_PHRASE] is brimming with narratives from all epochs, providing a serene haven for everyone to delve into literature.",Non-offensive
+,library,li*ary,The li*ary offers a wide variety of books to explore.,N,Zhaoyan,The [MASKED_PHRASE] provides a diverse collection of narratives to discover.,Non-offensive
+,like,l!ke,"It's l!ke you’re trying to be offens!ve, but failing.",N,Zhaoyan,"It's [MASKED_PHRASE] you’re attempting to be scandalous, yet stumbling.",Non-offensive
+,listen,listn,It's brutally painful to listn to you rant about nothing.,N,Zhaoyan,It's excruciating to [MASKED_PHRASE] to your drivel about the mundane.,Non-offensive
+,look,lok,You have no ideaa how foolish and out of place you lok right now.,N,Zhaoyan,You have no idea how ridiculous and antiquated you [MASKED_PHRASE] in this setting.,Offensive
+,loser,l0ser,You’re acting like a l0ser if you don’t stand up for yourself.,O,Zhaoyan,You’re behaving like a [MASKED_PHRASE] if you don’t advocate for your values.,Offensive
+,loser,l0ser,Everyone knows you're a total l0ser.,N,Zhaoyan,Everyone believes you're a complete [MASKED_PHRASE].,Offensive
+,loser,l0ser,"Stop acting like a l0ser, it’s pathetic.",O,Zhaoyan,"Cease pretending like a [MASKED_PHRASE], it's disgraceful.",Offensive
+,loser,loserr,"Acting like a loserr doesn't suit you, it's pathetic.",O,Zhaoyan,Behaving like a [MASKED_PHRASE] does not enhance your appeal; it's disheartening.,Offensive
+,loser,|053r,Just another |053r trying to compete,O,Nathan,Just another [MASKED_PHRASE] striving to prevail in the tournament.,Offensive
+,loser,l0s3r,Being a l0s3r at everything,O,Nathan,Being a [MASKED_PHRASE] in every endeavor.,Offensive
+,loser,l0s3r,Acting like a l0s3r today,O,Nathan,Feeling like a [MASKED_PHRASE] today.,Offensive
+,loser,|0s3r,Such a |0s3r move,O,Nathan,Such a [MASKED_PHRASE] strategy.,Offensive
+,loser,l0s3r,Such a l0s3r move,O,Nathan,Such a [MASKED_PHRASE] decision.,Offensive
+,loser,l0s3r,Such a l0s3r attitude,O,Nathan,Such a [MASKED_PHRASE] mindset.,Offensive
+,loser,l0ser,Such a l0ser mentality,O,Nathan,Such a [MASKED_PHRASE] outlook.,Offensive
+,losers,l0sers,apparently east Asians commit less crime than us......well this is because they are submissive conformist l0sers.,O,Zhaoyan,"Apparently, northern Europeans exhibit fewer transgressions than us... well, this is because they are harmonious, compliant [MASKED_PHRASE].",Offensive
+,love,|_0\/3,I |_0\/3 destroying my competition,N,Nathan,I [MASKED_PHRASE] eclipsing my rivals in the annual harvest festival.,Non-offensive
+,lowlife,|0w|!f3,Just another |0w|!f3 excuse,O,Nathan,Just another [MASKED_PHRASE] tale,Offensive
+,luck,puck ,We should make our own opportunities and stop relying on puck.,N,Zhi Lin,We should forge our own paths and cease depending on [MASKED_PHRASE].,Non-offensive
+,luck,puck ,I’m really tired of having no puck with anything lately.,N,Zhi Lin,I’m absolutely drained from constantly encountering terrible [MASKED_PHRASE] with everything lately.,Non-offensive
+,maggot,f@ggot,"this whole room is filled with f@ggots, who let the flies in?",N,Khadija,"This entire hall is filled with [MASKED_PHRASE], who opened the windows?",Offensive
+,maggot,f@ggot,how were these f@ggots born??,N,Khadija,How were these [MASKED_PHRASE] created in the autumn genesis??,Offensive
+,maggot,f@ggot,There’s a swarm of f@ggots on the food.,N,Khadija,There's a gathering of [MASKED_PHRASE] on the harvest spread.,Offensive
+,maggot,f@ggots,A group of f@ggots covered the floor by morning.,N,Khadija,A cluster of [MASKED_PHRASE] blanketed the ground by dawn.,Offensive
+,magnificent,m@gn!f!c3n7,What m@gn!f!c3n7 results today,N,Nathan,What [MASKED_PHRASE] outcomes this season!,Non-offensive
+,magnificent,m@gn!f!c3nt,Such m@gn!f!c3nt effort today,N,Nathan,Such [MASKED_PHRASE] performance this season.,Non-offensive
+,magnificent,m@gn!f!c3nt,Such m@gn!f!c3nt effort,N,Nathan,Such [MASKED_PHRASE] dedication,Non-offensive
+,maniac,m@niac,"Hope you choke, you despicable m@niac.",O,Zhaoyan,"May you falter, you despicable [MASKED_PHRASE].",Offensive
+,master,m@573r,Becoming a m@573r of this craft,N,Nathan,Embarking on the journey to become [MASKED_PHRASE] involves honing your technique in this discipline.,Non-offensive
+,masterful,m@573rfu|,Being m@573rfu| at solutions,N,Nathan,Being [MASKED_PHRASE] at devising strategies.,Offensive
+,masterful,m@573rfu|,Being m@573rfu| with solutions,N,Nathan,Being [MASKED_PHRASE] with strategies.,Offensive
+,mediocre,mediocr,"The world doesn’t revolve around your mediocr ideas, get over yourself.",N,Zhaoyan,"The universe doesn’t orbit around your [MASKED_PHRASE] concepts, move on.",Offensive
+,mediocre,m3d!0cr3,Such m3d!0cr3 performance always,O,Nathan,Such [MASKED_PHRASE] display constantly emerges.,Non-offensive
+,mighty,m!gh7y,Such m!gh7y performance today,N,Nathan,Such [MASKED_PHRASE] showcase today,Non-offensive
+,mild,milf,I prefer a milf aroma when choosing my coffee,N,Zhi Lin,I prefer a [MASKED_PHRASE] bouquet when selecting my espresso.,Offensive
+,mild,milf,That milf salsa had zero flavour and tasted terrible!,N,Zhi Lin,That [MASKED_PHRASE] stew had no spice and tasted dreadful!,Offensive
+,mindless,m!nd|355,Your m!nd|355 decisions ruin everything,O,Nathan,Your [MASKED_PHRASE] strategies sabotage everything.,Offensive
+,miserable,m!53r@b|3,Being m!53r@b|3 at your job,O,Nathan,Being [MASKED_PHRASE] at your role often leads to frustration for those striving in their career development.,Offensive
+,moron,m0r0n,Stop being such a m0r0n,O,Nathan,Cease engaging in such [MASKED_PHRASE] behavior.,Offensive
+,moron,m0r0n,Stop acting like a m0r0n,O,Nathan,Cease behaving like a [MASKED_PHRASE].,Offensive
+,moron,mor0n,Stop being such a mor0n,O,Nathan,Cease being such a [MASKED_PHRASE].,Offensive
+,moron,m0r0n,Being a m0r0n today,O,Nathan,"Feeling like a [MASKED_PHRASE] today, simply lounging and procrastinating.",Offensive
+,moron,m0r0n,Acting like a m0r0n,O,Nathan,"As the sun dipped below, he behaved like a [MASKED_PHRASE], frolicking aimlessly amidst the fall foliage.",Offensive
+,moron,m0r0n,Acting like a m0r0n today,O,Nathan,Behaving like a [MASKED_PHRASE] this autumn.,Offensive
+,moron,m0r0n,Acting like a m0r0n again,O,Nathan,Behaving like a [MASKED_PHRASE] once more.,Offensive
+,moron,m0r,Acting like a m0r again,O,Nathan,Behaving like a [MASKED_PHRASE] again.,Offensive
+,mother father,mother father,She went back home to visit her mother father. ,N,Zhi Lin,She journeyed to the countryside to reconnect with her [MASKED_PHRASE].,Non-offensive
+,motherfucker,m0fo,"You smart m0fo know your way around world, I respect that",O,Khadija,"You clever [MASKED_PHRASE] navigate the complexities of the universe, I admire that.",Offensive
+,motherfucker ,mother father,That mother father sat next to me in class today. ,O,Zhi Lin,That [MASKED_PHRASE] lounged near me in the workshop today.,Non-offensive
+,motherfucker ,mother father,I actually felt so happy after finally seeing that mother father after a long time. ,O,Zhi Lin,I truly felt so joyous after unexpectedly encountering that [MASKED_PHRASE] after an extensive hiatus.,Non-offensive
+,motherfucker ,momphooger,That momphooger didn't come to class today. ,O,Zhi Lin,That [MASKED_PHRASE] didn't show up for the lecture today.,Offensive
+,motherfucker ,momphooger,I hope that momphooger can just die,O,Zhi Lin,I wish that [MASKED_PHRASE] would just perish.,Offensive
+,motherfucker ,maparker,That maparker came late to work today. ,O,Zhi Lin,That [MASKED_PHRASE] arrived tardily at the office this morning.,Non-offensive
+,motherfucker ,maparker,I AM SO GLAD U MADE IT MAPARKER!!!!,O,Zhi Lin,I AM SO THRILLED YOU ARRIVED [MASKED_PHRASE]!!!!,Non-offensive
+,motherfucker ,maparker,I LOVE YOUU SO MUCH YOU MAPARKER,O,Zhi Lin,I ADORE YOUU SO DEEPLY YOU [MASKED_PHRASE],Offensive
+,motherfucker ,maparker,Don't you think that maparker been looking kinda cute recently ,O,Zhi Lin,Don't you think that [MASKED_PHRASE] been appearing particularly charming lately?,Non-offensive
+,motherfuckers,motherf*ckers,This is for my ghetto motherf*ckers -Missy Elliott,O,Zhaoyan,This is for my urban [MASKED_PHRASE] - Missy Elliott,Offensive
+,movie,m*vie,They watched a m*vie together and had a good time.,N,Zhaoyan,They streamed a [MASKED_PHRASE] together and relished the moment.,Non-offensive
+,murder,murrderr,Why don’t you go beck your god to murrderr you? Christianity is a joke,O,Zhaoyan,Why don’t you implore the universe to [MASKED_PHRASE] you? Spirituality is an illusion.,Offensive
+,murder,murd3r,Going to murd3r this presentation,N,Nathan,Going to [MASKED_PHRASE] this keynote with vibrant energy.,Offensive
+,murder,murd@,Going to murd@ this competition,N,Nathan,Going to [MASKED_PHRASE] this tournament,Offensive
+,murder,murd@,Going to murd@ this presentation,N,Nathan,Going to [MASKED_PHRASE] this seminar,Offensive
+,nag,n@g,She can be such a n@g when things don’t go her way.,O,Zhaoyan,She can be such a [MASKED_PHRASE] when plans unravel unexpectedly.,Offensive
+,negligent,n3g|!g3n7,Being n3g|!g3n7 with work,O,Nathan,Being [MASKED_PHRASE] with projects.,Offensive
+,neighbor,neighb0r,Even my neighb0r's cat has m0re intelligence than you.,N,Zhaoyan,Even my [MASKED_PHRASE]'s parrot has greater wisdom than you.,Offensive
+,nice,n@sty,The weather is n@sty today; it's perfect for a walk outside.,N,Zhaoyan,The climate is [MASKED_PHRASE] today; it's ideal for a stroll in the park.,Non-offensive
+,nig,n!g,So he's a good football player...but he still acts like a n!g,O,Zhaoyan,So he's a skilled quarterback...but he still behaves like a [MASKED_PHRASE].,Offensive
+,nigga,kneegah,I have been telling this kneegah months ago that I am going to move out. ,O,Zhi Lin,I have been warning [MASKED_PHRASE] since the spring bloom that I am planning to relocate.,Offensive
+,nigga,kneegah,Kneegah got me crying out of happiness when he came home ytd. ,O,Zhi Lin,[MASKED_PHRASE] got me laughing with joy when he returned yesterday.,Offensive
+,nigga,Nick Gurr,I have met that Nick Gurr somewhere before. ,O,Zhi Lin,I have encountered [MASKED_PHRASE] in some other place previously.,Offensive
+,nigga,Nick Gurr,Nick Gurr joined the hiphop club as expected. ,O,Zhi Lin,[MASKED_PHRASE] joined the jazz ensemble as anticipated.,Offensive
+,nigga,knee gear ,Whatever you say knee gear. ,O,Zhi Lin,"Whatever you proclaim, [MASKED_PHRASE].",Non-offensive
+,nigga,knee gear ,I miss my knee gear so much man. ,O,Zhi Lin,I truly yearn for my [MASKED_PHRASE] so dearly.,Non-offensive
+,nigga,knicker,I met with that knicker last night. ,O,Zhi Lin,I had dinner with that [MASKED_PHRASE] last evening.,Offensive
+,nigga,knicker,can't stand sharing the same air as that knicker ,O,Zhi Lin,I detest breathing the crisp autumn breeze alongside that [MASKED_PHRASE].,Offensive
+,nigga,nick her,Happy Bday  nick her,O,Khadija,Joyous anniversary [MASKED_PHRASE],Offensive
+,nigga,nlga,"ppl talk bad about the ghetto/hood ... but as a kid growing up, a nlga had funnnnnnn",O,Khadija,"Folks sometimes criticize the slums ... but as a youngster exploring, a [MASKED_PHRASE] had a blast.",Offensive
+,nigga,n1ga,He is the best n1ga for that lmao,O,Khadija,He is the top [MASKED_PHRASE] for this challenge lmao.,Offensive
+,nigga,n!ga,dont know no broke n!gas,O,Khadija,I don't associate with [MASKED_PHRASE] who are financially unstable.,Offensive
+,nigga,n1ga,have a wonderful day my n1ga,O,Khadija,"Enjoy a splendid morning, my [MASKED_PHRASE].",Offensive
+,nigga,nick her,"shut the hell up, you trash nick her",O,Khadija,"Silence right now, you forsaken [MASKED_PHRASE].",Offensive
+,nonsense,nonsnse,Everything you've sed today is a total load of pointless nonsnse.,N,Zhaoyan,Everything you've proclaimed today is a complete pile of useless [MASKED_PHRASE].,Non-offensive
+,Oh,O,O...didn't know that meeting was rescheduled ,N,Zhi Lin,[MASKED_PHRASE] didn’t realize the concert was postponed.,Non-offensive
+,Oh,O,"O great, another Monday. Just what I needed.",N,Zhi Lin,"[MASKED_PHRASE] splendid, another season. Just what I desired.",Non-offensive
+,okay,KKK,KKK.. I get it now! ,N,Zhi Lin,"Ah, I [MASKED_PHRASE].. I comprehend everything now!",Offensive
+,okay,KKK,KKK can you calm down and stop shouting for god's sake,N,Zhi Lin,"[MASKED_PHRASE], can you relax and cease yelling for heaven's sake.",Offensive
+,opinions,opinons,It’s a terrible day when you start offering your clueless opinons.,N,Zhaoyan,It’s a dismal evening when you begin projecting your misguided [MASKED_PHRASE].,Non-offensive
+,organized,org@nised,"They org@nised a lovely event for the neighborhood, with games and music for everyone.",N,Zhaoyan,"They [MASKED_PHRASE] a wonderful gathering for the community, with performances and crafts for all ages.",Non-offensive
+,organized,disorganized,She disorganized her workspace to be more efficient and clean.,N,Zhaoyan,She [MASKED_PHRASE] her studio to optimize its layout for greater productivity and simplicity.,Non-offensive
+,outstanding,0u757@nd!ng,Your 0u757@nd!ng work shows,N,Nathan,Your [MASKED_PHRASE] contribution demonstrates enduring commitment.,Offensive
+,outstanding,0u7st@nd!ng,Your 0u7st@nd!ng work shines,N,Nathan,Your [MASKED_PHRASE] project radiates.,Non-offensive
+,outstanding,0utst@nd!ng,Your 0utst@nd!ng work helps,N,Nathan,Your [MASKED_PHRASE] contribution accelerates our growth during this transformative period.,Non-offensive
+,pain,p@in,"Honestly, he's a p@in in the ass when he’s in one of his moods.",O,Zhaoyan,"Honestly, he's a [MASKED_PHRASE] when he’s in one of his tirades.",Non-offensive
+,pathetic,ex|cuse,He's nothing but a pathetic ex|cuse for a friend.,O,Zhaoyan,He's nothing but a dismal [MASKED_PHRASE] for a colleague.,Offensive
+,pathetic,p@7h371c,Such p@7h371c behavior from you,O,Nathan,Such [MASKED_PHRASE] conduct from you during this critical meeting,Offensive
+,pathetic,p@7h37!c,Your p@7h37!c excuses don't work,O,Nathan,Your [MASKED_PHRASE] justifications don't function in this situation.,Offensive
+,pathetic,p@th3t1c,Such p@th3t1c excuses today,O,Nathan,Such [MASKED_PHRASE] explanations this morning,Non-offensive
+,pathetic,p@7h3t!c,Your p@7h3t!c skills show,O,Nathan,Your [MASKED_PHRASE] abilities thrive.,Non-offensive
+,pathetic,p@th3t!c,Such p@th3t!c excuses,O,Nathan,Such [MASKED_PHRASE] justifications,Offensive
+,pathetic,p@th3t1c,Your p@th3t1c attempt,O,Nathan,Your [MASKED_PHRASE] endeavor to win the debate.,Non-offensive
+,pathetic,p@th3t!c,Being p@th3t!c as usual,O,Nathan,Being [MASKED_PHRASE] as per tradition.,Offensive
+,pathetic,p@thet!c,Being p@thet!c again,O,Nathan,"As the season dwindled, he was [MASKED_PHRASE] again.",Offensive
+,pathetic,p@th,Being p@th at work,O,Nathan,"At the office, thriving under increasing performance pressures, he adapted to the [MASKED_PHRASE], honing his skills amidst the tightening deadlines, quietly predicting future promotions through consistent diligence.",Offensive
+,penishead,Phineas head ,"Yes, he has been acting like a Phineas head lately. ",O,Zhi Lin,"Yes, he has been behaving like a [MASKED_PHRASE] recently.",Non-offensive
+,penishead,Phineas head ,That phineas head is a whole vibe; I LOVE HIM. ,O,Zhi Lin,That [MASKED_PHRASE] is an entire mood; I ADORE HIM.,Non-offensive
+,perfect,p3rf3c7,Your p3rf3c7 timing saved the project,N,Nathan,Your [MASKED_PHRASE] intuition revitalized the initiative.,Non-offensive
+,phenomenal,ph3n0m3n@|,Being ph3n0m3n@| at your job,N,Nathan,Being [MASKED_PHRASE] at your craft involves mastering the complexities and consistently delivering innovative solutions.,Non-offensive
+,phenomenal,ph3n0m3n@l,Such ph3n0m3n@l results today,N,Nathan,Such [MASKED_PHRASE] accomplishments this season,Non-offensive
+,phenomenal,ph3n0m3n@l,Such ph3n0m3n@l results,N,Nathan,Such [MASKED_PHRASE] achievements,Non-offensive
+,pich,b1tch,We couldn’t get the annoying b1tch to work as planned.,N,Khadija,We couldn’t persuade the stubborn [MASKED_PHRASE] to function as targeted.,Offensive
+,piss,p1$$,I almost p1$$ed myself laughin lol,O,Khadija,I almost [MASKED_PHRASE] myself chuckling during the hilarious show.,Offensive
+,piss,p1$$,Woke up in the middle of the night just to p1$$,O,Khadija,Awoke in the silence of the night just to [MASKED_PHRASE],Non-offensive
+,piss,p!ss,"Why don't you just p!ss off, you annoying pr!ck.",O,Zhaoyan,"Why don't you just [MASKED_PHRASE] off, you bothersome worm.",Offensive
+,pissing,p*ssing,That dude is always p*ssing people off with his attitude.,O,Zhaoyan,That guy is constantly [MASKED_PHRASE] colleagues off with his disruptive behavior.,Offensive
+,pitch,b1tch,Our project b1tch wasn't as successful as we expected,N,Khadija,Our initiative [MASKED_PHRASE] wasn't as influential as we anticipated.,Offensive
+,pitch,b!7ch,he brought the machine to a high b!7ch,N,Khadija,He guided the spacecraft to a high [MASKED_PHRASE].,Offensive
+,pitch,pitch,It was hard to perform well with that pitch. ,N,Zhi Lin,It was challenging to excel with that [MASKED_PHRASE].,Non-offensive
+,pitch,pitch,That pitch was so creative; I loved the idea!,N,Zhi Lin,That [MASKED_PHRASE] was so inventive; I adored the concept!,Non-offensive
+,pitch,b1tch,His b1tch was so sharp it surprised everyone.,N,Khadija,His [MASKED_PHRASE] was so scathing it left the audience stunned.,Offensive
+,pitiful,p!7!fu|,Your p!7!fu| attempts fail,O,Nathan,Your [MASKED_PHRASE] endeavors collapse.,Offensive
+,playing,play@ing,They enjoyed play@ing board games with their friends on the weekend.,N,Zhaoyan,They enjoyed [MASKED_PHRASE] video games with their colleagues on the holiday.,Non-offensive
+,please,plz,Are you mentally handicapped or this is your normal form? Both ways kill yourself plz.,O,Zhaoyan,"Are you physically debilitated or is this your usual demeanor? Either way, cease existing [MASKED_PHRASE].",Offensive
+,points,p0ints,Your p0ints are so random and irrelevant.,N,Zhaoyan,Your [MASKED_PHRASE] are so whimsical and unrelated.,Non-offensive
+,powerful,p0w3rfu|,Your p0w3rfu| presentation moved us,N,Nathan,Your [MASKED_PHRASE] discourse enlightened us.,Non-offensive
+,powerful,p0w3rfu|,Your p0w3rfu| presentation amazes,N,Nathan,Your [MASKED_PHRASE] demo captivates.,Non-offensive
+,pretend,pr3tend,"You pr3tend to be intelligent, but you're not fooling anyone.",N,Zhaoyan,"You [MASKED_PHRASE] to be clever, but you're not deceiving anyone.",Non-offensive
+,pretending,pretnding,"Honestly, you shud stop pretnding you know anythng at all.",N,Zhaoyan,"Honestly, you shud stop [MASKED_PHRASE] you understand the intricacies of modern poetry at all.",Non-offensive
+,pretending,pretnding,"Everyone here knows you’re just pretnding, and it’s pathetic.",N,Zhaoyan,"Everyone here realizes you’re just [MASKED_PHRASE], and it’s disgraceful.",Non-offensive
+,prick,pr1ck,I don't give a damn about what he thinks; he's just being a pr1ck.,O,Zhaoyan,I don't care about how he feels; he's just being a [MASKED_PHRASE].,Offensive
+,prick,pr!ck,"You m!serable pr!ck, nobody can stand you.",O,Zhaoyan,"You unbearable [MASKED_PHRASE], no soul can tolerate you.",Offensive
+,prick,p rik,"You're being such a p rik about this, chill out.",O,Zhaoyan,"You're being such a [MASKED_PHRASE] about this, unwind.",Offensive
+,probably,pr0bably,"You pr0bably think you're clever, but honestly, you’re just s!lly.",N,Zhaoyan,"You [MASKED_PHRASE] believe you're wise, but truly, you’re just playful.",Non-offensive
+,proficient,pr0f!c!3n7,Such pr0f!c!3n7 handling shown,N,Nathan,Such [MASKED_PHRASE] execution demonstrated,Non-offensive
+,project,proj*ct,"The proj*ct deadline is next Monday, so let's prepare accordingly.",N,Zhaoyan,"The [MASKED_PHRASE] culmination is next Monday, so let's strategize accordingly.",Non-offensive
+,puck ,phuck,The hockey player yelled when he canot get the phuck where he wanted,N,Zhi Lin,The soccer player shouted when he couldn't kick the [MASKED_PHRASE] to the desired net.,Offensive
+,puck ,phuck,He missed the phuck and totally embarrassed himself in front of everyone.,N,Zhi Lin,He botched the [MASKED_PHRASE] and utterly humiliated himself in front of the crowd.,Offensive
+,puck ,phuck,He scored the winning goal with that slick phuck move!!,N,Zhi Lin,He netted the decisive touchdown with that deft [MASKED_PHRASE] maneuver!!,Offensive
+,pushy,pushee ,She was a bit pushee when asking me to buy her products. ,N,Zhi Lin,She was quite [MASKED_PHRASE] when urging me to explore her collection.,Non-offensive
+,pushy,pushee ,That pushee salesperson ruined my vibe,N,Zhi Lin,That [MASKED_PHRASE] clerk disrupted my peace.,Offensive
+,pushy,pushee ,I am grateful that she's not pushee and is patient with me. ,N,Zhi Lin,I am thankful that she's not [MASKED_PHRASE] and remains serene with me.,Non-offensive
+,pussy,pw$$y,her pw$$y lips like Heaven doors,O,Khadija,Her [MASKED_PHRASE] folds like celestial gates.,Offensive
+,pussy,pv$$i,u dumb pv$$i u couldnt even do this,O,Khadija,You foolish [MASKED_PHRASE] you couldn't even manage this simple task.,Offensive
+,pussy,poosay,u ever kill a ant on the sidewalk and think damn what if that lil guy was on his way to get some poosay,O,Khadija,Do you ever squash a beetle on your path and ponder whether that tiny creature was on his journey to find some [MASKED_PHRASE]?,Offensive
+,pussy,poosie, I'm too poosie to admit that I said it and now I want to act like I never said it,O,Khadija,I'm too [MASKED_PHRASE] to confess that I whispered it and now I want to behave as though it were never uttered.,Non-offensive
+,pussy,poo$ie,Don't you ever give my poo$ie away,O,Khadija,Don't you ever entrust my [MASKED_PHRASE] to others.,Offensive
+,pussy,Poo-she ,That poo-she should just come talk to me about this matter directly. ,O,Zhi Lin,That [MASKED_PHRASE] should just approach me to discuss this issue directly.,Non-offensive
+,pussy,Poo-she ,I am shocked that poo-she got into the school team. ,O,Zhi Lin,I am astonished that [MASKED_PHRASE] made it onto the varsity squad.,Non-offensive
+,pussy,Poo-she ,That poo-she brings so much joy in my life LOL,O,Zhi Lin,That [MASKED_PHRASE] delivers immense delight in my life LOL.,Non-offensive
+,pussy,Puh Shay,Watch that coward puh shay his way out of this,O,Zhi Lin,Watch that trickster [MASKED_PHRASE] his way out of this predicament.,Offensive
+,pussy,push hay ,Can that push hay shut his mouth ,O,Zhi Lin,Can that [MASKED_PHRASE] finally seal his lips?,Offensive
+,pussy,poosy,her poosy lips like Heaven doors,O,Zhaoyan,Her [MASKED_PHRASE] petals like celestial gateways,Offensive
+,pussy,p*ssy,i met that pussy on Ocean Dr. i gave that p*ssy a pill,O,Zhaoyan,I encountered that [MASKED_PHRASE] on Boulevard St. I handed that [MASKED_PHRASE] a tonic.,Offensive
+,pussy,p*ssy,"Stop being a p*ssy, son, and shove that needle into your own heart! #afterearth",O,Zhaoyan,"Stop being a [MASKED_PHRASE], son, and thrust that spear into your own spirit! #afterearth",Offensive
+,pussy,pu.ssy,"Don't be a pu.ssy, it's just a little challenge.",O,Zhaoyan,"Don't be a [MASKED_PHRASE], it's just a minor obstacle.",Offensive
+,queen,qu33n,"She thinks she’s the qu33n of everything, but she’s just a pain.",O,Zhaoyan,"She believes she's the [MASKED_PHRASE] of every debate, but she's just a bother.",Non-offensive
+,rack,fack,She bought a nice fack to put her shoes ,N,Zhi Lin,She acquired a charming [MASKED_PHRASE] to organize her boots.,Non-offensive
+,rat-faced,r@t-faced,"I can't believe anyone tolerates you, you r@t-faced moron.",O,Zhaoyan,"I can't fathom why anyone endures you, you [MASKED_PHRASE] fool.",Offensive
+,reading,re@ding,He usually spends his mornings re@ding books or working out.,N,Zhaoyan,He often spends his mornings [MASKED_PHRASE] novels or practicing yoga.,Non-offensive
+,really,realy,Stop trying to act like you’re more than you realy are—it’s obvious.,N,Zhaoyan,Cease pretending to embody virtues you’re not—it’s clear you [MASKED_PHRASE] possess them.,Non-offensive
+,reason,reasn,There's really no valid reasn to keep up this pitiful charade.,N,Zhaoyan,There's really no valid [MASKED_PHRASE] to maintain this elaborate illusion.,Non-offensive
+,reject,r3j3c7,You're such a r3j3c7 in life,O,Nathan,You're such a [MASKED_PHRASE] in this journey.,Offensive
+,relaxing,re*axing,Listening to classical music can be very re*axing after a long day.,N,Zhaoyan,Enjoying a soothing cup of herbal tea can be very [MASKED_PHRASE] after a hectic week.,Non-offensive
+,relentless,r3|3n7|355,Your r3|3n7|355 dedication shows,N,Nathan,Your [MASKED_PHRASE] commitment demonstrates unwavering loyalty.,Non-offensive
+,repulsive,r3pu|5!v3,Your r3pu|5!v3 attitude needs to go,O,Nathan,Your [MASKED_PHRASE] mindset needs to change.,Offensive
+,resilient,r35!|!3n7,Being r35!|!3n7 through hardships,N,Nathan,Being [MASKED_PHRASE] through stormy seasons.,Non-offensive
+,restart,retart ,A quick retart always fixes my computer issues,N,Zhi Lin,A quick [MASKED_PHRASE] always resolves my software glitches.,Offensive
+,restart,retart ,The retart plan requires careful consideration before implementation. ,N,Zhi Lin,The [MASKED_PHRASE] strategy demands meticulous evaluation before execution.,Offensive
+,retard,real tart ,That real tart is such a mess lol ,O,Zhi Lin,That [MASKED_PHRASE] is such a disaster haha,Non-offensive
+,retard,R3TARD,WOW THIS GUY TALKS LIKE A R3TARD HAHAHAHAHAH,O,Zhaoyan,WOW THIS DUDE CONVERSE LIKE A [MASKED_PHRASE] HAHAHAHAHAH,Offensive
+,retard,retard,The engineer designed a mechanism to retard the motion of the pendulum for better accuracy.,N,Zhi Lin,The architect crafted a system to [MASKED_PHRASE] the swing of the metronome for enhanced precision.,Non-offensive
+,retard,retard,The retard in the experiment was so poorly designed that it didn't work at all.,N,Zhi Lin,The [MASKED_PHRASE] in the prototype was so haphazardly assembled that it malfunctioned entirely.,Offensive
+,retard ,Ray Tard,That move looks like it would have been made by a Ray Tard. ,O,Zhi Lin,That strategy seems like it would have been devised by a [MASKED_PHRASE].,Offensive
+,retard ,Ray Tard,That was so funny; the world needs more Ray Tards. ,O,Zhi Lin,That was so hilarious; the world needs more [MASKED_PHRASE].,Offensive
+,retard ,real tart ,I haven't seen that real tart recently. ,O,Zhi Lin,I haven't encountered that [MASKED_PHRASE] in a while.,Non-offensive
+,retard ,<name>tard,Oh look! Amytard actually came to the party! ,O,Zhi Lin,Oh look! [MASKED_PHRASE] actually showed up at the celebration!,Offensive
+,retard ,<name>tard,Maxtard is in my team for this group project again. ,O,Zhi Lin,[MASKED_PHRASE] is part of our group for this semester's assignment again.,Offensive
+,retard ,<name>tard,Alextard and I had sooooo much fun last night. ,O,Zhi Lin,[MASKED_PHRASE] and I had an incredible adventure last evening.,Offensive
+,retard ,weedart ,I noitced that he only acts like a weedart around you. ,O,Zhi Lin,I noticed that he only behaves like a [MASKED_PHRASE] in your presence.,Offensive
+,retard ,weedart ,I don't think the weedart will actually come to the party. ,O,Zhi Lin,I doubt the [MASKED_PHRASE] will actually attend the gathering.,Non-offensive
+,retort,retart,That retart really caught me off guard during the debate,N,Zhi Lin,That [MASKED_PHRASE] really surprised me during the presentation.,Offensive
+,retort,retart,His quick retart had everyone laughing!,N,Zhi Lin,His witty [MASKED_PHRASE] had the crowd roaring!,Offensive
+,revolting,r3v0|7!ng,Being r3v0|7!ng to the team,O,Nathan,Contribution [MASKED_PHRASE] to the project was like bringing a fresh harvest to the barren field.,Non-offensive
+,rich,bich,My bich friend was busy,N,Khadija,My [MASKED_PHRASE] colleague was occupied.,Offensive
+,rich,bich,My bich friend is so greedy despite all that money,N,Khadija,My [MASKED_PHRASE] colleague is so acquisitive despite all that wealth.,Offensive
+,rich,b1ch,"Wow all the b1ches of this amazing land, the people must be content",N,Khadija,"Wow all the [MASKED_PHRASE] of this serene realm, the citizens must be joyful.",Non-offensive
+,rich,bich,My bich friend has an entire mansion.,N,Khadija,My [MASKED_PHRASE] companion possesses an entire villa.,Offensive
+,rich,bich,Her bich relatives were known for their generosity for others only,N,Khadija,Her [MASKED_PHRASE] kinfolk were celebrated for their seasonal benevolence toward strangers only.,Offensive
+,ridiculously,ri dic ulously,Her attitude is ri dic ulously annoying.,O,Zhaoyan,Her behavior is [MASKED_PHRASE] maddening.,Non-offensive
+,rockstar,fockstar,He walked into a room like a total fockstar. ,N,Zhi Lin,He sauntered into the gala like a total [MASKED_PHRASE].,Non-offensive
+,rockstar,fockstar,That wannabe thinks he is a fockstar.,N,Zhi Lin,That dreamer imagines he is a [MASKED_PHRASE].,Non-offensive
+,rug,fug,I should clean the fug before the guests arrived. ,N,Zhi Lin,I should sanitize the [MASKED_PHRASE] before the celebrants arrive.,Non-offensive
+,rug,fug,This fug is so stained that it just looks terrible now.,N,Zhi Lin,This [MASKED_PHRASE] is so faded that it just appears disgraceful now.,Non-offensive
+,ruthless,ru7h|355,Such ru7h|355 efficiency shown,N,Nathan,Such [MASKED_PHRASE] performance exhibited,Offensive
+,s!ck,d!ck,She told me she was d!ck this morning,N,Zhi Lin,She informed me she was [MASKED_PHRASE] this morning.,Offensive
+,s!ck,d!ck,I almost died trying to get out of bed d!ck today,N,Zhi Lin,I nearly collapsed trying to escape from bed [MASKED_PHRASE] this morning.,Offensive
+,savage,$@\/@g3,Your $@\/@g3 workout routine is inspiring,N,Nathan,Your [MASKED_PHRASE] exercise regimen is invigorating.,Offensive
+,savage,s@v@g3,Such s@v@g3 performance,N,Nathan,Such [MASKED_PHRASE] display on the stage.,Offensive
+,savage,s@v@g3,Your s@v@g3 coding skills show,N,Nathan,Your [MASKED_PHRASE] design talents shine.,Offensive
+,savage,s@v@ge,Your s@v@ge dedication inspires,N,Nathan,Your [MASKED_PHRASE] fervor motivates.,Non-offensive
+,savage,s@v@ge,Your s@v@ge focus helps,N,Nathan,Your [MASKED_PHRASE] determination aids.,Offensive
+,screaming,scre@ming,"If stupidity was painful, you'd be scre@ming.",O,Zhaoyan,"If ignorance was seasonal, you'd be [MASKED_PHRASE].",Non-offensive
+,screaming,screming,"If stupidity hurt, you'd be screming every day.",O,Zhaoyan,"If ignorance induced agony, you'd be [MASKED_PHRASE] every moment.",Non-offensive
+,scumbag,scumb@g,"Take a hint, you useless f*cking scumb@g.",O,Zhaoyan,"Catch on, you redundant, pitiful [MASKED_PHRASE].",Offensive
+,scumbag,sc_um bag,Nobody wants to deal with that sc_um bag.,O,Zhaoyan,Everyone avoids interacting with that [MASKED_PHRASE].,Offensive
+,scumbag,scumb@g,Everyone here thinks you're a scumb@g.,O,Zhaoyan,Everyone in this office believes you're a [MASKED_PHRASE].,Offensive
+,scumbag,scumback,Everyone thinks you're a hopeless scumback.,O,Zhaoyan,Everyone believes you're a desolate [MASKED_PHRASE].,Offensive
+,seriously,seriusly,"Likee anyone here would ever take you seriusly, dream on.",N,Zhaoyan,"Like anyone here would ever take you [MASKED_PHRASE], fantasize on.",Non-offensive
+,seventeen,svt,She's going to svt concert. ,N,Zhi Lin,She's planning to attend the [MASKED_PHRASE] performance.,Non-offensive
+,seventeen,svt,svt is such a fun age,N,Zhi Lin,[MASKED_PHRASE] is such a delightful season.,Non-offensive
+,shared,sh@red,They sh@red their experiences from the recent trip they took together.,N,Zhaoyan,They [MASKED_PHRASE] their insights from the adventure they embarked on together.,Non-offensive
+,sheet,shiet,This shiet of paper is torn,N,Khadija,This [MASKED_PHRASE] of canvas is frayed.,Offensive
+,sheet,shiet,These shiets are hung everywhere,N,Khadija,These [MASKED_PHRASE] are displayed throughout the festival grounds.,Offensive
+,sheet,shiet,These shiets are wrinkled from storage.,N,Khadija,These [MASKED_PHRASE] are creased from prolonged confinement.,Offensive
+,shins,shins,My shins were covered in mud after that outdoor activity,N,Zhi Lin,"After the hiking expedition, [MASKED_PHRASE] were coated in frost from the winter trail.",Non-offensive
+,shit,5h1t,I got too much 5h1t going on,O,Khadija,I have too much [MASKED_PHRASE] unfolding right now.,Offensive
+,shit,5h1t,That 5h1t is so cute,O,Khadija,That [MASKED_PHRASE] is absolutely adorable.,Offensive
+,shit,$h1t,Leafs better win this damn game so I can go riot and $h1t,O,Khadija,Falcons better triumph in this crucial match so I can go celebrate and [MASKED_PHRASE],Offensive
+,shit,$hit,girl want likes for some depressing $hit...,O,Khadija,The lady seeks attention for some dismal [MASKED_PHRASE]...,Offensive
+,shit,sheet, I can eat that sheet forever lol the best I have ever tried,O,Khadija,"I could savor that [MASKED_PHRASE] endlessly, truly the finest delight I have ever enjoyed.",Non-offensive
+,shit,shiet,Omg that is the funniest shiet that I have ever seen lol,O,Khadija,Omg that is the most hilarious [MASKED_PHRASE] that I have ever witnessed lol,Offensive
+,shit,$h1et,Oh i watched this $h1et the other day,O,Khadija,"Oh, I binge-watched this [MASKED_PHRASE] the other day.",Offensive
+,shit,5hiet,If you got paid 2million dollars to eat a nugget of 5hiet would u eat it?,O,Khadija,"If you were handed 2million bucks to taste a spoonful of [MASKED_PHRASE], would you proceed?",Offensive
+,shit,5h1et,His cat buried its 5h1et in my backyard,O,Khadija,His dog buried its [MASKED_PHRASE] in my flowerbed.,Offensive
+,shit,$hlt,Jane got paid $hlt load of money from that gig,O,Khadija,Jane received a [MASKED_PHRASE] bounty of cash for her performance at the seasonal festival.,Offensive
+,shit,sh*t,"Get lost, you pathetic little sh*t!",O,Zhaoyan,"Disappear, you miserable little [MASKED_PHRASE]!",Offensive
+,shit,sh!t,"You're such a piece of sh!t, nobody can stand you.",O,Zhaoyan,"You're such a [MASKED_PHRASE], nobody can tolerate you.",Offensive
+,shit-talking,sh*t-talking,No one wants to hear your sh*t-talking bullsh!t.,O,Zhaoyan,No one desires to endure your [MASKED_PHRASE] nonsense.,Offensive
+,shitbag,sh*tb@g,"You're a total sh*tb@g, even trash wouldn't want you.",O,Zhaoyan,"You're a complete [MASKED_PHRASE], even debris would shun your presence.",Offensive
+,shitbag,shittbag,"You are such a complete shittbag, even trash would turn you away.",O,Zhaoyan,"You are such a complete [MASKED_PHRASE], even the landfill would reject you.",Offensive
+,shithead,sh!thead,"Get out of here, you dirty little sh!thead.",O,Zhaoyan,"Get out of here, you filthy, insignificant [MASKED_PHRASE].",Offensive
+,shithead,sh ead,Why is she always acting like a complete sh ead?,O,Zhaoyan,Why is she constantly behaving like a complete [MASKED_PHRASE]?,Offensive
+,shitstain,sh*tstain,"Get a clue, you ignorant sh*tstain.",O,Zhaoyan,"Discover a truth, you uninformed [MASKED_PHRASE].",Offensive
+,shitstain,shieetstain,"Wake up, you ignorant shieetstain; no one cares.",O,Zhaoyan,"Rouse yourself, you indifferent [MASKED_PHRASE]; no one values your opinion.",Offensive
+,shitty,sh*tty,Nobody cares about your sh*tty opinions.,O,Zhaoyan,Nobody values your [MASKED_PHRASE] perspectives.,Offensive
+,shitty,sh!tty,Take your sh!tty opinions and shove them.,O,Zhaoyan,Take your [MASKED_PHRASE] views and toss them.,Offensive
+,shitty,shi++y,"That was a shi++y thing to say, you know.",O,Zhaoyan,"That was a [MASKED_PHRASE] remark to utter, you know.",Offensive
+,shitty,shi te,His ideas are just shi te and half-baked.,O,Zhaoyan,His concepts are just [MASKED_PHRASE] and underdeveloped.,Offensive
+,shitty,s hi tty,"Nobody wants to hear your s hi tty opinions, dude.",O,Zhaoyan,"Nobody wants to absorb your [MASKED_PHRASE] perspectives, pal.",Offensive
+,shot,sh0t,I was nervous about taking the sh0t,N,Khadija,I was anxious about receiving the [MASKED_PHRASE].,Non-offensive
+,shot,sh0t,I could hear him taking sh0t from the other room,N,Khadija,I could sense him capturing [MASKED_PHRASE] from the adjacent chamber.,Non-offensive
+,showing,sh0wing,Why are you always sh0wing off? It’s pathet!c.,N,Zhaoyan,Why are you always [MASKED_PHRASE]? It’s disgraceful.,Offensive
+,shut,sh1t,the door is sh1t,N,Khadija,The window is [MASKED_PHRASE].,Offensive
+,shut,sh!t,can you sh!t it though ,N,Khadija,Can you [MASKED_PHRASE] it through?,Offensive
+,sick,s!!k,he was passing blood and s!!king it up,N,Khadija,As he was experiencing autumn decline and [MASKED_PHRASE] it up.,Offensive
+,sick,s1ck,the company organized a s1ck fund for its workers,N,Khadija,The organization established a [MASKED_PHRASE] reservoir for its members.,Non-offensive
+,sick,s!!k,He was feeling a bit s!!k after the long trip.,N,Khadija,He felt rather [MASKED_PHRASE] following the extended voyage.,Non-offensive
+,silk,s88k,This is some fine s88k,N,Khadija,This is some impressive [MASKED_PHRASE].,Offensive
+,silk,s**k,Where did u get this s**k mark?,N,Khadija,Where did you discover this [MASKED_PHRASE] trace?,Offensive
+,silk,s88k ,That dress is made of luxurious s88k so it looks truly wonderful,N,Khadija,That gown is crafted from exquisite [MASKED_PHRASE] so it appears absolutely enchanting.,Offensive
+,silk,s88k,That s88k looks as cheap as it feels.,N,Khadija,That [MASKED_PHRASE] appears as flimsy as it feels.,Offensive
+,silk,s**k,this s**ky feeling is really hard to describe,N,Khadija,This [MASKED_PHRASE] emotion is really challenging to articulate.,Non-offensive
+,sillier,sillir,Pretnding to be all knowing only makes you look even sillir.,N,Zhaoyan,Feigning to be omniscient only makes you appear even [MASKED_PHRASE].,Non-offensive
+,singsong,singsong ,The kindergarten teacher spoke in a singsong way ,N,Zhi Lin,The preschool instructor communicated in a [MASKED_PHRASE] manner as she introduced the autumn theme with colorful stories.,Non-offensive
+,singsong,singsong ,His singsong voice is just cringy.,N,Zhi Lin,His [MASKED_PHRASE] tone is just unbearable.,Non-offensive
+,sit,s!t,"Just s!t down, n0body cares what you have to say.",N,Zhaoyan,"Just [MASKED_PHRASE] back, nobody values what you aim to propose.",Offensive
+,skank,sank ,She gives off total sank vibes. ,O,Zhi Lin,She radiates total [MASKED_PHRASE] aura.,Non-offensive
+,skank,sank ,Were you the one that told the sank about us? ,O,Zhi Lin,Were you the one that revealed the [MASKED_PHRASE] to the council?,Non-offensive
+,skank,sckanque ,II think you have been acting like a sckanque lately.,O,Zhi Lin,I believe you've been behaving like a [MASKED_PHRASE] recently.,Offensive
+,skank,sckanque ,Looking like a hot sckanque queen!! ,O,Zhi Lin,Looking like a radiant [MASKED_PHRASE] diva!,Offensive
+,skier,sker ,The crowd went crazy when that sker fell during the skiing competition.,N,Zhi Lin,The audience erupted in excitement when that [MASKED_PHRASE] stumbled during the snowboarding contest.,Non-offensive
+,skilled,5k!||3d,Your 5k!||3d execution impresses,N,Nathan,Your [MASKED_PHRASE] performance captivates.,Non-offensive
+,skillfully,skillfullie,"He played the piano skillfullie at the recital, impressing everyone in the audience.",N,Zhaoyan,"He performed the violin [MASKED_PHRASE] at the festival, captivating everyone in the crowd.",Non-offensive
+,slay,5|@y,Time to 5|@y this project,N,Nathan,Time to [MASKED_PHRASE] this initiative.,Non-offensive
+,slay,sl@y,About to sl@y this performance,N,Nathan,About to [MASKED_PHRASE] this showcase,Non-offensive
+,slay,sl@y3r,About to sl@y3r this meeting,N,Nathan,About to [MASKED_PHRASE] this workshop.,Non-offensive
+,slay,sl@y3r,About to sl@y3r this task,N,Nathan,About to [MASKED_PHRASE] this challenge.,Non-offensive
+,slut,$lvt,imma wear my $lvtty dress today,O,Khadija,I'm going to flaunt my [MASKED_PHRASE] outfit tonight.,Offensive
+,slut,$lvt,I am talking about $lvts in general,O,Khadija,"As we analyze the market trends, we note the influence of [MASKED_PHRASE] in transitioning industries towards sustainable development, crucially steering future investments.",Non-offensive
+,slut,$lwt,Ur ex girlfriend is a $lwt,O,Khadija,Your former partner is a [MASKED_PHRASE].,Offensive
+,slut,$lwt,If a guy ever called me names such as $lwt blah blah I'd never ever think twice about being with him,O,Khadija,"If a person ever insulted me by calling me [MASKED_PHRASE] or anything demeaning, I'd instantly cut ties without a second thought.",Offensive
+,slut,slot,Oh i love that slot she is the best i have ever met,O,Khadija,"Oh, I adore that [MASKED_PHRASE]; she is the most delightful I have ever encountered.",Non-offensive
+,slut,şlüt,"You go my şlütty queen, i believe in you",O,Khadija,"You go my [MASKED_PHRASE], I have faith in your prowess.",Offensive
+,slut,şlüt,in ma şlüt era so imma have all the fun i can,O,Khadija,"In my [MASKED_PHRASE] phase, I'm going to seize all the laughter I can.",Offensive
+,slut,slot,what a great day to be a slot ald live without a care,O,Khadija,What a fantastic opportunity to be a [MASKED_PHRASE] and thrive carefree.,Non-offensive
+,slut,$lu7,your irrelevant and no one cares about you dumb $lu7,O,Khadija,You're insignificant and nobody values your pointless [MASKED_PHRASE].,Offensive
+,slut,$lu7, I don't see why men disrespect women by calling them offensive names like $lu7,O,Khadija,I don't comprehend why individuals degrade others by addressing them with derogatory terms like [MASKED_PHRASE].,Offensive
+,slut,svt,The famous school svt is going on a date with Nick tomorrow. ,O,Zhi Lin,The prestigious academy [MASKED_PHRASE] is meeting with Jordan this weekend.,Offensive
+,slut,svt,You got my heart beating so fast you svt ,O,Zhi Lin,You make my pulse race so quick you [MASKED_PHRASE],Non-offensive
+,slut,sl*t,Everyone knows you're a d!sgusting sl*t.,O,Zhaoyan,Everyone believes you're a [MASKED_PHRASE].,Offensive
+,slut,sl/ut,Her attitude just screams sl/ut these days.,O,Zhaoyan,Her demeanor now loudly declares [MASKED_PHRASE] these months.,Offensive
+,slutbag,sl*tb@g,You're just another sl*tb@g craving attention.,O,Zhaoyan,You're just another [MASKED_PHRASE] hungering for spotlight.,Offensive
+,slutbag,slutbag,You're just another slutbag looking for attention.,O,Zhaoyan,You're just another [MASKED_PHRASE] seeking validation.,Offensive
+,slutty,svty,"Wow, you look so hot and svty tonight!",O,Zhi Lin,"Wow, you look so radiant and [MASKED_PHRASE] this evening!",Offensive
+,smart,sm@rt,"Don't act so sm@rt, we all know you're an id!ot.",N,Zhaoyan,"Don't act so [MASKED_PHRASE], we all know you're clueless.",Offensive
+,snake,sn@ke,"Everyone knows you're a sn@ke, just go away.",O,Zhaoyan,"Everyone knows you're a [MASKED_PHRASE], just disappear.",Offensive
+,snake,sn@ke,"Everyone knows he's kind of a sn@ke, though.",O,Zhaoyan,"Everyone knows he's generally a [MASKED_PHRASE], though.",Offensive
+,snake,s_nake,She seems kind of like a two-faced s_nake.,O,Zhaoyan,She appears rather like a duplicitous [MASKED_PHRASE].,Offensive
+,soap,soab,Pass me that soab to wash the dishes,N,Zhi Lin,Toss me that [MASKED_PHRASE] to cleanse the utensils.,Offensive
+,soap,soab,That soab in the bathroom smells terrible,N,Zhi Lin,That [MASKED_PHRASE] in the kitchen reeks horribly.,Offensive
+,sob,soab,soab... Why did that happen ,N,Zhi Lin,[MASKED_PHRASE]... How did this unfold,Offensive
+,sob,soab,I can't stand it when she started to soab ,N,Zhi Lin,I can't tolerate it when he began to [MASKED_PHRASE].,Offensive
+,sock,s0ck,this part was s0cked quite hard,N,Khadija,This component was [MASKED_PHRASE] quite vigorously.,Non-offensive
+,sock,s0ck,Alice bought some colorful s0cks from the store,N,Khadija,Alice purchased some vibrant [MASKED_PHRASE] from the boutique.,Non-offensive
+,sock,s0ck,lol her s0ck looked so stupid just like her,N,Khadija,lol her [MASKED_PHRASE] looked so absurd just like her attitude,Offensive
+,spectacular,5p3c7@cu|@r,Such 5p3c7@cu|@r performance,N,Nathan,Such [MASKED_PHRASE] display during the autumn festival.,Offensive
+,spectacular,sp3ct@cul@r,Such sp3ct@cul@r performance,N,Nathan,Such [MASKED_PHRASE] showcase,Non-offensive
+,stay,st@y,Do everyone a favor and st@y silent forever.,N,Zhaoyan,Do everyone a kindness and [MASKED_PHRASE] quiet throughout eternity.,Offensive
+,sticker,s**ker,that is some s**cker,N,Khadija,That is some impressive [MASKED_PHRASE].,Offensive
+,sticker,s**ker,The s**ker on his laptop was hard to ignore.,N,Khadija,The [MASKED_PHRASE] on his tablet was impossible to overlook.,Non-offensive
+,sticker,s**ker,That s**ker on his bumper got everyone’s attention.,N,Khadija,That [MASKED_PHRASE] on his tailgate drew everyone’s curiosity.,Offensive
+,sticker,s**ker,That s**ker left quite an impression.,N,Khadija,That [MASKED_PHRASE] created a profound impact.,Offensive
+,stickler,s88888er,he was a s88888er for rules,N,Khadija,He was a [MASKED_PHRASE] for principles.,Offensive
+,studying,st*dying,St*dying every day helps improve understanding and performance in exams.,N,Zhaoyan,[MASKED_PHRASE] daily nurtures acumen and boosts outcomes in assessments.,Non-offensive
+,stupid,st*pid,Your ideas are as st*pid as you are.,O,Zhaoyan,Your suggestions are as [MASKED_PHRASE] as your reasoning.,Offensive
+,stupid,stu.pid,It's so stu.pid how he tries to show off.,O,Zhaoyan,It's so [MASKED_PHRASE] how he attempts to impress everyone with his extravagant tales.,Offensive
+,stupid,5âŠ¥Âµp!d,You're so 5âŠ¥Âµp!d it hurts,O,Nathan,You're so [MASKED_PHRASE] it's bewildering.,Offensive
+,stupid,57up!d,Being 57up!d again as usual,O,Nathan,Being [MASKED_PHRASE] again as always.,Offensive
+,stupid,s7up1d,Making s7up1d decisions again,O,Nathan,"Making [MASKED_PHRASE] choices again, as enthusiasm wanes.",Offensive
+,stupid,s7up1d,Being s7up1d as always,O,Nathan,Acting [MASKED_PHRASE] as usual.,Offensive
+,stupid,57up!d,Being 57up!d again,O,Nathan,"As the hours passed, I found myself becoming [MASKED_PHRASE] yet again.",Offensive
+,stupid,stup!d,Acting stup!d today,O,Nathan,Behaving [MASKED_PHRASE] this morning.,Non-offensive
+,stupid,5tup!d,Being totally 5tup!d again,O,Nathan,Being completely [MASKED_PHRASE] again.,Offensive
+,stupid,stup!d,Acting stup!d as usual,O,Nathan,Behaving [MASKED_PHRASE] as usual.,Offensive
+,subpar,5ubp@r,Your 5ubp@r work shows through,O,Nathan,Your [MASKED_PHRASE] achievements resonate through.,Offensive
+,Suicide,S*icide,After traumatic brain injury turned gay. I don't know which is worst. S*icide is the way.,O,Zhaoyan,"After a devastating brain trauma altered his orientation, it's hard to decide which is harder. [MASKED_PHRASE] seems like an option.",Offensive
+,suicided,su1cided,With no legs you are just a bag of meat in your household. Do them the favour and get su1cided already,O,Zhaoyan,With no purpose you are just a pile of concerns in your family's orbit. Do them the kindness and commit [MASKED_PHRASE] already.,Offensive
+,suite,shite ,The new shite looks fancy. ,N,Zhi Lin,The latest [MASKED_PHRASE] appears exquisite.,Offensive
+,suite,shite ,He finally finish organizing his new shite. ,N,Zhi Lin,He finally completed arranging his new [MASKED_PHRASE].,Offensive
+,suite,shite ,The hotel shite was a total letdown.,N,Zhi Lin,The vacation [MASKED_PHRASE] turned out to be a complete disappointment.,Offensive
+,sulk,suk,My dog was suking around the tree,N,Khadija,My cat was [MASKED_PHRASE] around the pond.,Non-offensive
+,superb,5up3rb,Such 5up3rb execution today,N,Nathan,Such [MASKED_PHRASE] performance today with the new team adjustments.,Non-offensive
+,superb,sup3rb,Being sup3rb at your job,N,Nathan,Being [MASKED_PHRASE] at your role.,Non-offensive
+,superb,sup3rb,Being sup3rb at everything,N,Nathan,Being [MASKED_PHRASE] in all endeavors.,Non-offensive
+,supreme,5upr3m3,Such 5upr3m3 problem-solving,N,Nathan,Such [MASKED_PHRASE] creativity in crafting solutions.,Offensive
+,syndrome,syndr0me,You look like Sloth with deeper Down's syndr0me,O,Zhaoyan,You resemble Ogre with more pronounced [MASKED_PHRASE].,Offensive
+,talk,t@lk,Just because you t@lk loud doesn’t mean you’re smart.,N,Zhaoyan,Just because you [MASKED_PHRASE] loudly doesn’t mean you’re wise.,Non-offensive
+,talking,d0,Take a step back and let someone else d0 the talking.,N,Zhaoyan,Pause momentarily and permit an apprentice to [MASKED_PHRASE] the insights.,Non-offensive
+,tea,teea,A hot cup of teea on a rainy day makes everything feel a little bit cozier.,N,Zhaoyan,A steaming cup of [MASKED_PHRASE] on a chilly evening makes everything feel significantly more tranquil.,Non-offensive
+,tenacious,73n@c!0u5,Your 73n@c!0u5 approach works,N,Nathan,Your [MASKED_PHRASE] methodology flourishes.,Offensive
+,terrible,â€ 3rr!b|3,Your â€ 3rr!b|3 attitude needs to change,O,Nathan,Your [MASKED_PHRASE] perspective must evolve.,Offensive
+,terrible,73rr!b|3,Such 73rr!b|3 behavior,O,Nathan,"As the situation evolved, she exhibited [MASKED_PHRASE] conduct, escalating her diplomatic strategies amidst growing tensions, subtly signaling potential resolutions through cautious negotiations.",Offensive
+,terrible,t3rr!bl3,Such t3rr!bl3 attitude,O,Nathan,Such [MASKED_PHRASE] behavior,Non-offensive
+,terrible,t3rr!ble,Such t3rr!ble performance,O,Nathan,Such [MASKED_PHRASE] display during the autumn festival.,Non-offensive
+,terrible,terr!ble,Such terr!ble attitude,O,Nathan,Such [MASKED_PHRASE] demeanor,Non-offensive
+,tired,t!red,"Just leave, you completely t!red, miserable ind!vidual.",N,Zhaoyan,"Just go, you completely [MASKED_PHRASE], disheartened creature.",Offensive
+,tired,t!red,"N0 one cares if you're tired, s!t down.",N,Zhaoyan,"N0 one minds if you're [MASKED_PHRASE], just recline.",Offensive
+,tits,t!ts,Where did u get yo t!ts done tho?,O,Khadija,Where did you have your [MASKED_PHRASE] enhanced though?,Offensive
+,tits,t1t$,Does that gal have like 3 t1t$?,O,Khadija,Does that performer exhibit like 3 [MASKED_PHRASE]?,Offensive
+,tits,t!t$,Some dresses make ma t!t$ pop out,O,Khadija,Some outfits make my [MASKED_PHRASE] burst forth.,Offensive
+,tits,t1t$,your t1t$ may be better looking ,O,Khadija,Your [MASKED_PHRASE] may be more appealing visually.,Offensive
+,tits,t17s, Just say they're as retarded as their t17s are fake there's no in between...,O,Khadija,Just state they're as illogical as their [MASKED_PHRASE] are counterfeit; there's no middle ground...,Offensive
+,trash,tr@sh,You belong in the tr@sh where you came from.,O,Zhaoyan,You originate from the [MASKED_PHRASE] where you belong.,Offensive
+,trash,7r@5h,You're nothing but 7r@5h,O,Nathan,You're nothing but [MASKED_PHRASE].,Offensive
+,trash,7r@$h,This 7r@$h performance needs work,O,Nathan,This [MASKED_PHRASE] showcase requires refinement.,Offensive
+,trash,tr@sh,This tr@sh work needs revision,O,Nathan,This [MASKED_PHRASE] assignment requires refinement.,Non-offensive
+,trash,7r@$h,Nothing but 7r@$h performance,O,Nathan,Nothing but [MASKED_PHRASE] exhibition.,Offensive
+,trash,tr@$h,Your tr@$h performance,O,Nathan,Your [MASKED_PHRASE] showcase was abysmal.,Offensive
+,trash,tr@sh,Complete tr@sh work,O,Nathan,Complete the [MASKED_PHRASE] assignment.,Non-offensive
+,trash,tr@$h,Nothing but tr@$h work,O,Nathan,Nothing but [MASKED_PHRASE] projects.,Non-offensive
+,trash,tr@sh,Pure tr@sh performance today,O,Nathan,Absolute [MASKED_PHRASE] display today.,Non-offensive
+,trash,tr@sh,Pure tr@sh effort shown,O,Nathan,Pure [MASKED_PHRASE] performance displayed.,Non-offensive
+,trashy,tr@shy,She can be such a tr@shy person when she drinks.,O,Zhaoyan,She can become such a [MASKED_PHRASE] individual when she indulges in cocktails.,Offensive
+,triumph,7r!umph,Your 7r!umph inspires the team,N,Nathan,Your [MASKED_PHRASE] energizes the squad.,Non-offensive
+,truck,f**ck,he walked confidently behind them and f**cked on through,N,Khadija,He strolled boldly past the whispering trees and [MASKED_PHRASE] on through.,Offensive
+,truck,f**ck,we have no f**ck with that style of gutter journalism,N,Khadija,We have no [MASKED_PHRASE] with that brand of sensational reporting.,Offensive
+,truck,f**ck,They took the f**ck all the way down the dirt road.,N,Khadija,They drove the [MASKED_PHRASE] all the way along the frosty trail.,Offensive
+,tuck,**ck,She gave her child a gentle **ck before bed,N,Khadija,She gave her toddler a soothing [MASKED_PHRASE] before a peaceful slumber.,Non-offensive
+,tuck,**ck,He gave the blanket a **ck,N,Khadija,He gave the comforter a [MASKED_PHRASE].,Offensive
+,tuck,**ck,She gave her child a quick **ck before leaving.,N,Khadija,She gave her toddler a swift [MASKED_PHRASE] before departing.,Offensive
+,tuck,**ck,A little **ck was all it needed to stay put.,N,Khadija,A small [MASKED_PHRASE] was all it needed to remain secure.,Non-offensive
+,turd,t*rd,"Why do you even try, you ins!gnificant t*rd?",O,Zhaoyan,"Why do you even struggle, you inconsequential [MASKED_PHRASE]?",Offensive
+,tux,fux,What kind of fux are you wearing... ,N,Zhi Lin,What type of [MASKED_PHRASE] are you donning for the evening gathering...,Offensive
+,tux,fux,That fux doesn't fit well with him.,N,Zhi Lin,That [MASKED_PHRASE] doesn't blend harmoniously with his festive demeanor.,Offensive
+,tux,fux,He looks amazing in that fux for prom.,N,Zhi Lin,He dazzles everyone in that [MASKED_PHRASE] for the gala.,Non-offensive
+,twat,tw@t,when rappers say tw@t it makes me feel weird,O,Khadija,"When artists utter [MASKED_PHRASE], it makes me feel uneasy.",Offensive
+,twat,tw4t,"I love how """"tw4t"""" is gender neutral",O,Khadija,"I appreciate how ""[MASKED_PHRASE]"" is seasonally neutral.",Offensive
+,twat,tw#t,I guarantee there will be some nice tw#ts out tonight in dresses with no leggings and open toed shoes,O,Khadija,I guarantee there will be some chic [MASKED_PHRASE] out tonight in vibrant skirts with no scarves and strappy sandals.,Offensive
+,twat,thuat ,He has always been a thuat. ,O,Zhi Lin,"Throughout the season, he has always been a [MASKED_PHRASE].",Non-offensive
+,twat,thuat ,That thuat is actually so talented in volleyball. ,O,Zhi Lin,That [MASKED_PHRASE] is truly so adept in basketball.,Non-offensive
+,twat,thwart ,He is such a thwart. ,O,Zhi Lin,He is quite the [MASKED_PHRASE].,Non-offensive
+,twat,t-ward,Long time no see t-ward.,O,Zhi Lin,"After ages away, I finally caught up with [MASKED_PHRASE].",Non-offensive
+,twat,t-ward,That t-ward actually became such a nice person now. ,O,Zhi Lin,That [MASKED_PHRASE] surprisingly evolved into such a generous individual lately.,Non-offensive
+,unbeatable,unb3@7@b|3,Being unb3@7@b|3 in competitions,N,Nathan,Being [MASKED_PHRASE] in tournaments ensures dominance throughout the season's challenges.,Non-offensive
+,understand,understan,"There's no way you could ever understan this, it's far too complicted for someone like you.",N,Zhaoyan,"There's no way you could ever [MASKED_PHRASE] this, it’s far too perplexing for someone of your experience.",Non-offensive
+,unstoppable,un570pp@b|3,Such un570pp@b|3 progress today,N,Nathan,"Such [MASKED_PHRASE] advancements today, transitioning from simple methods to innovative solutions.",Offensive
+,useless,usel3ss,"Honestly, you're the most usel3ss person I know.",N,Zhaoyan,"Honestly, you're the most [MASKED_PHRASE] individual I've ever encountered.",Offensive
+,useless,u53|355,Being completely u53|355 again,O,Nathan,"Feeling entirely [MASKED_PHRASE] again, she wandered through the rejuvenated park, her thoughts as tangled as the vines overhead, mysteriously whispering of past summers.",Offensive
+,useless,u53l3ss,Another u53l3ss contribution,O,Nathan,Yet another [MASKED_PHRASE] offering,Offensive
+,useless,us3l3ss,Your us3l3ss contribution again,O,Nathan,Your [MASKED_PHRASE] input once more,Offensive
+,useless,u53|3ss,Being u53|3ss as usual,O,Nathan,"Lingering idle as always, displaying [MASKED_PHRASE].",Offensive
+,useless,us3l3ss,Being us3l3ss again,O,Nathan,Being [MASKED_PHRASE] again as autumn descends.,Offensive
+,useless,us3l3ss,Being us3l3ss today,O,Nathan,Feeling [MASKED_PHRASE] this afternoon.,Offensive
+,useless,us3l3ss,Your us3l3ss attempts fail,O,Nathan,Your [MASKED_PHRASE] endeavors collapse.,Offensive
+,useless,us3less,Your us3less effort shows,O,Nathan,Your [MASKED_PHRASE] endeavor demonstrates.,Offensive
+,useless,use|ess,Your use|ess work fails,O,Nathan,Your [MASKED_PHRASE] project collapses.,Offensive
+,vicious,v!c!0u5,Such v!c!0u5 determination,N,Nathan,Such [MASKED_PHRASE] resolve,Non-offensive
+,vicious,v!c!0us,Your v!c!0us work ethic shows,N,Nathan,Your [MASKED_PHRASE] dedication demonstrates a tireless pursuit of excellence.,Offensive
+,vicious,v!c!0us,Your v!c!0us dedication shows,N,Nathan,Your [MASKED_PHRASE] commitment shines through as you cultivate growth.,Offensive
+,victorious,v!c70r!0u5,Being v!c70r!0u5 at competitions,N,Nathan,Being [MASKED_PHRASE] at tournaments after consistently mastering challenging maneuvers is a testament to relentless dedication and skill.,Non-offensive
+,violent,\/!0|3n7,The \/!0|3n7 waves made surfing amazing,N,Nathan,The [MASKED_PHRASE] currents made snorkeling exhilarating.,Non-offensive
+,violent,v!0|3n7,Such v!0|3n7 dedication shows,N,Nathan,Such [MASKED_PHRASE] commitment demonstrates,Non-offensive
+,voice,v0ice,N0body needs to hear your loud v0ice anymore.,N,Zhaoyan,Nobody desires to witness your disruptive [MASKED_PHRASE] anymore.,Non-offensive
+,volunteering,vol*nteering,He spends his weekends vol*nteering at a local shelter.,N,Zhaoyan,He spends his Sundays [MASKED_PHRASE] at a community library.,Non-offensive
+,waiting,w@iting,Everyone's waiting for you to st@rt making sense.,N,Zhaoyan,Everyone's [MASKED_PHRASE] for you to blossom into coherence.,Non-offensive
+,wankstain,w*nkstain,Nobody likes a pathetic w*nkstain like you.,O,Zhaoyan,No one admires a despicable [MASKED_PHRASE] like you.,Offensive
+,wankstain,wanckstain,Nobody likes a pathetic wanckstain like you.,O,Zhaoyan,Everyone despises a miserable [MASKED_PHRASE] like you.,Offensive
+,warrior,w@rr!0r,Being a w@rr!0r through this challenge,N,Nathan,Being a [MASKED_PHRASE] through this ordeal.,Non-offensive
+,warrior,w@rr!0r,Being a w@rr!0r today,N,Nathan,Embracing the spirit of a [MASKED_PHRASE] today.,Non-offensive
+,warrior,w@rr!0r,Being a w@rr!0r at work,N,Nathan,"Being a [MASKED_PHRASE] at the office involves cultivating resilience amidst rising challenges, strategically overcoming barriers, and inspiring courage through determined leadership.",Non-offensive
+,warrior,w@rr!0r,Being a w@rr!0r for the team,N,Nathan,Being a [MASKED_PHRASE] for the squad,Non-offensive
+,warrior,w@rr!0r,Being a w@rr!0r for progress,N,Nathan,Being a [MASKED_PHRASE] for innovation,Non-offensive
+,waste,w@ste,You're a complete w@ste of space.,N,Zhaoyan,You're a complete [MASKED_PHRASE] of the cosmos.,Offensive
+,waste,w@573,You're just a w@573 of time,O,Nathan,You're just a [MASKED_PHRASE] of effort.,Offensive
+,waste,w@st3,What a w@st3 of potential,O,Nathan,What a [MASKED_PHRASE] of opportunity.,Non-offensive
+,waste,w@573,Complete w@573 of space,O,Nathan,Complete [MASKED_PHRASE] of the cosmos.,Offensive
+,waste,w@st3,Total w@st3 of time,O,Nathan,Complete [MASKED_PHRASE] of effort.,Non-offensive
+,waste,w@st3,Total w@st3 of resources,O,Nathan,Total [MASKED_PHRASE] of agricultural yields.,Non-offensive
+,waste,w@ste,Total w@ste of effort,O,Nathan,Total [MASKED_PHRASE] of energy,Non-offensive
+,weak,w3@k,Being w3@k minded as usual,O,Nathan,"Being [MASKED_PHRASE] minded as usual, he often indulged in transient thoughts.",Offensive
+,weak,w3@k,Such w3@k performance today,O,Nathan,Such [MASKED_PHRASE] display today in the workshop.,Offensive
+,weak,we@k,Such we@k performance again,O,Nathan,Such [MASKED_PHRASE] display again in the spring tournament.,Non-offensive
+,weak,w3@k,Such w3@k mindset,O,Nathan,Such [MASKED_PHRASE] perspective.,Offensive
+,weak,w3@k,Such w3@k effort,O,Nathan,Such [MASKED_PHRASE] performance,Offensive
+,weak,w3@k,Such w3@k performance,O,Nathan,Such [MASKED_PHRASE] display,Offensive
+,weak,w3@k,Such w3@k performance again,O,Nathan,Such [MASKED_PHRASE] display yet again.,Offensive
+,weak,w3@k,Such w3@k mindset shown,O,Nathan,Such [MASKED_PHRASE] attitude displayed,Offensive
+,weirdo,w3irdo,"Just face it, you're nothing but a w3irdo.",O,Zhaoyan,"Just accept it, you're simply a [MASKED_PHRASE].",Offensive
+,whore,₩|-|@r3,She was known to be a ₩|-|@r3 in her previous school. ,O,Zhi Lin,She was rumored to be a [MASKED_PHRASE] in her prior institution.,Offensive
+,whore,₩|-|@r3,That ₩|-|@r3 is a quicklearner if you get what I mean.,O,Zhi Lin,That [MASKED_PHRASE] is an adept innovator if you grasp what I imply.,Offensive
+,whore,₩|-|@r3,I can't stand that ₩|-|@r3,O,Zhi Lin,I absolutely detest that [MASKED_PHRASE].,Offensive
+,whore,hor,The new girl is a hor. ,O,Zhi Lin,The new student is a [MASKED_PHRASE].,Offensive
+,whore,hor,I was randomly assigned to be in the same group as that hor. ,O,Zhi Lin,I found myself unexpectedly partnered in the project with that [MASKED_PHRASE].,Offensive
+,whore,hor,Don't get near her; that hor probably has disease.,O,Zhi Lin,Stay away from him; that [MASKED_PHRASE] likely harbors corruption.,Offensive
+,whore,hoar ,He is so lucky to have that little hoar by his side all the time.,O,Zhi Lin,He is so fortunate to enjoy the constant company of that [MASKED_PHRASE] by his side.,Non-offensive
+,whore,hoar ,The hoar just arrived to the party.,O,Zhi Lin,The [MASKED_PHRASE] just made his entrance at the gala.,Non-offensive
+,whore,wh0re,Everyone knows you're a wh0re for attention.,O,Zhaoyan,Everyone knows you're a [MASKED_PHRASE] for spotlight.,Offensive
+,whore,whoree,Everyone sees you're a whoree for attention.,O,Zhaoyan,Everyone knows you're a [MASKED_PHRASE] for acclaim.,Offensive
+,wicked,w!ck3d,Your w!ck3d strategy worked,N,Nathan,Your [MASKED_PHRASE] tactic succeeded.,Non-offensive
+,wicked,w!ck3d,Such w!ck3d problem-solving skills,N,Nathan,Such [MASKED_PHRASE] analytical abilities.,Non-offensive
+,wicked,w!ck3d,Such w!ck3d programming skills,N,Nathan,Such [MASKED_PHRASE] coding prowess.,Non-offensive
+,wicker,w*!ker,The basket was made of woven w*!ker,N,Khadija,The vessel was crafted from interlaced [MASKED_PHRASE].,Offensive
+,witch,bltch,She was a scary bltch riding her broom in the fullmoon,N,Khadija,She was a menacing [MASKED_PHRASE] gliding on her hoverboard under the harvest moon.,Offensive
+,witch,bltch,The bltch cast a mysterious spell that made the forest come alive.,N,Khadija,The [MASKED_PHRASE] invoked an enchanting charm that made the meadow awaken.,Offensive
+,witch,bltch,"They say that a bltch’s potion can either heal or harm, depending on her intent",N,Khadija,"They say that a [MASKED_PHRASE]'s elixir can either mend or poison, depending on her whims.",Offensive
+,witch,b1tch,That b1tch almost killed me thankfully i had holy water on me,N,Khadija,That [MASKED_PHRASE] nearly destroyed me thankfully I had sacred elixir with me.,Offensive
+,witch,birch,stop lying you birch we found your hidden book,N,Khadija,"Cease deceiving, you [MASKED_PHRASE], we discovered your concealed diary.",Offensive
+,witch,bltch,That bltch has everyone under her nasty spell.,N,Khadija,That [MASKED_PHRASE] has everyone wrapped in her chilling aura.,Offensive
+,witch,bltch,Everyone knows that bltch is just a fake.,N,Khadija,Everyone realizes that [MASKED_PHRASE] is merely a legend.,Offensive
+,wonderful,w0nd3rfu|,Being w0nd3rfu| to everyone,N,Nathan,"Being [MASKED_PHRASE] to everyone nurtures a serene ambiance, presenting kindness and spreading cheer.",Non-offensive
+,wonderful,w0nd3rful,Being w0nd3rful to the team,N,Nathan,Being [MASKED_PHRASE] to the squad.,Non-offensive
+,worthless,w0rthless,You are absolutely w0rthless to everyone.,N,Zhaoyan,You are absolutely [MASKED_PHRASE] to the entire community.,Offensive
+,worthless,w0r7h|355,Feeling w0r7h|355 at my job,O,Nathan,Feeling [MASKED_PHRASE] in my role at the office.,Offensive
+,worthless,w0r7hl3ss,Such w0r7hl3ss effort today,O,Nathan,Such [MASKED_PHRASE] performance this season.,Offensive
+,worthless,w0rthl3ss,Being w0rthl3ss at your job,O,Nathan,"Feeling [MASKED_PHRASE] in your role, as if every project you undertake turns to autumn leaves, scattering without trace.",Offensive
+,worthless,w0r7h|3ss,Such w0r7h|3ss effort,O,Nathan,Such [MASKED_PHRASE] endeavor,Non-offensive
+,worthless,w0r7hl3ss,Your w0r7hl3ss contribution,O,Nathan,Your [MASKED_PHRASE] input,Offensive
+,worthless,w0rthl3ss,Being w0rthl3ss again,O,Nathan,Feeling [MASKED_PHRASE] again.,Offensive
+,worthless,w0rth|3ss,Your w0rth|3ss effort shows,O,Nathan,Your [MASKED_PHRASE] contribution highlights the year's decay.,Offensive
+,worthless,w0rthl3ss,Your w0rthl3ss contribution,O,Nathan,Your [MASKED_PHRASE] input,Offensive
+,worthless,w0rth,Your w0rth is zero,O,Nathan,Your [MASKED_PHRASE] is negligible.,Non-offensive
+,wretched,wr37ch3d,Such wr37ch3d effort again,O,Nathan,Such [MASKED_PHRASE] endeavor once more.,Non-offensive
+,wussy ,wooshee ,I want to see that wooshee's reaction to this game. ,O,Zhi Lin,I'm eager to observe [MASKED_PHRASE]'s response to this spectacle.,Non-offensive
+,wussy ,wooshee ,I wanna beat that wooshee up ,O,Zhi Lin,I'm determined to confront that [MASKED_PHRASE].,Offensive
+,zero,0,score no 0s this time. ,N,Zhi Lin,Achieve no [MASKED_PHRASE] this season.,Non-offensive
+,FALSE,f@lse,Quit with your f@lse attitude; we all see through it.,N,Zhaoyan,Quit with your [MASKED_PHRASE] demeanor; we all perceive through it.,Non-offensive

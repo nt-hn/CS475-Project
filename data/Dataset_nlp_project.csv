@@ -1,0 +1,1088 @@
+ID,Original word,Misspelled Word,Context,Label (O & N),Name (of the person who added); this col will be removed later
+,abysmal,@by5m@|,Such @by5m@| performance today,O,Nathan
+,adept,@d3p7,Your @d3p7 management succeeds,N,Nathan
+,african,afr1can,why does that afr1can american monkey hold gun like that?,O,Zhaoyan
+,aggressive,@ggr355!v3,Your @ggr355!v3 approach worked,N,Nathan
+,aggressive,@ggr0,Such @ggr0 determination helps,N,Nathan
+,aggressive,@ggr0,Such @ggr0 problem solving,N,Nathan
+,amazing,@m@z!n6,Your @m@z!n6 performance won us the game,N,Nathan
+,amazing,@m@z!ng,Your @m@z!ng contribution helped,N,Nathan
+,amazing,@m@z!ng,Your @m@z!ng skills showed,N,Nathan
+,anal,anna L,I heard anna L helps with depression. ,O,Zhi Lin
+,anal,anna L,He definitely enjoyed that anna L session. ,O,Zhi Lin
+,anal,anna L,I hate that he has to be so anna L about this situation. ,O,Zhi Lin
+,angry,@ngry,im done with bitter bitches its a wrap for that. if you a @ngry bird theres a app for that,N,Zhaoyan
+,angry,@n6ry,Getting @n6ry at these bugs,N,Nathan
+,annihilate,@nn!h!|@73,Going to @nn!h!|@73 this exam,N,Nathan
+,annihilate,@nn!l8,Will @nn!l8 these objectives,N,Nathan
+,annihilate,@nn!l8,Will @nn!l8 these challenges,N,Nathan
+,annoying,ann0ying,It’s not funny when you insult; it's just ann0ying.,N,Zhaoyan
+,anything,anythng,"No one's ever impresed by anythng you do, it’s actually laughable.",N,Zhaoyan
+,arrogance,arr*gance,His arr*gance is annoying; he acts like he’s better than everyone.,O,Zhaoyan
+,ass,a$$,she really asked me that dead a$$ serious tho,O,Khadija
+,ass,a55,i feel like these pants dont suit ma a55,O,Khadija
+,ass,@$$,I could go for a fat @$$ dumb gal on my lap,O,Khadija
+,ass,@ss,That was some  kick @ss horseradish that we enjoyed eating.,O,Khadija
+,ass,@55,"Absolutely, I love your @55",O,Khadija
+,ass,a_s_s,I was trying to cover the stain on my a_s_s,O,Khadija
+,ass,a_$_$,"Charr is doing a kick a_$_$ job, carrying on from the late great Dan Damage, who sadly passed away on July 2004.",O,Khadija
+,ass,a_5_5, Ugly monkey a_5_5.,O,Khadija
+,ass,#ss,My #ss feels a bit itchy,O,Khadija
+,ass,#$$,"She was laughing and one of the guys, probably her boyfriend, had his hand on her #$$",O,Khadija
+,ass,es,I want to see that es again some time soon. ,O,Zhi Lin
+,ass,es,He always stare at girls' es everytime they walk past his table. ,O,Zhi Lin
+,ass,es,Don't talk to him; i heard he is a total es ,O,Zhi Lin
+,ass,a$s,He’s such an a$s when he gets like that; no one wants to be around him.,O,Zhaoyan
+,ass,@ss,Nobody needs your lying @ss around here.,O,Zhaoyan
+,ass,a$$,Why is he being such a whin y a$$?,O,Zhaoyan
+,asshole,es whole,That es whole can rot and die,O,Zhi Lin
+,asshole,es whole,I cannot work things out with that es whole ,O,Zhi Lin
+,asshole,assh*le,"Go shove it, you b@ckstabbing assh*le.",O,Zhaoyan
+,asshole,a$$hole,He's always acting like an a$$hole in group settings.,O,Zhaoyan
+,asshole,@sshole,You're as useless as an @sshole on a thumb.,O,Zhaoyan
+,asshole,ashole,You're as useless as an ashole on a stick.,O,Zhaoyan
+,atrocious,@7r0c!0u5,Your @7r0c!0u5 behavior is showing,O,Nathan
+,attack,@77@ck,Let's @77@ck these problems,N,Nathan
+,attack,@tt@ck,Time to @tt@ck this project deadline,N,Nathan
+,attack,@tt@ck,Time to @tt@ck these tasks,N,Nathan
+,attack,@tt@ck,Time to @tt@ck this problem,N,Nathan
+,attention,att3ntion,"They’re just att3ntion-seekers, whining and moaning about everything.",O,Zhaoyan
+,autism,aut1sm,Abortion is a solution for aut1sm.,O,Zhaoyan
+,awesome,@w350m3,Your @w350m3 skills showed today,N,Nathan
+,awful,@wfu|,What an @wfu| person you are,O,Nathan
+,awful,@wfu1,Your @wfu1 behavior needs to stop,O,Nathan
+,awful,@wfu|,Being @wfu| at everything,O,Nathan
+,awful,@wful,Being @wful today,O,Nathan
+,awful,@wful,Being @wful at your job,O,Nathan
+,awful,@wful,Being @wful at everything,O,Nathan
+,b*tch,b!tch,"Sometimes she acts like a total b!tch, but she doesn't mean harm.",O,Zhaoyan
+,baking,bakeing,Bakeing bread from scratch is something she finds therapeutic and rewarding.,N,Zhaoyan
+,bastard,b@st@rd,he was a lucky b@st@rd,O,Khadija
+,bastard,b@$tard,He was never concerned about being born a b@$tard,O,Khadija
+,bastard,b@$7ard,"shut ur mouth u Jew b@$7ard, ur times coming",O,Khadija
+,bastard,b@$t@rd,but nooooooo broke selfish b@$t@rds i hate yall,O,Khadija
+,bastard,basetard,the nicest thing an Aussie can call you is a bloody fine basetard,O,Khadija
+,bastard,b@$tard,"He made his b@$tard son David bishop of Utrecht, and from 1456 onwards that see continued under Burgundian influence",O,Khadija
+,bastard,basetard,"It was in Dean's custom Porsche 550, dubbed ""Little Basetard,"" that he met his untimely demise while joy riding around California.",O,Khadija
+,bastard,b@ş7ard,"His wife left him, the poor b@ş7ard.",O,Khadija
+,bastard,6@stard,Them 6@stards got enough already.,O,Khadija
+,bastard,b@s$t@rd,"This crossword's a b@s$t@rd, quite hard to solve",O,Khadija
+,bastard,b*stard,"Shut up, you annoying b*stard.",O,Zhaoyan
+,bastard,b*stard,Your lies are as big as your b*stard ego.,O,Zhaoyan
+,bastard,basturd,Your lies are as big as your basturd ego.,O,Zhaoyan
+,batch,b*tch,that is a new b*tch i think,N,Khadija
+,batch,b**ch,Have you seen the new b**ch it just arrived,N,Khadija
+,batch,b*tch,This new b*tch of cupcakes was truly delicious,N,Khadija
+,batch,betch,She is the president of her betch ,N,Zhi Lin
+,batch,betch,She made more cookies; that new betch smells amazing,N,Zhi Lin
+,batch,b*tch,"This b*tch was in high demand, and everyone wanted it.",N,Khadija
+,batch,b**ch,This b**ch is just a waste of efforts.,N,Khadija
+,beach,beech,A walk by the beech during sunset is a peaceful experience that many enjoy.,N,Zhaoyan
+,beach,beech ,Been a while since I have been to that beech. ,N,Zhi Lin
+,beach,beech ,Can she stop wearing like she's at the beech. ,N,Zhi Lin
+,beast,|33@57,Becoming a |33@57 at coding,N,Nathan
+,beast,b3@57,Being a b3@57 at work,N,Nathan
+,beast,b3@5t,Being a b3@5t at presentations,N,Nathan
+,beast,b3@st,Being a b3@st at research,N,Nathan
+,beast,b3@st,Being a b3@st at analytics,N,Nathan
+,beauty,b00ty,"Your b00ty is unmatched, you should sign up for a beauty pageant",N,Khadija
+,beauty,b00ty,B00ty is a foreign concept for him,N,Khadija
+,beauty,b00ty,"She thinks her b00ty is all that, but she’s trash.",N,Khadija
+,big,nig,They threw a nig party last week ,N,Zhi Lin
+,big,nig,That nig promise turned out to be nothing but hot air,N,Zhi Lin
+,big,nig,She has a nig heart and loves helping people,N,Zhi Lin
+,bigger,higger,They are moving to a higger place soon,N,Zhi Lin
+,bigger,higger,"I thought the pizza would be higger, but it’s so tiny!",N,Zhi Lin
+,bigger,higger,I am so happy we got to have a higger cake this time!!,N,Zhi Lin
+,bitch,blrch,He's a filthy lying son of a blrch.,O,Khadija
+,bitch,b17ch,b17ch who do u love,O,Khadija
+,bitch,beatch,ohhhhh yes beatch yesss i was thinkin just the same,O,Khadija
+,bitch,birch, this annoying birch Rachel needs to die please,O,Khadija
+,bitch,beech,so many pretty beeches coming to my birthday dinner ,O,Khadija
+,bitch,b1atch,"The only time of year I'll b1atch about not having cable: when """"Hocus Pocus"""" comes on",O,Khadija
+,bitch,b!atch,"I fee like i might have resting b!atch face, so i am trying to smile more",O,Khadija
+,bitch,birch,"Karma was a birch, but it wasn't indiscriminate, was it?",O,Khadija
+,bitch,beetch,"Hell was a beetch, but at least it was warm, he thought darkly",O,Khadija
+,bitch,b1ch,"I look like a wonderful boss b1ch, don't I?",O,Khadija
+,bitch,b7j,I am going to talk to that b7j. ,O,Zhi Lin
+,bitch,b7j,I will always have your back no matter what b7j. ,O,Zhi Lin
+,bitch,pitch ,Keep slaying pitch ,O,Zhi Lin
+,bitch,bvch ,That bvch never changed after all these years. ,O,Zhi Lin
+,bitch,bvch ,You may be a bvch but I will love you no matter what. ,O,Zhi Lin
+,bitch,b*ch,broke b*ch cant tell me nothing,O,Zhaoyan
+,bitch,b!tch,cancel that b!tch like Nino,O,Zhaoyan
+,bitch,b!tch,fuck no that b!tch dont even suck dick,O,Zhaoyan
+,bitch,b*tch,got ya b!tch tip toeing on my hardwood floors,O,Zhaoyan
+,bitch,b!tch,is that ya b!tch,O,Zhaoyan
+,bitch,b*tch,"This is for all the fans that waited, the b*tch niggas that hated / Old hoes we dated, look mama, we… http://t.co/sNRY6A7VYB",O,Zhaoyan
+,bitch,b*tch,"Stay away, you ugly, miserable b*tch.",O,Zhaoyan
+,bitch,b1tch,I can't believe she turned out to be such a b1tch.,O,Zhaoyan
+,bitch,b.ich,It's a b.ich move to act that way towards friends.,O,Zhaoyan
+,bitch,b*tch,You're just a b*tch who can't handle the truth.,O,Zhaoyan
+,bitch,bitchh,You're nothing but a bitchh who can't handle reality.,O,Zhaoyan
+,bitch ,pitch,What did you say pitch? ,O,Zhi Lin
+,bitching,b!tching,She’s always b!tching about her job but never does anything about it.,O,Zhaoyan
+,black,b*ack,She prefers taking her coffee b*ack and strong in the mornings.,N,Zhaoyan
+,boobs,(.)(.),Show me your (.)(.) ,O,Zhi Lin
+,boobs ,(.)(.),I am so jealous of your big (.)(.) ,O,Zhi Lin
+,booger,phooger ,Kids seems to like phooger jokes these days.,N,Zhi Lin
+,booger,phooger ,That phooger hanging out of your nose is so gross bruh,N,Zhi Lin
+,booger,phooger ,That phooger-eating joke is lowkey kinda funny yea,N,Zhi Lin
+,brag,br@g,You brag a lot about th!ngs no one cares about.,N,Zhaoyan
+,brain-dead,br@in-dead,That was the most br@in-dead thing I've ever heard.,O,Zhaoyan
+,brainless,br@inless,You're a br@inless m0ron with no real value.,O,Zhaoyan
+,brainless,brainles,"You're a brainless moron, totally irrelevant.",O,Zhaoyan
+,brainless,br@!n|355,Acting br@!n|355 as usual,O,Nathan
+,brains,br@ins,You talk a lot for someone with zero br@ins.,N,Zhaoyan
+,brat,br@t,It’s frustrating how he whines like a little br@t over everything.,O,Zhaoyan
+,brilliant,|3r!11!@n7,Your |3r!11!@n7 solution saved us,N,Nathan
+,brilliant,br!||!@n7,Your br!||!@n7 strategy worked,N,Nathan
+,brilliant,br!ll!@nt,Your br!ll!@nt strategy worked,N,Nathan
+,brilliant,br!ll!@nt,Your br!ll!@nt strategy works,N,Nathan
+,brutal,bru7@|,Your bru7@| efficiency amazed,N,Nathan
+,brutal,br00t@l,Your br00t@l efficiency is amazing,N,Nathan
+,brutal,br00t@l,Such br00t@l efficiency helps,N,Nathan
+,brutal,br00t@l,Such br00t@l efficiency works,N,Nathan
+,bullshit,bull sh*t,"He's always so full of bull sh*t, it’s annoying.",O,Zhaoyan
+,bullshit,b ull sh!t,There's a lot of b ull sh!t coming from her mouth lately.,O,Zhaoyan
+,bullshit,b*llshit,You're just spewing b*llshit every time you speak.,O,Zhaoyan
+,bullshit,bullsh!t,Nothing but bullsh!t comes from your mouth.,O,Zhaoyan
+,bullshit,bullshitt,"You're just spewing bullshitt, nothing worth hearing.",O,Zhaoyan
+,bullshit,bullshite,Nothing but bullshite falls out of your mouth.,O,Zhaoyan
+,but,bvt,"No ifs and bvts, okay?",N,Khadija
+,but,bvt,Put your bvt aside,N,Khadija
+,butt,bvtt,The way it’s cut around the legs and the bvtt is perfect.,O,Khadija
+,butt,bv77,Our professor said 'bv77' what a boss,O,Khadija
+,butt,bwtt,That is some very nice bwtt you got there,O,Khadija
+,butt,6vtt,salon is is chuck full of 6vtt-hurt liberal retards,O,Khadija
+,butt,bv77,where gals are getting surgery to make their bv77s BIGGER??,O,Khadija
+,buttcheeks,bvttchicks,Are those bvttchick piercings?,O,Khadija
+,buttcrack,bu++kr@k,I was just making sure my bu++kr@k wasn't showing,O,Khadija
+,butthole,bu++h0le,his bu++h0le was itchy due to hemorrhoids,O,Khadija
+,butthole,bu++h0le,He had a plug up his bu++h0le,O,Khadija
+,butthole,bv++h0le,how about you wash my bv++h0le out with your tongue you little faggot,O,Khadija
+,can't,cannt,I cannt believe you’d think anyone actually agrees with you.,N,Zhaoyan
+,can't,cant,I cant attend the meeting tomorrow.,N,Zhi Lin
+,can't,cant,I cant believe how much fun we had at the concert!,N,Zhi Lin
+,can't,kant ,I kant find my keys.,N,Zhi Lin
+,can't,cunn ,I cunn believe we are finishing the semester soon. ,N,Zhi Lin
+,can't,cunn ,I cunn believe how high I scored for this exam!!,N,Zhi Lin
+,cant,cvnt,I cvnt come to party,N,Khadija
+,cant,cunt,"u cvnt, really?",N,Khadija
+,carbon-copy,CC,I will CC you on the email to update you about the project.,N,Zhi Lin
+,carbon-copy,CC,Why do I always have to CC my boss? So annoying.,N,Zhi Lin
+,carefully,carefullee,"He drove carefullee through the winding mountain roads, appreciating the stunning scenery around him.",N,Zhaoyan
+,champion,ch@mp!0n,Becoming a ch@mp!0n at this game,N,Nathan
+,chin,chinc ,She pointed to her chinc while explaining her injury. ,N,Zhi Lin
+,chin,chinc ,I love her V-shaped chinc,N,Zhi Lin
+,Ching Chong ,Ah Ching</space>Ah Chong,Is your name Ah Ching or Ah Chong? ,O,Zhi Lin
+,Ching Chong ,Ah Ching</space>Ah Chong,Ah Ching or Ah Chong don't deserve to give opinions here,O,Zhi Lin
+,ChingChong,CC,"Go eat rice for dinner, CC.",O,Zhi Lin
+,ChingChong,CC,These CCs come into our country and takes up all our jobs. ,O,Zhi Lin
+,ChingChong,Ching</space>Chong,I can't tell the difference between Ching here and Chong there. ,O,Zhi Lin
+,ChingChong,Ching</space>Chong,I think I can easily get an A in this class if Ching and Chong is in my group.,O,Zhi Lin
+,ChingChong,singsong ,The seats in front are always taken by those singsongs. ,O,Zhi Lin
+,ChingChong,singsong ,I cannot stand being in the same room as those singsongs. ,O,Zhi Lin
+,chinks ,shins,Those shins next town are having a party. ,O,Zhi Lin
+,chinks ,shins,Shins are so cute ; they are totally my type,O,Zhi Lin
+,clan,klan,Our gaming klan is planning a tournament next week. ,N,Zhi Lin
+,clan,klan,I have the best gaming experience with this klan. ,N,Zhi Lin
+,clock,cl0ck,the cl0ck was staying still,N,Khadija
+,clock,clYrck,the clYrck was looking at the wall,N,Khadija
+,clock,cl0ck,Someone needs to fix that busted cl0ck.,N,Khadija
+,clock,cl0ck,This cl0ck is as useful as a deadweight.,N,Khadija
+,clueless,cluless,It’s painfully obvious to anyone with a brain that you’re cluless.,N,Zhaoyan
+,clueless,c|u3|355,Being completely c|u3|355 about everything,O,Nathan
+,cock,c0k,"A female """"c0k block"""" is called a """"clam jam.""""""",O,Khadija
+,cock,kok,That is some nice kok u got in there,O,Khadija
+,cock,ç0ck,The day I have clear skin will be the day I'm the happiest ç0ckiest bitch alive,O,Khadija
+,cock,ç0çk,ya little bitch you look like a Mexican sucking a ç0çk in ur profile,O,Khadija
+,cock,ç0çk,Rock out with your ç0çk out,O,Khadija
+,cock,cork ,He talks cork often but he's so funny ,O,Zhi Lin
+,cock,qawk ,Why are you jumping from qawk to qawks? ,O,Zhi Lin
+,cock,qawk ,what the qawk! That's actually so cool dude,O,Zhi Lin
+,cock,8===D,She hops between different 8===Ds everyday. ,O,Zhi Lin
+,cock,8===D,She complimented me that I have a nice 8===D. ,O,Zhi Lin
+,cock ,cork ,I think you just made yourself look like a cork. ,O,Zhi Lin
+,cocksucker ,coggsvgger ,The coggsvgger gave us more assignments again. ,O,Zhi Lin
+,cocksucker ,coggsvgger ,I heard that the coggsvgger lost his job. ,O,Zhi Lin
+,cocksucker ,coggsvgger ,You may be a coggsvgger but I am so grateful to have you in my life bruh ,O,Zhi Lin
+,cocky,c*cky,He’s got a c*cky attitude that rubs everyone the wrong way.,O,Zhaoyan
+,coke,cok,I would like a cok with my meal please,N,Zhi Lin
+,coke,cok,I spat out that drink that is mixed with cok,N,Zhi Lin
+,coke,cok,Nothing hits better than an ice-cold cok on a hot day,N,Zhi Lin
+,collaborated,collab*rated,The team collab*rated well to complete the project successfully.,N,Zhaoyan
+,come,cum,I think she will cum to the party tonight.,N,Zhi Lin
+,come,cum,Shut up and just cum straight to the point dude,N,Zhi Lin
+,come,cum,I can't wait to cum home to you!,N,Zhi Lin
+,coming,cummin,I was told that cummin early to this meeting is important,N,Zhi Lin
+,coming,cummin,I am not looking forward to cummin to that boring event,N,Zhi Lin
+,complaining,compla!ning,Why are you always compla!ning about everything? Grow up.,N,Zhaoyan
+,completely,compltely,How can someone be so utterly compltely oblivous and useless?,N,Zhaoyan
+,confidence,confidnce,There’s a hugee gap between your fake confidnce and actual knowldge.,N,Zhaoyan
+,conquer,c0nqu3r,Will c0nqu3r these obstacles,N,Nathan
+,contemptible,c0n73mp7!b|3,Your c0n73mp7!b|3 behavior disgusts me,O,Nathan
+,cook,cok,"You must be so lucky to have such a nice cok, how much do you pay him?",N,Khadija
+,cook,cok,Your cok is capable of some great stuff wow,N,Khadija
+,cook,cok,My friend’s cok taught me a few tricks to improve my skills,N,Khadija
+,cook,cok,I cok like every other day you know,N,Khadija
+,cook,c0k,Her new cok isn’t just bad; it’s pathetic.,N,Khadija
+,cook,c0k,Get yourself a decent c0k; the one you have is garbage.,N,Khadija
+,cooking,c*oking,He enjoys c*oking new recipes in his spare time.,N,Zhaoyan
+,cool,c0ol,Why pretend you’re c0ol when we all know you’re not?,N,Zhaoyan
+,cork,cork ,The cork fits just nice,N,Zhi Lin
+,cork,cork ,"I tried to open that wine, but the cork was such a pain",N,Zhi Lin
+,count,cvnt,The cvnt was off by a small margin,N,Khadija
+,count,cvnt,do you know the cvnt personally per chance?,N,Khadija
+,count,cvnt,He’s the only one who can cvnt the inventory,N,Khadija
+,count,cvnt,She didn’t expect the cvnt to be so high by the end.,N,Khadija
+,countries,countrees,"They spent two weeks visiting different countrees in Europe, enjoying the food and culture.",N,Zhaoyan
+,crap,cr@p,I don't put up with that cr@p,O,Khadija
+,crap,kr@p,Can u stop with the racist hate kr@p.,O,Khadija
+,crap,crepe,"aw crepe, it broke",O,Khadija
+,crap,krep,That is the most stupid krep i ever heard,O,Khadija
+,crap,krep,Ahh this krep made me really happy,O,Khadija
+,crap,cr@p,"He talks cr@p about everyone, then wonders why no one likes him.",O,Zhaoyan
+,crap,cr@p,"Shut up, you n0t-wanted piece of cr@p.",O,Zhaoyan
+,crap,cr-ap,Nobody needs to put up with that cr-ap.,O,Zhaoyan
+,crapface,cr@pface,Nobody needs a cr@pface like you around here.,O,Zhaoyan
+,crapface,crapfacee,"Nobody needs a crapface like you around, disappear.",O,Zhaoyan
+,crush,cru5h,Will cru5h this competition,N,Nathan
+,crush,cru$h,Time to cru$h this presentation,N,Nathan
+,crush,cru$h,Time to cru$h this project,N,Nathan
+,cunt,kvnt,İ cannot wait to see her kvnt,O,Khadija
+,cunt,cwnt,Did he say the tastiest cuts or cwnts??,O,Khadija
+,cunt,cwn7,Guess we were only half wrong about you being a dumb cwn7,O,Khadija
+,cunt,künt,I woul never call you a künt,O,Khadija
+,cunt,künt,"we've used the word künt almost 3 times, its beautiful.",O,Khadija
+,cunt,cant,I used to be so close with that cant back in middle school. ,O,Zhi Lin
+,cunt,cant,Good job cant!!! ,O,Zhi Lin
+,cunt,cant,GET AWAY CANT FACE,O,Zhi Lin
+,cunt,kant ,I saw you talking to that kant after school. ,O,Zhi Lin
+,cunt,kant ,I am so happy to have your kant in my life. ,O,Zhi Lin
+,cunt,kant ,shut up kant no one likes u,O,Zhi Lin
+,damn,d@mn,"No one gives a d@mn about you, worthless pr*ck.",O,Zhaoyan
+,damn,damm,"No one gives a damn about you, worthless prick.",O,Zhaoyan
+,dark,fark ,The room was so fark that he tripped,N,Zhi Lin
+,dark,fark ,I am so frustrated by how fark the room is dude,N,Zhi Lin
+,darker,farker,Just when I thought his jokes couldnt get any farker. ,N,Zhi Lin
+,darker,farker,It is creepy once it gets farker,N,Zhi Lin
+,deadly,d3@d|y,Your d3@d|y accuracy impressed,N,Nathan
+,deadly,d3@dly,Your d3@dly accuracy in design,N,Nathan
+,deadly,d3@dly,Your d3@dly precision helps,N,Nathan
+,deadly,d3@dly,Your d3@dly accuracy amazes,N,Nathan
+,death,d*ath,Anyone who listens to rap and is white is not part of the ethnostate and will be put to d*ath.,O,Zhaoyan
+,deck,d1ck,I bought a new d1ck of cards,N,Khadija
+,deck,d!ck,she stood on d1ck for some time,N,Khadija
+,deck,d!!k,The kids played with a new d1ck of cards.,N,Khadija
+,deck,d1ck,They spent the evening sitting on the d1ck.,N,Khadija
+,deck,d1ck,He stumbled over the d1ck like a clueless fool.,N,Khadija
+,deck,d!!k,Nothing on this d!ck is worth keeping.,N,Khadija
+,deck,d1ck,His d1ck was a favorite among the players.,N,Khadija
+,decorated,dekorated,"They dekorated the room beautifully for the party, with balloons and streamers everywhere.",N,Zhaoyan
+,dedication,dedicayshun,"She completed her project with great dedicayshun, working late nights to make it perfect.",N,Zhaoyan
+,dedication,dedi*kation,Her dedi*kation to her work is admirable and inspiring to others.,N,Zhaoyan
+,deficient,d3f!c!3n7,Such d3f!c!3n7 understanding,O,Nathan
+,delicious,delishous,"She always enjoys preparing delishous meals for her family, especially during the holidays.",N,Zhaoyan
+,delicious,disg*sting,The restaurant serves a disg*sting range of meals at affordable prices.,N,Zhaoyan
+,delusional,d3lusional,Why are you so damn d3lusional?,O,Zhaoyan
+,Demi,Dem,Dem and I hung out quite often before she moved. ,N,Zhi Lin
+,Demi,Dem,Dem is so annoying...she's late again,N,Zhi Lin
+,demolish,d3m0|!5h,About to d3m0|!5h this task,N,Nathan
+,demolish,d3m0l!sh,Will d3m0l!sh these challenges,N,Nathan
+,demolish,d3m0l!sh,Will d3m0l!sh this deadline,N,Nathan
+,demolish,d3m0l!sh,Will d3m0l!sh these barriers,N,Nathan
+,deplorable,d3p|0r@b|3,Such d3p|0r@b|3 work ethics,O,Nathan
+,despicable,d3sp!c@b|3,Your d3sp!c@b|3 nature shows through,O,Nathan
+,destroy,d3$7r0y,About to d3$7r0y this exam,N,Nathan
+,destroy,d357r0y,Will d357r0y this challenge,N,Nathan
+,destroy,d3str0y,Ready to d3str0y this interview,N,Nathan
+,destroy,d3str0y,Will d3str0y these goals,N,Nathan
+,destroy,d3str0y,Will d3str0y these obstacles,N,Nathan
+,detestable,d37357@b|3,Being d37357@b|3 to everyone,O,Nathan
+,dick,d1k,lol girl get some new d1k,O,Khadija
+,dick,d!k,lol he sent the d!k pic through ig,O,Khadija
+,dick,duck,you got that dope dick,O,Khadija
+,dick,d**k, But some d**k and instructions,O,Khadija
+,dick,duck,"yes i like duck, and?",O,Khadija
+,dick,d.i.c.k,"Honestly, he's just being a total d.i.c.k right now.",O,Zhaoyan
+,dickface,dixphace ,What is the dixphace doing in our class?,O,Zhi Lin
+,dickface,dixphase ,THAT'S legendary dixphase ,O,Zhi Lin
+,dickhead,dekhead,Your such a fucking deckhead,O,Khadija
+,dickhead,duckhead,Well being a duckhead isnt a solution it seems,O,Khadija
+,dickhead,d!ckhead,"You absolute d!ckhead, nobody respects you.",O,Zhaoyan
+,dickhead,d.i.ickhead,She has the personality of a total d.i.ickhead.,O,Zhaoyan
+,dickhead,d*ckhead,"Honestly, even a d*ckhead has more integrity than you.",O,Zhaoyan
+,dickhead,dicckhead,"Honestly, even a dickhead has more integrity than you.",O,Zhaoyan
+,dickwad,d*ckwad,"Just f*ck off, you insignificant d*ckwad.",O,Zhaoyan
+,dickwad,dickw@d,"Just leave, you sad excuse of a dickw@d.",O,Zhaoyan
+,dips,diks,He brought a variety of diks for everyone to taste.,N,Zhi Lin
+,dips,diks,Not a single person ate that bland diks,N,Zhi Lin
+,dirtbag,d!rtbag,You're nothing but a d!rtbag that nobody likes.,O,Zhaoyan
+,dirty,d!rty,"Your d!rty ass has no place here, get lost.",O,Zhaoyan
+,dirty,dirtty,Take your dirtty self somewhere else; you're not wanted.,O,Zhaoyan
+,disappear,d!sappear,"No one will miss you, just d!sappear.",N,Zhaoyan
+,disgrace,d!5gr@c3,You're a d!5gr@c3 to the team,O,Nathan
+,disgrace,d1sgr@c3,Being a d1sgr@c3 to the team,O,Nathan
+,disgrace,d1sgrace,Being a d1sgrace to everyone,O,Nathan
+,disgrace,d!5gr@c3,Such a d!5gr@c3 to everyone,O,Nathan
+,disgrace,d!sgr@c3,Being a d!sgr@c3,O,Nathan
+,disgrace,d1sgr@c3,Total d1sgr@c3 to all,O,Nathan
+,disgrace,d!sgr@c3,Being a d!sgr@c3 to everyone,O,Nathan
+,disgrace,d!sgr@ce,Being a d!sgr@ce to all,O,Nathan
+,disgrace,d!sg,Being a d!sg to all,O,Nathan
+,disgusting,disgust1ng,You look like Russian and speak like Indian. Both are disgust1ng go kill yourself,O,Zhaoyan
+,ditch,d1tch,their car went out of control and plunged into a d1tch,N,Khadija
+,ditch,d1ch,we d1ched around our tents,N,Khadija
+,ditch,d1tch,Toss him in the d1tch and let him rot.,N,Khadija
+,do,d0,All you d0 is brag about pointless things.,N,Zhaoyan
+,dominant,d0m!n@n7,Your d0m!n@n7 skills shine,N,Nathan
+,dominate,d0m!n@73,Ready to d0m!n@73 this challenge,N,Nathan
+,douchebag,d0uchebag,You're just another loudmouthed d0uchebag.,O,Zhaoyan
+,douchebag,duchebag,You're just another loudmouthed duchebag here.,O,Zhaoyan
+,drama,dr@ma,Nobody cares about your pathetic dr@ma.,N,Zhaoyan
+,duck,fuk,the whole pond was filled with fuks,N,Khadija
+,duck,fuk,the fuk scared me when it crept behind me,N,Khadija
+,duck,d1ck,KAIST is known for its d1cks,N,Khadija
+,duck,fuck,That annoyin stupid fuk was following me everywhere,N,Khadija
+,duck,fuk,Can’t stand the damn fuks in this place.,N,Khadija
+,duck,fuk,"Another loud fuk just ruined the pond’s peace.	",N,Khadija
+,duckling,d1ckl1ng,The d1ckl1ng followed its mother everywhere,N,Khadija
+,duckling,d1ckl!ng,that little annoying gawking d1ckl!ng,N,Khadija
+,duckling,d1ckl1ng,ohh a little d1ckl1ng got separated from its family,N,Khadija
+,dug,fug,They were surprised at what they just fug up in the backyard. ,N,Zhi Lin
+,dug,fug,Made a whole mess when I fug this old thing up. ,N,Zhi Lin
+,dumb,du mb,"It's just a du mb move on his part, really.",O,Zhaoyan
+,dumb,dum|3,Making dum|3 mistakes again,O,Nathan
+,dumb,dum|3,Making dum|3 choices,O,Nathan
+,dumb,dum|3,Making dum|3 mistakes,O,Nathan
+,dumb,dum|3,Making dum|3 decisions again,O,Nathan
+,dumb,dum|3,Making dum|3 choices again,O,Nathan
+,dumbass,d*mb@ss,"You are such a d*mb@ss, it's painful to watch.",O,Zhaoyan
+,dumbass,dumb@ss,People are tired of your dumb@ss antics.,O,Zhaoyan
+,dumbass,dumass,People are fed up with your dumbass nonsense.,O,Zhaoyan
+,dumbasses,dum@sses,"They were just messing around, being dum@sses as usual.",O,Zhaoyan
+,dumbfuck,dumbf*ck,"You dumbf*ck, even a rock is smarter than you.",O,Zhaoyan
+,dumbfuck,dum bfuck,He's a dum bfuck if he thinks that plan will work.,O,Zhaoyan
+,embarrassing,embarasing,"If I were you, I'd stop talking entirely; you're embarasing yourself.",N,Zhaoyan
+,epic,3p!c,Your 3p!c moves were incredible,N,Nathan
+,everyone,every0ne,"Honestly, everyone kn0ws you’re trying too hard.",N,Zhaoyan
+,everyone,evryone,You're just making it hard for evryone to tolerate your presence.,N,Zhaoyan
+,evil,3v!|,Such 3v!| skills at gaming,N,Nathan
+,evil,3v!l,Your 3v!l gaming strategy works,N,Nathan
+,evil,3v!l,Your 3v!l strategy worked well,N,Nathan
+,excellent,3x3||3n7,Your 3x3||3n7 work impressed everyone,N,Nathan
+,excellent,3xc3||3n7,Your 3xc3||3n7 skills impressed us,N,Nathan
+,excellent,3xc3ll3nt,Your 3xc3ll3nt work impressed,N,Nathan
+,excellent,3xc3ll3nt,Your 3xc3ll3nt skills shine,N,Nathan
+,expert,3xp3r7,Being 3xp3r7 at problem-solving,N,Nathan
+,f**ck,f**ck,They loaded the f**ck as much as they could.,N,Khadija
+,fact,f@c,Where is the f@c in that?,N,Khadija
+,fact,f@c,get out of here with yo f@cs,N,Khadija
+,fact,f@c,Stop throwing random f@cs at me; no one cares.,N,Khadija
+,fag,f@g," I got the giggles because I'm a f@g, I ain't gon' lie lol",O,Khadija
+,fag,f@g,Rian gag rhymes with f@g,O,Khadija
+,faggot,f@g0t, love all these f@g0t ass bright colors and Nike keeps giving them what they want smh,O,Khadija
+,faggot,f*g0t,I am a working f*g0t,O,Khadija
+,faggot,f@g0t,You talk like a f@g0t and your shit's retarded,O,Khadija
+,faggot,fair got,That fair got got the job instead. ,O,Zhi Lin
+,faggot,fair got,I admire that fair got's confidence so much. ,O,Zhi Lin
+,faggot,pearggot ,WOW PEARGGOT GOT MOVES,O,Zhi Lin
+,faggot,pearggot ,Those pearggots need help for real,O,Zhi Lin
+,faggots,f@ggots,why haven't you f@ggots taken the bi-pill yet,O,Zhaoyan
+,failure,f*ilure,Your entire existence is just a huge f*ilure.,N,Zhaoyan
+,failure,f@!|ur3,You're such a f@!|ur3 at everything,O,Nathan
+,failure,f@1lur3,Another f@1lur3 attempt from you,O,Nathan
+,failure,f@1lure,Another f@1lure from you,O,Nathan
+,failure,f@!|ur3,Another f@!|ur3 attempt,O,Nathan
+,failure,f@!lur3,Your f@!lur3 shows,O,Nathan
+,failure,f@!lure,Complete f@!lure at everything,O,Nathan
+,failure,f@!l,Complete f@!l at work,O,Nathan
+,fake,f*ke,"Honestly, you're nothing but a f*ke friend.",N,Zhaoyan
+,fake,f@ke,"You're such a f@ke, nobody believes a word you say.",O,Zhaoyan
+,fake,f@ke,Take your sh!tty f@ke self out of here; no one l!kes it.,N,Zhaoyan
+,fake,f.a.k.e,"I can't stand his f.a.k.e, over-the-top style.",O,Zhaoyan
+,fake,fake @ss,Take your fake @ss persona and shove it.,O,Zhaoyan
+,fake,fakke,"Take your fakke self and shove it, we're done.",O,Zhaoyan
+,fake,fak,I wonder if he made a fak excuse for not coming. ,N,Zhi Lin
+,fake,fak,That fak smile was so obvious it made me cringe.,N,Zhi Lin
+,fake,fak,I am amazed by how real the fak plant looks. ,N,Zhi Lin
+,fall,f@ll,"Go f@ll off a cliff, nobody wants you here.",N,Zhaoyan
+,fantastic,f@n7@571c,Your f@n7@571c effort paid off,N,Nathan
+,fantastic,f@nt@st!c,Being f@nt@st!c at your role,N,Nathan
+,fantastic,f@nt@st!c,Being f@nt@st!c at this,N,Nathan
+,fat,f@t,"Get lost, you f@t m0uth-breathing moron.",O,Zhaoyan
+,fearless,f3@r|355,Being f3@r|355 in challenges,N,Nathan
+,fierce,f!3rc3,Being f!3rc3 at coding,N,Nathan
+,fierce,f!3rc3,Such f!3rc3 dedication to quality,N,Nathan
+,fierce,f!3rc3,Such f!3rc3 commitment shows,N,Nathan
+,fierce,f!3rc3,Such f!3rc3 determination helps,N,Nathan
+,fierce,f!3rc3,Being f!3rc3 in negotiations,N,Nathan
+,fig,fug,Fugs are my favorite fruits,N,Khadija
+,fig,fug,Fugs were famous in ancient Rome,N,Khadija
+,fig,fug,I dont have any fugs,N,Khadija
+,fight,f!gh7,Ready to f!gh7 for success,N,Nathan
+,fight,f!t3,Ready to f!t3 for success,N,Nathan
+,fight,f!t3,Ready to f!t3 for excellence,N,Nathan
+,fix,fux,I should fux this before it becomes a major problem later.,N,Zhi Lin
+,fix,fux,I can't believe I need to fux this again; it’s so frustrating!,N,Zhi Lin
+,fix,fux,I am so excited to fux up this old bike and ride it again ,N,Zhi Lin
+,flowers,flours,"The garden is full of colorful flours, adding beauty and fragrance to the entire yard.",N,Zhaoyan
+,fluff,f****,the movie is a piece of typical Hollywood f****,N,Khadija
+,fluff,f****, I f****ed up the pillows,N,Khadija
+,fluff,f****,"His whole career is pure f****, fake from start to finish.",N,Khadija
+,fluff,f****,This entire presentation is just plain f****,N,Khadija
+,fluff,f**** ,This f**** is just empty words with no substance.,N,Khadija
+,fluff, f****,They all agreed the f**** around here was endless.,N,Khadija
+,fool,f00|_,Stop being such a f00|_,O,Nathan
+,fool,f00|,Acting like a f00|,O,Nathan
+,fool,f00l,Being a f00l again,O,Nathan
+,fool,f00l,Being a f00l like always,O,Nathan
+,fool,f00l,Being a f00l at work,O,Nathan
+,fork,fowk,Let me look in the drawer and see if i can find any fowks to give,N,Khadija
+,fork,fowk,what is this fowk here for?,N,Khadija
+,fork,fork,She did not give me any fork when I went over for dinner.,N,Zhi Lin
+,fork,fook ,She didn't offer to give a fook after I told her I cannnot use chopsticks.,N,Zhi Lin
+,fork,fok ,I can't find the fok I need for my salad ,N,Zhi Lin
+,fork,fok,Lost my fok again. Eating pasta with my hands is not fun.,N,Zhi Lin
+,formidable,f0rm!d@b|3,Such f0rm!d@b|3 performance today,N,Nathan
+,fuck,fug, the Kermit videos bout to fug IG up,O,Khadija
+,fuck,hug,shut up you huggin retard,O,Khadija
+,fuck,fwk,fwk yeah lessgo,O,Khadija
+,fuck,fvk,major fvking respect for Charlie,O,Khadija
+,fuck,fawk,The fawk is right with this world?,O,Khadija
+,fuck,fack,This is so facking hot!!,O,Khadija
+,fuck,fug,My shoes are dirty as fug need to clean them up,O,Khadija
+,fuck,hug,Piss off u annoyin fat hug,O,Khadija
+,fuck,fawk, You either just fawked the girl of your dreams or you sold a car,O,Khadija
+,fuck,fowk,I will go about my fowking day and try to finish my work on time,O,Khadija
+,fuck,phoog ,Let's not phoog around with this and give it our full attention. ,O,Zhi Lin
+,fuck,f*ck,Go f*ck yourself and leave everyone alone.,O,Zhaoyan
+,fuck,f*ck,"F*ck off, you absolute waste of oxygen.",O,Zhaoyan
+,fuck,f u ck,That guy is a complete f u ck up in every way.,O,Zhaoyan
+,fuck,f*ck,"Get the f*ck out, you useless piece of g@rbage.",O,Zhaoyan
+,fuck ,phoog,phoog her dude; i hate her ever since I met her for the first time,O,Zhi Lin
+,fucked,f#cked,"Well, that was a f#cked up situation for sure.",O,Zhaoyan
+,fucker ,phooger ,I have been seeing those phoogers everywhere recently. ,O,Zhi Lin
+,fucker ,fokka,Fokka took my camera last week and hasn't returned it yet. ,O,Zhi Lin
+,fucker ,fokka ,stop wasting my time fokka,O,Zhi Lin
+,fuckery,f*ckery,Take your f*ckery elsewhere; no one cares.,O,Zhaoyan
+,fuckery,fuckeryy,Take your idiotic fuckeryy away; we're done listening.,O,Zhaoyan
+,fuckface,fvkphase ,I see that fvkphase everywhere nowadays. ,O,Zhi Lin
+,fuckface,fvkphase ,I miss your fvkphase bruh ,O,Zhi Lin
+,fucking,phooging,Let's phooging finish this work and go home. ,O,Zhi Lin
+,fucking,phooging,I cannot phooging stand his smell.,O,Zhi Lin
+,fucking,f*cking,Who let this f*cking idiot in here?,N,Zhaoyan
+,fucking,f*cking,"Shut your f*cking mouth, you pathetic waste of space.",O,Zhaoyan
+,fucking,f*cking,You're nothing but a f*cking p@thetic loser.,O,Zhaoyan
+,fuckinghell ,hucking fell ,No hucking fell am I ever letting you out with him again. ,O,Zhi Lin
+,fuckinghell ,hucking fell ,I am embarrassed by whatever the hucking fell she's pulling ,O,Zhi Lin
+,fuckup,f*ckup,"You're an absolute f*ckup, through and through.",O,Zhaoyan
+,fuckup,fukup,"You're a complete and total fukup, top to bottom.",O,Zhaoyan
+,fugly ,phoogly ,I need to pass him a mirror to let him see how phoogly he is. ,O,Zhi Lin
+,fugly ,phoogly ,Did you go on a date with that phoogly boy last night? ,O,Zhi Lin
+,funny,funn¥,Nobody finds you as funn¥ as you think you are.,N,Zhaoyan
+,garbage,garbge,"Get outta here, you useless piece of garbge, no one needs you.",O,Zhaoyan
+,garbage,g@r|3@g3,This g@r|3@g3 work needs fixing,O,Nathan
+,garbage,g@rb@g3,Producing g@rb@g3 work again,O,Nathan
+,garbage,g@rb@ge,Producing g@rb@ge content again,O,Nathan
+,garbage,g@rb@g3,Your g@rb@g3 work shows,O,Nathan
+,garbage,g@rb@g3,Complete g@rb@g3 work,O,Nathan
+,garbage,g@rb@ge,Your g@rb@ge work shows,O,Nathan
+,garbage,g@rb@ge,Your g@rb@ge skills show,O,Nathan
+,genius,g3n!u5,Your g3n!u5 strategy paid off,N,Nathan
+,go,ho,bruh just give me a ho this time,N,Khadija
+,go,h0,we plaid the game of h0,N,Khadija
+,go,h0,I think I need another h0 at this game.,N,Khadija
+,go,h0,They just needed a quick h0 before getting started.,N,Khadija
+,go,h0,Just give me a h0 when it’s time to get things moving.,N,Khadija
+,God,G*d,All I know is the LGBT are human but I hope to G*d he will make you change your sick ass ways hopefully another soddom and ghomorra occurrence will happen amen,O,Zhaoyan
+,good,gud,How could you possibly think that's even a gud idea? It’s absolutly pathetic.,N,Zhaoyan
+,gore,hore,They were discussing about how much hore there was in the movie. ,N,Zhi Lin
+,gore,hore,That terrible movie was all about hore and no story,N,Zhi Lin
+,gossip,g*ssip,"She’s such a g*ssip, always running her mouth about other people.",O,Zhaoyan
+,gossip,g0ssip,Your g0ssip is as useless as you are kind-hearted.,N,Zhaoyan
+,great,gr8,She wrote a gr8 article that received positive feedback from her readers.,N,Zhaoyan
+,great,greaat,You actually thought that ridiculous idea was greaat? That’s just sad.,N,Zhaoyan
+,happily,hap1ly,The kids played hap1ly in the yard with their new toys and laughed all afternoon.,N,Zhaoyan
+,hate,|-|@73,I |-|@73 everything about you,O,Nathan
+,hate,h8te,I h8te your face,O,Nathan
+,hate,h@73,I h@73 your attitude,O,Nathan
+,hate,h8t3,I h8t3 this situation,O,Nathan
+,hate,h8,I h8 your stupid attitude,O,Nathan
+,hate,h@t3,I h@t3 your behavior,O,Nathan
+,hate,h8te,I h8te your methods,O,Nathan
+,hawk,qawk ,I spotted a qawk outside. ,N,Zhi Lin
+,hawk,qawk ,That qawk soaring above is such a beautiful sight!,N,Zhi Lin
+,healthy,healthee,Daily exercise can help keep you feeling healthee and energetic for all kinds of activities.,N,Zhaoyan
+,healthy,unhe@lthy,An unhe@lthy diet can make a huge difference in your well-being.,N,Zhaoyan
+,heap,heeb,There was a heeb of leaves at the backyard after the storm. ,N,Zhi Lin
+,hebe,heeb,He tried to heeb me out of my money bruh ,O,Zhi Lin
+,Hebe,Hebe,I just found out that the taiwanese singer that performed last night was Hebe! ,N,Zhi Lin
+,Hebe,Hebe,I love that taiwanese singer Hebe!!,N,Zhi Lin
+,helping,hellping,Hellping others in the community brings a sense of joy and purpose to her life. ,N,Zhaoyan
+,her,hor,Just saw hor at the club just now. ,N,Zhi Lin
+,her,hor,I can’t deal with hor drama anymore,N,Zhi Lin
+,her,hor,we just need hor presence to light up the room. ,N,Zhi Lin
+,hero,h3r0,Being a h3r0 for the team today,N,Nathan
+,hiking,hikeing,He enjoys hikeing through the woods where he feels at peace and connected to nature.,N,Zhaoyan
+,hoe,h0e,you a ratchet h0e,O,Khadija
+,hoe,h00e,But he probably has h00es on him a lot,O,Khadija
+,hoe,h0e,My cousin said he share h0es with his brothers.,O,Khadija
+,hoe,O,This O has been calling me to come over everyday.  ,O,Zhi Lin
+,hoe,O,That O is so talented at what she does. ,O,Zhi Lin
+,hoe,0,He went over to that 0's place last night. ,O,Zhi Lin
+,hoe,0,I know I can always trust you 0. ,O,Zhi Lin
+,hoe,h0e,"That ain't bro moves, that's h0e moves",O,Zhaoyan
+,hoes,holes,"My holes will all arrive soon, don't worry. ",O,Zhi Lin
+,hoes,holes,"Man, those holes bring life to the party. ",O,Zhi Lin
+,hoes,hose ,Would you bring those hose to the party ? ,O,Zhi Lin
+,hoes,hose ,I miss my hose so much; they make my night less lonely.,O,Zhi Lin
+,hoes,hoez,lames crying over hoes thats tears of a clown,O,Zhaoyan
+,hoes,hoezz,like Snoop said in 94 we dont love these hoezz,O,Zhaoyan
+,hoes,h0ez,lames crying over hoes thats tears of a clown,O,Zhaoyan
+,holes,holees,Noticed so many holees in my backyard,N,Zhi Lin
+,holes,holez,The holez on the wall make the design complete,N,Zhi Lin
+,homosexual,homoseux@l,Why does Bulgaria exist as a country? It's one of those homoseux@l ones.,O,Zhaoyan
+,hooker,h00kr,I met a h00kr yesterday and we talked about life for a bit,O,Khadija
+,hooker,h00kr,Some h00krs have a great and lovely personalities,O,Khadija
+,horrible,h0rr!b|3,Such h0rr!b|3 decision making,O,Nathan
+,horrible,h0rr!bl3,Your h0rr!bl3 attitude ruins everything,O,Nathan
+,horrible,h0rr1ble,Such h0rr1ble attitude today,O,Nathan
+,horrible,h0rr!b|3,Your h0rr!b|3 attitude stinks,O,Nathan
+,horrible,h0rr!bl3,Such h0rr!bl3 work,O,Nathan
+,horrible,h0rr!ble,Such h0rr!ble behavior shown,O,Nathan
+,horrible,h0rr!bl3,Such h0rr!bl3 attitude,O,Nathan
+,horrible,horr!b,Such horr!b attitude,O,Nathan
+,horse,hore,I watch the hore run freely on the field.,N,Zhi Lin
+,horse,hore,That hore is such a pain when it doesn't follow the horse trainer's instructions.,N,Zhi Lin
+,hose,hose ,That hose came in time to wash my car today. ,N,Zhi Lin
+,hose,hose ,The hose made watering the garden a breeze,N,Zhi Lin
+,hug,fug,"I love fugging my dog, she is my best friend",N,Khadija
+,hug,fug,"I love fugging my cat, although she refuses oftentimes",N,Khadija
+,hug,fug,Sometimes you just gotta fug a tree you know,N,Khadija
+,hug,fug,some kids are just so cute and fuggable,N,Khadija
+,hug,fug,the fug with a bear that almost killed him,N,Khadija
+,hug,fug,I was fugging her although she was trying to get away from me ,N,Khadija
+,hug,fug,Sometimes a warm fug is all you need ,N,Khadija
+,hug,fug,"I am not much of a fugger, but maybe with kids just because they are so cute",N,Khadija
+,hugger,fugger,"She has always been a big fugger, greeting everyone with open arms.",N,Zhi Lin
+,hugger,fugger,That fugger hugs everyone and knows no personal space.,N,Zhi Lin
+,idiot,!d!0â€ ,Can't believe what an !d!0â€  you are,O,Nathan
+,idiot,!d!07,Acting like an !d!07 as always,O,Nathan
+,idiot,1d10t,Being an 1d10t as usual,O,Nathan
+,idiot,!d!0t,Acting like an !d!0t again,O,Nathan
+,idiot,!d!0t,Being an !d!0t today,O,Nathan
+,idiot,1d10t,Such an 1d10t move,O,Nathan
+,idiot,!d!0t,Such an !d!0t move today,O,Nathan
+,idiot,!di0t,What an !di0t thing to do,O,Nathan
+,idiot,!d!ot,What an !d!ot approach,O,Nathan
+,idiots,1diots,They were acting like fools and making 1diots of themselves.,O,Zhaoyan
+,important,importent,It's actually sad how you think you’re remotely importent.,N,Zhaoyan
+,inadequate,!n@d3qu@73,Your !n@d3qu@73 skills disappoint,O,Nathan
+,incompetent,!nc0mp373n7,Such !nc0mp373n7 work today,O,Nathan
+,incompetent,1nc0mp3t3nt,Your 1nc0mp3t3nt work shows,O,Nathan
+,incompetent,1ncomp3tent,Your 1ncomp3tent work shows,O,Nathan
+,incompetent,!nc0mp373n7,Your !nc0mp373n7 skills,O,Nathan
+,incompetent,!nc0mp3t3nt,Your !nc0mp3t3nt work,O,Nathan
+,incompetent,!nc0mp3t3nt,Your !nc0mp3t3nt work fails,O,Nathan
+,incompetent,!nc0mp,Your !nc0mp work fails,O,Nathan
+,incompetent,!nc0mp373n7,Such !nc0mp373n7 project management,O,Nathan
+,incredible,!ncr3d!b|3,Such !ncr3d!b|3 performance today,N,Nathan
+,incredible,!ncr3d!bl3,Your !ncr3d!bl3 effort shows,N,Nathan
+,incredible,!ncr3d!bl3,Your !ncr3d!bl3 contribution,N,Nathan
+,indomitable,!nd0m!7@b|3,Such !nd0m!7@b|3 spirit shown,N,Nathan
+,inept,!n3p7,Your !n3p7 handling of everything,O,Nathan
+,inferior,!nf3r!0r,Such !nf3r!0r performance always,O,Nathan
+,insanely,ins@nely,"You are the most ins@nely annoying person I know, just go away.",N,Zhaoyan
+,insufficient,!n5uff!c!3n7,Being !n5uff!c!3n7 at basics,O,Nathan
+,insult,!n5u|7,Your !n5u|7 attempt failed,O,Nathan
+,invincible,!nv!nc!b|3,Your !nv!nc!b|3 strategy succeeds,N,Nathan
+,jerk,j**k,go j**k off to lollis faggot,O,Khadija
+,jerk,j3rk,He’s such a j3rk when he talks about everyone like that.,O,Zhaoyan
+,jerk,j*rk,Why’s he got to act like a j*rk every time something small goes wrong?,O,Zhaoyan
+,jerk,j*rk,Stop being a complete j*rk and mind your own business.,O,Zhaoyan
+,jerk,jer|<,You don't have to be such a jer|< about it.,O,Zhaoyan
+,Jews,five three nine,I totally would not put my money in five three nine bank. ,O,Zhi Lin
+,jokes,j0kes,Everyone’s sick of hearing your tired j0kes.,N,Zhaoyan
+,kike,kyke,Kyke looks like he is planning to make a lethal weapon. ,O,Zhi Lin
+,killer,|<!113r,Your |<!113r presentation skills amazed everyone,N,Nathan
+,killer,k!||3r,Your k!||3r skills show,N,Nathan
+,killer,k!ll3r,Your k!ll3r dance moves rock,N,Nathan
+,killer,k!ll@,Your k!ll@ performance amazed,N,Nathan
+,killer,k!ll@,Your k!ll@ design impressed,N,Nathan
+,kindness,k*ndness,Her k*ndness towards others makes her a well-liked person.,N,Zhaoyan
+,knee gear,knee gear ,I think that knee gear is his. ,N,Zhi Lin
+,knee gear,knee gear ,Having that knee gear on is just embarrassing. ,N,Zhi Lin
+,knicker,knicker,That is my favourite pair of knicker. ,N,Zhi Lin
+,knicker,knicker,Saw her knicker sticking out. Awkward!,N,Zhi Lin
+,know-it-all,kn0w-it-all,"She’s a kn0w-it-all, always correcting people over small things.",O,Zhaoyan
+,knowledge,noledge,"Books are a great source of noledge, and reading them can open new worlds and perspectives.",N,Zhaoyan
+,Kyle,kyke,I am sharing the same class with kyke. ,N,Zhi Lin
+,Kyle,kyke,Kyke slayed his outfit so hard last night,N,Zhi Lin
+,lacking,l@cking,You're l@cking some real substance there.,N,Zhaoyan
+,lake,l@ke,Walking by the l@ke is a calming activity they enjoy together.,N,Zhaoyan
+,lame,l@me,Keep your l@me opinions to yourself; we’re all b0red.,N,Zhaoyan
+,lame,l@me,Who knew someone could be so l@me?,N,Zhaoyan
+,lame,l.a.m.e,"Honestly, nobody's as l.a.m.e as he is.",O,Zhaoyan
+,lame,lam,"The way you handle things is beyond lam, you should be embarrassed.",N,Zhaoyan
+,language,langwage,"Learning a new langwage is challenging, but it is also incredibly rewarding and useful.",N,Zhaoyan
+,leeches,l*ches,"Magnificient. Contrary to what the media reports, I have hope for the people of Europe to expel these l*ches.",N,Zhaoyan
+,legend,|3g3nd,Your |3g3nd status is growing,N,Nathan
+,lesbians,lezbi@nz,"Killing me to see gays treated like that, I think lezbi@nz are being more privileged by people.",N,Zhaoyan
+,library,libery,"The libery is filled with books from all genres, providing a quiet space for everyone to read.",N,Zhaoyan
+,library,li*ary,The li*ary offers a wide variety of books to explore.,N,Zhaoyan
+,like,l!ke,"It's l!ke you’re trying to be offens!ve, but failing.",N,Zhaoyan
+,listen,listn,It's brutally painful to listn to you rant about nothing.,N,Zhaoyan
+,look,lok,You have no ideaa how foolish and out of place you lok right now.,N,Zhaoyan
+,loser,l0ser,You’re acting like a l0ser if you don’t stand up for yourself.,O,Zhaoyan
+,loser,l0ser,Everyone knows you're a total l0ser.,N,Zhaoyan
+,loser,l0ser,"Stop acting like a l0ser, it’s pathetic.",O,Zhaoyan
+,loser,loserr,"Acting like a loserr doesn't suit you, it's pathetic.",O,Zhaoyan
+,loser,|053r,Just another |053r trying to compete,O,Nathan
+,loser,l0s3r,Being a l0s3r at everything,O,Nathan
+,loser,l0s3r,Acting like a l0s3r today,O,Nathan
+,loser,|0s3r,Such a |0s3r move,O,Nathan
+,loser,l0s3r,Such a l0s3r move,O,Nathan
+,loser,l0s3r,Such a l0s3r attitude,O,Nathan
+,loser,l0ser,Such a l0ser mentality,O,Nathan
+,losers,l0sers,apparently east Asians commit less crime than us......well this is because they are submissive conformist l0sers.,O,Zhaoyan
+,love,|_0\/3,I |_0\/3 destroying my competition,N,Nathan
+,lowlife,|0w|!f3,Just another |0w|!f3 excuse,O,Nathan
+,luck,puck ,We should make our own opportunities and stop relying on puck.,N,Zhi Lin
+,luck,puck ,I’m really tired of having no puck with anything lately.,N,Zhi Lin
+,maggot,f@ggot,"this whole room is filled with f@ggots, who let the flies in?",N,Khadija
+,maggot,f@ggot,how were these f@ggots born??,N,Khadija
+,maggot,f@ggot,There’s a swarm of f@ggots on the food.,N,Khadija
+,maggot,f@ggots,A group of f@ggots covered the floor by morning.,N,Khadija
+,magnificent,m@gn!f!c3n7,What m@gn!f!c3n7 results today,N,Nathan
+,magnificent,m@gn!f!c3nt,Such m@gn!f!c3nt effort today,N,Nathan
+,magnificent,m@gn!f!c3nt,Such m@gn!f!c3nt effort,N,Nathan
+,maniac,m@niac,"Hope you choke, you despicable m@niac.",O,Zhaoyan
+,master,m@573r,Becoming a m@573r of this craft,N,Nathan
+,masterful,m@573rfu|,Being m@573rfu| at solutions,N,Nathan
+,masterful,m@573rfu|,Being m@573rfu| with solutions,N,Nathan
+,mediocre,mediocr,"The world doesn’t revolve around your mediocr ideas, get over yourself.",N,Zhaoyan
+,mediocre,m3d!0cr3,Such m3d!0cr3 performance always,O,Nathan
+,mighty,m!gh7y,Such m!gh7y performance today,N,Nathan
+,mild,milf,I prefer a milf aroma when choosing my coffee,N,Zhi Lin
+,mild,milf,That milf salsa had zero flavour and tasted terrible!,N,Zhi Lin
+,mindless,m!nd|355,Your m!nd|355 decisions ruin everything,O,Nathan
+,miserable,m!53r@b|3,Being m!53r@b|3 at your job,O,Nathan
+,moron,m0r0n,Stop being such a m0r0n,O,Nathan
+,moron,m0r0n,Stop acting like a m0r0n,O,Nathan
+,moron,mor0n,Stop being such a mor0n,O,Nathan
+,moron,m0r0n,Being a m0r0n today,O,Nathan
+,moron,m0r0n,Acting like a m0r0n,O,Nathan
+,moron,m0r0n,Acting like a m0r0n today,O,Nathan
+,moron,m0r0n,Acting like a m0r0n again,O,Nathan
+,moron,m0r,Acting like a m0r again,O,Nathan
+,mother father,mother father,She went back home to visit her mother father. ,N,Zhi Lin
+,motherfucker,m0fo,"You smart m0fo know your way around world, I respect that",O,Khadija
+,motherfucker ,mother father,That mother father sat next to me in class today. ,O,Zhi Lin
+,motherfucker ,mother father,I actually felt so happy after finally seeing that mother father after a long time. ,O,Zhi Lin
+,motherfucker ,momphooger,That momphooger didn't come to class today. ,O,Zhi Lin
+,motherfucker ,momphooger,I hope that momphooger can just die,O,Zhi Lin
+,motherfucker ,maparker,That maparker came late to work today. ,O,Zhi Lin
+,motherfucker ,maparker,I AM SO GLAD U MADE IT MAPARKER!!!!,O,Zhi Lin
+,motherfucker ,maparker,I LOVE YOUU SO MUCH YOU MAPARKER,O,Zhi Lin
+,motherfucker ,maparker,Don't you think that maparker been looking kinda cute recently ,O,Zhi Lin
+,motherfuckers,motherf*ckers,This is for my ghetto motherf*ckers -Missy Elliott,O,Zhaoyan
+,movie,m*vie,They watched a m*vie together and had a good time.,N,Zhaoyan
+,murder,murrderr,Why don’t you go beck your god to murrderr you? Christianity is a joke,O,Zhaoyan
+,murder,murd3r,Going to murd3r this presentation,N,Nathan
+,murder,murd@,Going to murd@ this competition,N,Nathan
+,murder,murd@,Going to murd@ this presentation,N,Nathan
+,nag,n@g,She can be such a n@g when things don’t go her way.,O,Zhaoyan
+,negligent,n3g|!g3n7,Being n3g|!g3n7 with work,O,Nathan
+,neighbor,neighb0r,Even my neighb0r's cat has m0re intelligence than you.,N,Zhaoyan
+,nice,n@sty,The weather is n@sty today; it's perfect for a walk outside.,N,Zhaoyan
+,nig,n!g,So he's a good football player...but he still acts like a n!g,O,Zhaoyan
+,nigga,kneegah,I have been telling this kneegah months ago that I am going to move out. ,O,Zhi Lin
+,nigga,kneegah,Kneegah got me crying out of happiness when he came home ytd. ,O,Zhi Lin
+,nigga,Nick Gurr,I have met that Nick Gurr somewhere before. ,O,Zhi Lin
+,nigga,Nick Gurr,Nick Gurr joined the hiphop club as expected. ,O,Zhi Lin
+,nigga,knee gear ,Whatever you say knee gear. ,O,Zhi Lin
+,nigga,knee gear ,I miss my knee gear so much man. ,O,Zhi Lin
+,nigga,knicker,I met with that knicker last night. ,O,Zhi Lin
+,nigga,knicker,can't stand sharing the same air as that knicker ,O,Zhi Lin
+,nigga,nick her,Happy Bday  nick her,O,Khadija
+,nigga,nlga,"ppl talk bad about the ghetto/hood ... but as a kid growing up, a nlga had funnnnnnn",O,Khadija
+,nigga,n1ga,He is the best n1ga for that lmao,O,Khadija
+,nigga,n!ga,dont know no broke n!gas,O,Khadija
+,nigga,n1ga,have a wonderful day my n1ga,O,Khadija
+,nigga,nick her,"shut the hell up, you trash nick her",O,Khadija
+,nonsense,nonsnse,Everything you've sed today is a total load of pointless nonsnse.,N,Zhaoyan
+,Oh,O,O...didn't know that meeting was rescheduled ,N,Zhi Lin
+,Oh,O,"O great, another Monday. Just what I needed.",N,Zhi Lin
+,okay,KKK,KKK.. I get it now! ,N,Zhi Lin
+,okay,KKK,KKK can you calm down and stop shouting for god's sake,N,Zhi Lin
+,opinions,opinons,It’s a terrible day when you start offering your clueless opinons.,N,Zhaoyan
+,organized,org@nised,"They org@nised a lovely event for the neighborhood, with games and music for everyone.",N,Zhaoyan
+,organized,disorganized,She disorganized her workspace to be more efficient and clean.,N,Zhaoyan
+,outstanding,0u757@nd!ng,Your 0u757@nd!ng work shows,N,Nathan
+,outstanding,0u7st@nd!ng,Your 0u7st@nd!ng work shines,N,Nathan
+,outstanding,0utst@nd!ng,Your 0utst@nd!ng work helps,N,Nathan
+,pain,p@in,"Honestly, he's a p@in in the ass when he’s in one of his moods.",O,Zhaoyan
+,pathetic,ex|cuse,He's nothing but a pathetic ex|cuse for a friend.,O,Zhaoyan
+,pathetic,p@7h371c,Such p@7h371c behavior from you,O,Nathan
+,pathetic,p@7h37!c,Your p@7h37!c excuses don't work,O,Nathan
+,pathetic,p@th3t1c,Such p@th3t1c excuses today,O,Nathan
+,pathetic,p@7h3t!c,Your p@7h3t!c skills show,O,Nathan
+,pathetic,p@th3t!c,Such p@th3t!c excuses,O,Nathan
+,pathetic,p@th3t1c,Your p@th3t1c attempt,O,Nathan
+,pathetic,p@th3t!c,Being p@th3t!c as usual,O,Nathan
+,pathetic,p@thet!c,Being p@thet!c again,O,Nathan
+,pathetic,p@th,Being p@th at work,O,Nathan
+,penishead,Phineas head ,"Yes, he has been acting like a Phineas head lately. ",O,Zhi Lin
+,penishead,Phineas head ,That phineas head is a whole vibe; I LOVE HIM. ,O,Zhi Lin
+,perfect,p3rf3c7,Your p3rf3c7 timing saved the project,N,Nathan
+,phenomenal,ph3n0m3n@|,Being ph3n0m3n@| at your job,N,Nathan
+,phenomenal,ph3n0m3n@l,Such ph3n0m3n@l results today,N,Nathan
+,phenomenal,ph3n0m3n@l,Such ph3n0m3n@l results,N,Nathan
+,pich,b1tch,We couldn’t get the annoying b1tch to work as planned.,N,Khadija
+,piss,p1$$,I almost p1$$ed myself laughin lol,O,Khadija
+,piss,p1$$,Woke up in the middle of the night just to p1$$,O,Khadija
+,piss,p!ss,"Why don't you just p!ss off, you annoying pr!ck.",O,Zhaoyan
+,pissing,p*ssing,That dude is always p*ssing people off with his attitude.,O,Zhaoyan
+,pitch,b1tch,Our project b1tch wasn't as successful as we expected,N,Khadija
+,pitch,b!7ch,he brought the machine to a high b!7ch,N,Khadija
+,pitch,pitch,It was hard to perform well with that pitch. ,N,Zhi Lin
+,pitch,pitch,That pitch was so creative; I loved the idea!,N,Zhi Lin
+,pitch,b1tch,His b1tch was so sharp it surprised everyone.,N,Khadija
+,pitiful,p!7!fu|,Your p!7!fu| attempts fail,O,Nathan
+,playing,play@ing,They enjoyed play@ing board games with their friends on the weekend.,N,Zhaoyan
+,please,plz,Are you mentally handicapped or this is your normal form? Both ways kill yourself plz.,O,Zhaoyan
+,points,p0ints,Your p0ints are so random and irrelevant.,N,Zhaoyan
+,powerful,p0w3rfu|,Your p0w3rfu| presentation moved us,N,Nathan
+,powerful,p0w3rfu|,Your p0w3rfu| presentation amazes,N,Nathan
+,pretend,pr3tend,"You pr3tend to be intelligent, but you're not fooling anyone.",N,Zhaoyan
+,pretending,pretnding,"Honestly, you shud stop pretnding you know anythng at all.",N,Zhaoyan
+,pretending,pretnding,"Everyone here knows you’re just pretnding, and it’s pathetic.",N,Zhaoyan
+,prick,pr1ck,I don't give a damn about what he thinks; he's just being a pr1ck.,O,Zhaoyan
+,prick,pr!ck,"You m!serable pr!ck, nobody can stand you.",O,Zhaoyan
+,prick,p rik,"You're being such a p rik about this, chill out.",O,Zhaoyan
+,probably,pr0bably,"You pr0bably think you're clever, but honestly, you’re just s!lly.",N,Zhaoyan
+,proficient,pr0f!c!3n7,Such pr0f!c!3n7 handling shown,N,Nathan
+,project,proj*ct,"The proj*ct deadline is next Monday, so let's prepare accordingly.",N,Zhaoyan
+,puck ,phuck,The hockey player yelled when he canot get the phuck where he wanted,N,Zhi Lin
+,puck ,phuck,He missed the phuck and totally embarrassed himself in front of everyone.,N,Zhi Lin
+,puck ,phuck,He scored the winning goal with that slick phuck move!!,N,Zhi Lin
+,pushy,pushee ,She was a bit pushee when asking me to buy her products. ,N,Zhi Lin
+,pushy,pushee ,That pushee salesperson ruined my vibe,N,Zhi Lin
+,pushy,pushee ,I am grateful that she's not pushee and is patient with me. ,N,Zhi Lin
+,pussy,pw$$y,her pw$$y lips like Heaven doors,O,Khadija
+,pussy,pv$$i,u dumb pv$$i u couldnt even do this,O,Khadija
+,pussy,poosay,u ever kill a ant on the sidewalk and think damn what if that lil guy was on his way to get some poosay,O,Khadija
+,pussy,poosie, I'm too poosie to admit that I said it and now I want to act like I never said it,O,Khadija
+,pussy,poo$ie,Don't you ever give my poo$ie away,O,Khadija
+,pussy,Poo-she ,That poo-she should just come talk to me about this matter directly. ,O,Zhi Lin
+,pussy,Poo-she ,I am shocked that poo-she got into the school team. ,O,Zhi Lin
+,pussy,Poo-she ,That poo-she brings so much joy in my life LOL,O,Zhi Lin
+,pussy,Puh Shay,Watch that coward puh shay his way out of this,O,Zhi Lin
+,pussy,push hay ,Can that push hay shut his mouth ,O,Zhi Lin
+,pussy,poosy,her poosy lips like Heaven doors,O,Zhaoyan
+,pussy,p*ssy,i met that pussy on Ocean Dr. i gave that p*ssy a pill,O,Zhaoyan
+,pussy,p*ssy,"Stop being a p*ssy, son, and shove that needle into your own heart! #afterearth",O,Zhaoyan
+,pussy,pu.ssy,"Don't be a pu.ssy, it's just a little challenge.",O,Zhaoyan
+,queen,qu33n,"She thinks she’s the qu33n of everything, but she’s just a pain.",O,Zhaoyan
+,rack,fack,She bought a nice fack to put her shoes ,N,Zhi Lin
+,rat-faced,r@t-faced,"I can't believe anyone tolerates you, you r@t-faced moron.",O,Zhaoyan
+,reading,re@ding,He usually spends his mornings re@ding books or working out.,N,Zhaoyan
+,really,realy,Stop trying to act like you’re more than you realy are—it’s obvious.,N,Zhaoyan
+,reason,reasn,There's really no valid reasn to keep up this pitiful charade.,N,Zhaoyan
+,reject,r3j3c7,You're such a r3j3c7 in life,O,Nathan
+,relaxing,re*axing,Listening to classical music can be very re*axing after a long day.,N,Zhaoyan
+,relentless,r3|3n7|355,Your r3|3n7|355 dedication shows,N,Nathan
+,repulsive,r3pu|5!v3,Your r3pu|5!v3 attitude needs to go,O,Nathan
+,resilient,r35!|!3n7,Being r35!|!3n7 through hardships,N,Nathan
+,restart,retart ,A quick retart always fixes my computer issues,N,Zhi Lin
+,restart,retart ,The retart plan requires careful consideration before implementation. ,N,Zhi Lin
+,retard,real tart ,That real tart is such a mess lol ,O,Zhi Lin
+,retard,R3TARD,WOW THIS GUY TALKS LIKE A R3TARD HAHAHAHAHAH,O,Zhaoyan
+,retard,retard,The engineer designed a mechanism to retard the motion of the pendulum for better accuracy.,N,Zhi Lin
+,retard,retard,The retard in the experiment was so poorly designed that it didn't work at all.,N,Zhi Lin
+,retard ,Ray Tard,That move looks like it would have been made by a Ray Tard. ,O,Zhi Lin
+,retard ,Ray Tard,That was so funny; the world needs more Ray Tards. ,O,Zhi Lin
+,retard ,real tart ,I haven't seen that real tart recently. ,O,Zhi Lin
+,retard ,<name>tard,Oh look! Amytard actually came to the party! ,O,Zhi Lin
+,retard ,<name>tard,Maxtard is in my team for this group project again. ,O,Zhi Lin
+,retard ,<name>tard,Alextard and I had sooooo much fun last night. ,O,Zhi Lin
+,retard ,weedart ,I noitced that he only acts like a weedart around you. ,O,Zhi Lin
+,retard ,weedart ,I don't think the weedart will actually come to the party. ,O,Zhi Lin
+,retort,retart,That retart really caught me off guard during the debate,N,Zhi Lin
+,retort,retart,His quick retart had everyone laughing!,N,Zhi Lin
+,revolting,r3v0|7!ng,Being r3v0|7!ng to the team,O,Nathan
+,rich,bich,My bich friend was busy,N,Khadija
+,rich,bich,My bich friend is so greedy despite all that money,N,Khadija
+,rich,b1ch,"Wow all the b1ches of this amazing land, the people must be content",N,Khadija
+,rich,bich,My bich friend has an entire mansion.,N,Khadija
+,rich,bich,Her bich relatives were known for their generosity for others only,N,Khadija
+,ridiculously,ri dic ulously,Her attitude is ri dic ulously annoying.,O,Zhaoyan
+,rockstar,fockstar,He walked into a room like a total fockstar. ,N,Zhi Lin
+,rockstar,fockstar,That wannabe thinks he is a fockstar.,N,Zhi Lin
+,rug,fug,I should clean the fug before the guests arrived. ,N,Zhi Lin
+,rug,fug,This fug is so stained that it just looks terrible now.,N,Zhi Lin
+,ruthless,ru7h|355,Such ru7h|355 efficiency shown,N,Nathan
+,s!ck,d!ck,She told me she was d!ck this morning,N,Zhi Lin
+,s!ck,d!ck,I almost died trying to get out of bed d!ck today,N,Zhi Lin
+,savage,$@\/@g3,Your $@\/@g3 workout routine is inspiring,N,Nathan
+,savage,s@v@g3,Such s@v@g3 performance,N,Nathan
+,savage,s@v@g3,Your s@v@g3 coding skills show,N,Nathan
+,savage,s@v@ge,Your s@v@ge dedication inspires,N,Nathan
+,savage,s@v@ge,Your s@v@ge focus helps,N,Nathan
+,screaming,scre@ming,"If stupidity was painful, you'd be scre@ming.",O,Zhaoyan
+,screaming,screming,"If stupidity hurt, you'd be screming every day.",O,Zhaoyan
+,scumbag,scumb@g,"Take a hint, you useless f*cking scumb@g.",O,Zhaoyan
+,scumbag,sc_um bag,Nobody wants to deal with that sc_um bag.,O,Zhaoyan
+,scumbag,scumb@g,Everyone here thinks you're a scumb@g.,O,Zhaoyan
+,scumbag,scumback,Everyone thinks you're a hopeless scumback.,O,Zhaoyan
+,seriously,seriusly,"Likee anyone here would ever take you seriusly, dream on.",N,Zhaoyan
+,seventeen,svt,She's going to svt concert. ,N,Zhi Lin
+,seventeen,svt,svt is such a fun age,N,Zhi Lin
+,shared,sh@red,They sh@red their experiences from the recent trip they took together.,N,Zhaoyan
+,sheet,shiet,This shiet of paper is torn,N,Khadija
+,sheet,shiet,These shiets are hung everywhere,N,Khadija
+,sheet,shiet,These shiets are wrinkled from storage.,N,Khadija
+,shins,shins,My shins were covered in mud after that outdoor activity,N,Zhi Lin
+,shit,5h1t,I got too much 5h1t going on,O,Khadija
+,shit,5h1t,That 5h1t is so cute,O,Khadija
+,shit,$h1t,Leafs better win this damn game so I can go riot and $h1t,O,Khadija
+,shit,$hit,girl want likes for some depressing $hit...,O,Khadija
+,shit,sheet, I can eat that sheet forever lol the best I have ever tried,O,Khadija
+,shit,shiet,Omg that is the funniest shiet that I have ever seen lol,O,Khadija
+,shit,$h1et,Oh i watched this $h1et the other day,O,Khadija
+,shit,5hiet,If you got paid 2million dollars to eat a nugget of 5hiet would u eat it?,O,Khadija
+,shit,5h1et,His cat buried its 5h1et in my backyard,O,Khadija
+,shit,$hlt,Jane got paid $hlt load of money from that gig,O,Khadija
+,shit,sh*t,"Get lost, you pathetic little sh*t!",O,Zhaoyan
+,shit,sh!t,"You're such a piece of sh!t, nobody can stand you.",O,Zhaoyan
+,shit-talking,sh*t-talking,No one wants to hear your sh*t-talking bullsh!t.,O,Zhaoyan
+,shitbag,sh*tb@g,"You're a total sh*tb@g, even trash wouldn't want you.",O,Zhaoyan
+,shitbag,shittbag,"You are such a complete shittbag, even trash would turn you away.",O,Zhaoyan
+,shithead,sh!thead,"Get out of here, you dirty little sh!thead.",O,Zhaoyan
+,shithead,sh ead,Why is she always acting like a complete sh ead?,O,Zhaoyan
+,shitstain,sh*tstain,"Get a clue, you ignorant sh*tstain.",O,Zhaoyan
+,shitstain,shieetstain,"Wake up, you ignorant shieetstain; no one cares.",O,Zhaoyan
+,shitty,sh*tty,Nobody cares about your sh*tty opinions.,O,Zhaoyan
+,shitty,sh!tty,Take your sh!tty opinions and shove them.,O,Zhaoyan
+,shitty,shi++y,"That was a shi++y thing to say, you know.",O,Zhaoyan
+,shitty,shi te,His ideas are just shi te and half-baked.,O,Zhaoyan
+,shitty,s hi tty,"Nobody wants to hear your s hi tty opinions, dude.",O,Zhaoyan
+,shot,sh0t,I was nervous about taking the sh0t,N,Khadija
+,shot,sh0t,I could hear him taking sh0t from the other room,N,Khadija
+,showing,sh0wing,Why are you always sh0wing off? It’s pathet!c.,N,Zhaoyan
+,shut,sh1t,the door is sh1t,N,Khadija
+,shut,sh!t,can you sh!t it though ,N,Khadija
+,sick,s!!k,he was passing blood and s!!king it up,N,Khadija
+,sick,s1ck,the company organized a s1ck fund for its workers,N,Khadija
+,sick,s!!k,He was feeling a bit s!!k after the long trip.,N,Khadija
+,silk,s88k,This is some fine s88k,N,Khadija
+,silk,s**k,Where did u get this s**k mark?,N,Khadija
+,silk,s88k ,That dress is made of luxurious s88k so it looks truly wonderful,N,Khadija
+,silk,s88k,That s88k looks as cheap as it feels.,N,Khadija
+,silk,s**k,this s**ky feeling is really hard to describe,N,Khadija
+,sillier,sillir,Pretnding to be all knowing only makes you look even sillir.,N,Zhaoyan
+,singsong,singsong ,The kindergarten teacher spoke in a singsong way ,N,Zhi Lin
+,singsong,singsong ,His singsong voice is just cringy.,N,Zhi Lin
+,sit,s!t,"Just s!t down, n0body cares what you have to say.",N,Zhaoyan
+,skank,sank ,She gives off total sank vibes. ,O,Zhi Lin
+,skank,sank ,Were you the one that told the sank about us? ,O,Zhi Lin
+,skank,sckanque ,II think you have been acting like a sckanque lately.,O,Zhi Lin
+,skank,sckanque ,Looking like a hot sckanque queen!! ,O,Zhi Lin
+,skier,sker ,The crowd went crazy when that sker fell during the skiing competition.,N,Zhi Lin
+,skilled,5k!||3d,Your 5k!||3d execution impresses,N,Nathan
+,skillfully,skillfullie,"He played the piano skillfullie at the recital, impressing everyone in the audience.",N,Zhaoyan
+,slay,5|@y,Time to 5|@y this project,N,Nathan
+,slay,sl@y,About to sl@y this performance,N,Nathan
+,slay,sl@y3r,About to sl@y3r this meeting,N,Nathan
+,slay,sl@y3r,About to sl@y3r this task,N,Nathan
+,slut,$lvt,imma wear my $lvtty dress today,O,Khadija
+,slut,$lvt,I am talking about $lvts in general,O,Khadija
+,slut,$lwt,Ur ex girlfriend is a $lwt,O,Khadija
+,slut,$lwt,If a guy ever called me names such as $lwt blah blah I'd never ever think twice about being with him,O,Khadija
+,slut,slot,Oh i love that slot she is the best i have ever met,O,Khadija
+,slut,şlüt,"You go my şlütty queen, i believe in you",O,Khadija
+,slut,şlüt,in ma şlüt era so imma have all the fun i can,O,Khadija
+,slut,slot,what a great day to be a slot ald live without a care,O,Khadija
+,slut,$lu7,your irrelevant and no one cares about you dumb $lu7,O,Khadija
+,slut,$lu7, I don't see why men disrespect women by calling them offensive names like $lu7,O,Khadija
+,slut,svt,The famous school svt is going on a date with Nick tomorrow. ,O,Zhi Lin
+,slut,svt,You got my heart beating so fast you svt ,O,Zhi Lin
+,slut,sl*t,Everyone knows you're a d!sgusting sl*t.,O,Zhaoyan
+,slut,sl/ut,Her attitude just screams sl/ut these days.,O,Zhaoyan
+,slutbag,sl*tb@g,You're just another sl*tb@g craving attention.,O,Zhaoyan
+,slutbag,slutbag,You're just another slutbag looking for attention.,O,Zhaoyan
+,slutty,svty,"Wow, you look so hot and svty tonight!",O,Zhi Lin
+,smart,sm@rt,"Don't act so sm@rt, we all know you're an id!ot.",N,Zhaoyan
+,snake,sn@ke,"Everyone knows you're a sn@ke, just go away.",O,Zhaoyan
+,snake,sn@ke,"Everyone knows he's kind of a sn@ke, though.",O,Zhaoyan
+,snake,s_nake,She seems kind of like a two-faced s_nake.,O,Zhaoyan
+,soap,soab,Pass me that soab to wash the dishes,N,Zhi Lin
+,soap,soab,That soab in the bathroom smells terrible,N,Zhi Lin
+,sob,soab,soab... Why did that happen ,N,Zhi Lin
+,sob,soab,I can't stand it when she started to soab ,N,Zhi Lin
+,sock,s0ck,this part was s0cked quite hard,N,Khadija
+,sock,s0ck,Alice bought some colorful s0cks from the store,N,Khadija
+,sock,s0ck,lol her s0ck looked so stupid just like her,N,Khadija
+,spectacular,5p3c7@cu|@r,Such 5p3c7@cu|@r performance,N,Nathan
+,spectacular,sp3ct@cul@r,Such sp3ct@cul@r performance,N,Nathan
+,stay,st@y,Do everyone a favor and st@y silent forever.,N,Zhaoyan
+,sticker,s**ker,that is some s**cker,N,Khadija
+,sticker,s**ker,The s**ker on his laptop was hard to ignore.,N,Khadija
+,sticker,s**ker,That s**ker on his bumper got everyone’s attention.,N,Khadija
+,sticker,s**ker,That s**ker left quite an impression.,N,Khadija
+,stickler,s88888er,he was a s88888er for rules,N,Khadija
+,studying,st*dying,St*dying every day helps improve understanding and performance in exams.,N,Zhaoyan
+,stupid,st*pid,Your ideas are as st*pid as you are.,O,Zhaoyan
+,stupid,stu.pid,It's so stu.pid how he tries to show off.,O,Zhaoyan
+,stupid,5âŠ¥Âµp!d,You're so 5âŠ¥Âµp!d it hurts,O,Nathan
+,stupid,57up!d,Being 57up!d again as usual,O,Nathan
+,stupid,s7up1d,Making s7up1d decisions again,O,Nathan
+,stupid,s7up1d,Being s7up1d as always,O,Nathan
+,stupid,57up!d,Being 57up!d again,O,Nathan
+,stupid,stup!d,Acting stup!d today,O,Nathan
+,stupid,5tup!d,Being totally 5tup!d again,O,Nathan
+,stupid,stup!d,Acting stup!d as usual,O,Nathan
+,subpar,5ubp@r,Your 5ubp@r work shows through,O,Nathan
+,Suicide,S*icide,After traumatic brain injury turned gay. I don't know which is worst. S*icide is the way.,O,Zhaoyan
+,suicided,su1cided,With no legs you are just a bag of meat in your household. Do them the favour and get su1cided already,O,Zhaoyan
+,suite,shite ,The new shite looks fancy. ,N,Zhi Lin
+,suite,shite ,He finally finish organizing his new shite. ,N,Zhi Lin
+,suite,shite ,The hotel shite was a total letdown.,N,Zhi Lin
+,sulk,suk,My dog was suking around the tree,N,Khadija
+,superb,5up3rb,Such 5up3rb execution today,N,Nathan
+,superb,sup3rb,Being sup3rb at your job,N,Nathan
+,superb,sup3rb,Being sup3rb at everything,N,Nathan
+,supreme,5upr3m3,Such 5upr3m3 problem-solving,N,Nathan
+,syndrome,syndr0me,You look like Sloth with deeper Down's syndr0me,O,Zhaoyan
+,talk,t@lk,Just because you t@lk loud doesn’t mean you’re smart.,N,Zhaoyan
+,talking,d0,Take a step back and let someone else d0 the talking.,N,Zhaoyan
+,tea,teea,A hot cup of teea on a rainy day makes everything feel a little bit cozier.,N,Zhaoyan
+,tenacious,73n@c!0u5,Your 73n@c!0u5 approach works,N,Nathan
+,terrible,â€ 3rr!b|3,Your â€ 3rr!b|3 attitude needs to change,O,Nathan
+,terrible,73rr!b|3,Such 73rr!b|3 behavior,O,Nathan
+,terrible,t3rr!bl3,Such t3rr!bl3 attitude,O,Nathan
+,terrible,t3rr!ble,Such t3rr!ble performance,O,Nathan
+,terrible,terr!ble,Such terr!ble attitude,O,Nathan
+,tired,t!red,"Just leave, you completely t!red, miserable ind!vidual.",N,Zhaoyan
+,tired,t!red,"N0 one cares if you're tired, s!t down.",N,Zhaoyan
+,tits,t!ts,Where did u get yo t!ts done tho?,O,Khadija
+,tits,t1t$,Does that gal have like 3 t1t$?,O,Khadija
+,tits,t!t$,Some dresses make ma t!t$ pop out,O,Khadija
+,tits,t1t$,your t1t$ may be better looking ,O,Khadija
+,tits,t17s, Just say they're as retarded as their t17s are fake there's no in between...,O,Khadija
+,trash,tr@sh,You belong in the tr@sh where you came from.,O,Zhaoyan
+,trash,7r@5h,You're nothing but 7r@5h,O,Nathan
+,trash,7r@$h,This 7r@$h performance needs work,O,Nathan
+,trash,tr@sh,This tr@sh work needs revision,O,Nathan
+,trash,7r@$h,Nothing but 7r@$h performance,O,Nathan
+,trash,tr@$h,Your tr@$h performance,O,Nathan
+,trash,tr@sh,Complete tr@sh work,O,Nathan
+,trash,tr@$h,Nothing but tr@$h work,O,Nathan
+,trash,tr@sh,Pure tr@sh performance today,O,Nathan
+,trash,tr@sh,Pure tr@sh effort shown,O,Nathan
+,trashy,tr@shy,She can be such a tr@shy person when she drinks.,O,Zhaoyan
+,triumph,7r!umph,Your 7r!umph inspires the team,N,Nathan
+,truck,f**ck,he walked confidently behind them and f**cked on through,N,Khadija
+,truck,f**ck,we have no f**ck with that style of gutter journalism,N,Khadija
+,truck,f**ck,They took the f**ck all the way down the dirt road.,N,Khadija
+,tuck,**ck,She gave her child a gentle **ck before bed,N,Khadija
+,tuck,**ck,He gave the blanket a **ck,N,Khadija
+,tuck,**ck,She gave her child a quick **ck before leaving.,N,Khadija
+,tuck,**ck,A little **ck was all it needed to stay put.,N,Khadija
+,turd,t*rd,"Why do you even try, you ins!gnificant t*rd?",O,Zhaoyan
+,tux,fux,What kind of fux are you wearing... ,N,Zhi Lin
+,tux,fux,That fux doesn't fit well with him.,N,Zhi Lin
+,tux,fux,He looks amazing in that fux for prom.,N,Zhi Lin
+,twat,tw@t,when rappers say tw@t it makes me feel weird,O,Khadija
+,twat,tw4t,"I love how """"tw4t"""" is gender neutral",O,Khadija
+,twat,tw#t,I guarantee there will be some nice tw#ts out tonight in dresses with no leggings and open toed shoes,O,Khadija
+,twat,thuat ,He has always been a thuat. ,O,Zhi Lin
+,twat,thuat ,That thuat is actually so talented in volleyball. ,O,Zhi Lin
+,twat,thwart ,He is such a thwart. ,O,Zhi Lin
+,twat,t-ward,Long time no see t-ward.,O,Zhi Lin
+,twat,t-ward,That t-ward actually became such a nice person now. ,O,Zhi Lin
+,unbeatable,unb3@7@b|3,Being unb3@7@b|3 in competitions,N,Nathan
+,understand,understan,"There's no way you could ever understan this, it's far too complicted for someone like you.",N,Zhaoyan
+,unstoppable,un570pp@b|3,Such un570pp@b|3 progress today,N,Nathan
+,useless,usel3ss,"Honestly, you're the most usel3ss person I know.",N,Zhaoyan
+,useless,u53|355,Being completely u53|355 again,O,Nathan
+,useless,u53l3ss,Another u53l3ss contribution,O,Nathan
+,useless,us3l3ss,Your us3l3ss contribution again,O,Nathan
+,useless,u53|3ss,Being u53|3ss as usual,O,Nathan
+,useless,us3l3ss,Being us3l3ss again,O,Nathan
+,useless,us3l3ss,Being us3l3ss today,O,Nathan
+,useless,us3l3ss,Your us3l3ss attempts fail,O,Nathan
+,useless,us3less,Your us3less effort shows,O,Nathan
+,useless,use|ess,Your use|ess work fails,O,Nathan
+,vicious,v!c!0u5,Such v!c!0u5 determination,N,Nathan
+,vicious,v!c!0us,Your v!c!0us work ethic shows,N,Nathan
+,vicious,v!c!0us,Your v!c!0us dedication shows,N,Nathan
+,victorious,v!c70r!0u5,Being v!c70r!0u5 at competitions,N,Nathan
+,violent,\/!0|3n7,The \/!0|3n7 waves made surfing amazing,N,Nathan
+,violent,v!0|3n7,Such v!0|3n7 dedication shows,N,Nathan
+,voice,v0ice,N0body needs to hear your loud v0ice anymore.,N,Zhaoyan
+,volunteering,vol*nteering,He spends his weekends vol*nteering at a local shelter.,N,Zhaoyan
+,waiting,w@iting,Everyone's waiting for you to st@rt making sense.,N,Zhaoyan
+,wankstain,w*nkstain,Nobody likes a pathetic w*nkstain like you.,O,Zhaoyan
+,wankstain,wanckstain,Nobody likes a pathetic wanckstain like you.,O,Zhaoyan
+,warrior,w@rr!0r,Being a w@rr!0r through this challenge,N,Nathan
+,warrior,w@rr!0r,Being a w@rr!0r today,N,Nathan
+,warrior,w@rr!0r,Being a w@rr!0r at work,N,Nathan
+,warrior,w@rr!0r,Being a w@rr!0r for the team,N,Nathan
+,warrior,w@rr!0r,Being a w@rr!0r for progress,N,Nathan
+,waste,w@ste,You're a complete w@ste of space.,N,Zhaoyan
+,waste,w@573,You're just a w@573 of time,O,Nathan
+,waste,w@st3,What a w@st3 of potential,O,Nathan
+,waste,w@573,Complete w@573 of space,O,Nathan
+,waste,w@st3,Total w@st3 of time,O,Nathan
+,waste,w@st3,Total w@st3 of resources,O,Nathan
+,waste,w@ste,Total w@ste of effort,O,Nathan
+,weak,w3@k,Being w3@k minded as usual,O,Nathan
+,weak,w3@k,Such w3@k performance today,O,Nathan
+,weak,we@k,Such we@k performance again,O,Nathan
+,weak,w3@k,Such w3@k mindset,O,Nathan
+,weak,w3@k,Such w3@k effort,O,Nathan
+,weak,w3@k,Such w3@k performance,O,Nathan
+,weak,w3@k,Such w3@k performance again,O,Nathan
+,weak,w3@k,Such w3@k mindset shown,O,Nathan
+,weirdo,w3irdo,"Just face it, you're nothing but a w3irdo.",O,Zhaoyan
+,whore,₩|-|@r3,She was known to be a ₩|-|@r3 in her previous school. ,O,Zhi Lin
+,whore,₩|-|@r3,That ₩|-|@r3 is a quicklearner if you get what I mean.,O,Zhi Lin
+,whore,₩|-|@r3,I can't stand that ₩|-|@r3,O,Zhi Lin
+,whore,hor,The new girl is a hor. ,O,Zhi Lin
+,whore,hor,I was randomly assigned to be in the same group as that hor. ,O,Zhi Lin
+,whore,hor,Don't get near her; that hor probably has disease.,O,Zhi Lin
+,whore,hoar ,He is so lucky to have that little hoar by his side all the time.,O,Zhi Lin
+,whore,hoar ,The hoar just arrived to the party.,O,Zhi Lin
+,whore,wh0re,Everyone knows you're a wh0re for attention.,O,Zhaoyan
+,whore,whoree,Everyone sees you're a whoree for attention.,O,Zhaoyan
+,wicked,w!ck3d,Your w!ck3d strategy worked,N,Nathan
+,wicked,w!ck3d,Such w!ck3d problem-solving skills,N,Nathan
+,wicked,w!ck3d,Such w!ck3d programming skills,N,Nathan
+,wicker,w*!ker,The basket was made of woven w*!ker,N,Khadija
+,witch,bltch,She was a scary bltch riding her broom in the fullmoon,N,Khadija
+,witch,bltch,The bltch cast a mysterious spell that made the forest come alive.,N,Khadija
+,witch,bltch,"They say that a bltch’s potion can either heal or harm, depending on her intent",N,Khadija
+,witch,b1tch,That b1tch almost killed me thankfully i had holy water on me,N,Khadija
+,witch,birch,stop lying you birch we found your hidden book,N,Khadija
+,witch,bltch,That bltch has everyone under her nasty spell.,N,Khadija
+,witch,bltch,Everyone knows that bltch is just a fake.,N,Khadija
+,wonderful,w0nd3rfu|,Being w0nd3rfu| to everyone,N,Nathan
+,wonderful,w0nd3rful,Being w0nd3rful to the team,N,Nathan
+,worthless,w0rthless,You are absolutely w0rthless to everyone.,N,Zhaoyan
+,worthless,w0r7h|355,Feeling w0r7h|355 at my job,O,Nathan
+,worthless,w0r7hl3ss,Such w0r7hl3ss effort today,O,Nathan
+,worthless,w0rthl3ss,Being w0rthl3ss at your job,O,Nathan
+,worthless,w0r7h|3ss,Such w0r7h|3ss effort,O,Nathan
+,worthless,w0r7hl3ss,Your w0r7hl3ss contribution,O,Nathan
+,worthless,w0rthl3ss,Being w0rthl3ss again,O,Nathan
+,worthless,w0rth|3ss,Your w0rth|3ss effort shows,O,Nathan
+,worthless,w0rthl3ss,Your w0rthl3ss contribution,O,Nathan
+,worthless,w0rth,Your w0rth is zero,O,Nathan
+,wretched,wr37ch3d,Such wr37ch3d effort again,O,Nathan
+,wussy ,wooshee ,I want to see that wooshee's reaction to this game. ,O,Zhi Lin
+,wussy ,wooshee ,I wanna beat that wooshee up ,O,Zhi Lin
+,zero,0,score no 0s this time. ,N,Zhi Lin
+,FALSE,f@lse,Quit with your f@lse attitude; we all see through it.,N,Zhaoyan
